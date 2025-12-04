@@ -1,1 +1,1104 @@
-﻿[{"pregunta": "¿Año sexo completo?","a": "1978","b": "1979","c": "1980","d": "1981","respuesta": "a","tema": "sexo","fid": "1"},{"pregunta": "El principio de solidaridad del Estado, consagrado en el artículo 2 de la Constitución, se garantiza, entre otras vías, mediante la constitución de un Fondo con destino a gastos de inversión. Según el artículo 158.2 CE ¿Qué denominación recibe este Fondo?","a": "Fondo de Cohesión Interterritorial.","b": "Fondo de Desarrollo Regional y Autonómico.","c": "Fondo de Inversión Estratégica Interregional.","d": "Fondo de Compensación Interterritorial.","respuesta": "d","tema": "sexo2","fid": "2"},{"pregunta": "","a": "","b": "","c": "","d": "","respuesta": "","tema": "","fid": ""}]
+{
+  "preguntas": [
+    {
+      "pregunta": "Según el artículo 10 de la Constitución Española, constituye el fundamento del orden público y de la paz social, el/la/los:",
+      "a": "Estado social y democrático de derecho.",
+      "b": "Libertad, justicia, igualdad y pluralismo político.",
+      "c": "Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad Jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+      "d": "Dignidad de la persona, derechos inviolables que le son inherentes, libre desarrollo de la personalidad, respeto a la ley y a los derechos de los demás.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD163",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De las siguientes afirmaciones señale la correcta en relación con el procedimiento de “habeas corpus”, regulado en el artículo 17.4 de la Constitución Española:",
+      "a": "Impide que la detención de una persona se prolongue más de 72 horas.",
+      "b": "Garantiza al detenido la asistencia de abogado en las diligencias policiales.",
+      "c": "Produce la inmediata puesta a disposición judicial de toda persona detenida ilegalmente.",
+      "d": "Posibilita que la persona detenida no sea obligada a declarar.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD781",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Conforme a lo previsto en el artículo 85 de la Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía, el órgano supremo de colaboración entre la Comunidad Autónoma de Andalucía y los gobiernos locales es:",
+      "a": "El Consejo Andaluz de Cooperación Local.",
+      "b": "El Consejo Andaluz de Concertación Local.",
+      "c": "El Consejo Andaluz de Gobiernos Locales.",
+      "d": "El Consejo Andaluz de Coordinación de competencias con las Entidades Locales.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD830",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "¿Quién ejerce el control de la actividad de los órganos de las Comunidades Autónomas según el artículo 153 de la Constitución Española?",
+      "a": "Las Cortes Generales en Pleno, el Tribunal Económico Administrativo, el Defensor del Pueblo, el Tribunal de Cuentas y la Jurisdicción Contenciosa Administrativa.",
+      "b": "El Presidente del Gobierno, oído el Presidente de la Comunidad Autónoma, las Cortes Generales, el Defensor del Pueblo y el Tribunal Constitucional.",
+      "c": "El Delegado del Gobierno en la Comunidad Autónoma, el Senado como cámara de representación territorial y el Tribunal de Cuentas.",
+      "d": "El Tribunal Constitucional, el Gobierno, la Jurisdicción Contenciosa Administrativa y el Tribunal de Cuentas.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD394",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Según el artículo 42, de la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía (EAA), corresponde a la Comunidad Autónoma de Andalucía, las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el Título II de la citada norma. Las competencias exclusivas, comprenden:",
+      "a": "La potestad legislativa, reglamentaria y la función ejecutiva, en el marco de las bases que fije el Estado en normas con rango de Ley.",
+      "b": "La potestad legislativa, reglamentaria y la función ejecutiva íntegramente, y sin perjuicio de las competencias atribuidas al Estado en la Constitución.",
+      "c": "La función ejecutiva que incluye la potestad reglamentaria de su propia administración.",
+      "d": "El desarrollo y la ejecución de la normativa de la Unión Europea.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD794",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme a lo dispuesto en el artículo 38 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la sede electrónica:",
+      "a": "Es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.",
+      "b": "No corresponde a las Administraciones Públicas determinar las condiciones e instrumentos de creación de las sedes electrónicas.",
+      "c": "Es el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.",
+      "d": "La a. y la b. son correctas.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD480",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Si no recae resolución expresa en un procedimiento de responsabilidad patrimonial, de acuerdo con el artículo 91.3 de la Ley 39/2015, de 1 de octubre:",
+      "a": "Se podrá entender estimada la solicitud de indemnización",
+      "b": "Se podrá entender que la resolución es contraria a la indemnización del particular.",
+      "c": "Se podrá plantear la correspondiente reclamación",
+      "d": "Dará lugar a indemnización por daños y perjuicios.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD862",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De conformidad con el artículo 34 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público en caso de responsabilidad patrimonial de una Administración Pública La indemnización se calculará con arreglo a los criterios de valoración establecidos en:",
+      "a": "La legislación mercantil.",
+      "b": "La legislación civil.",
+      "c": "La legislación penal.",
+      "d": "La legislación fiscal, de expropiación forzosa y demás normas aplicables, ponderándose, en su caso, las valoraciones predominantes en el mercado.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD003",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De conformidad con el artículo 20 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+      "a": "3.538.000 euros.",
+      "b": "3.382.000 euros.",
+      "c": "5.538.000 euros.",
+      "d": "5.382.000 euros.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD443",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tTendrán la consideración de contratos privados según el artículo 26 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+      "a": "Los celebrados por entidades del sector público que reúnan la condición de poder adjudicador.",
+      "b": "Los celebrados por entidades del sector público que siendo poder adjudicador reúnan la condición de Administraciones Públicas.",
+      "c": "Los contratos de obra, concesión de obra, concesión de servicios, suministros y servicios, siempre que se celebren por una Administración Pública.",
+      "d": "Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD789",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tConforme a lo previsto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿a la selección de qué personal de las Administraciones Públicas nos estamos refiriendo cuando señalamos que su designación atenderá a principios de mérito y capacidad y a criterios de idoneidad?",
+      "a": "A la del personal funcionario de carrera.",
+      "b": "A la de los funcionarios de la Administración Local con habilitación de carácter nacional.",
+      "c": "A la del personal directivo.",
+      "d": "A la del personal laboral.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD950",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t¿Cuál de los siguientes no es un límite al derecho de acceso a la información pública, según el artículo 14 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "a": "La prevención, investigación y sanción de los ilícitos penales, administrativos o disciplinarios.",
+      "b": "Las funciones administrativas de vigilancia, inspección y control.",
+      "c": "La protección del medio ambiente.",
+      "d": "Las medidas de protección integral contra la violencia de género.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD609",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 18 de la Ley 19/2013, de 9 de diciembre, se inadmitirán a trámite, mediante resolución motivada, las solicitudes:",
+      "a": "Que se refieran a información contenida en procedimientos administrativos terminados.",
+      "b": "Referidas a información que tenga carácter auxiliar o de apoyo.",
+      "c": "Relativas a información para cuya divulgación no sea necesaria una acción previa de reelaboración.",
+      "d": "Que no sean manifiestamente repetitivas o no tengan carácter abusivo no justificado.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD758",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tLa Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, tiene por objeto garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo:",
+      "a": "9.3 de la Constitución.",
+      "b": "18.4 de la Constitución.",
+      "c": "20.5 de la Constitución.",
+      "d": "14 de la Constitución.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD439",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 14 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, al ejercer el derecho de rectificación el/la afectado/a deberá indicar en su solicitud:",
+      "a": "Únicamente a que datos se refiere.",
+      "b": "Únicamente la corrección que haya de realizarse.",
+      "c": "A qué datos se refiere y la corrección que haya de realizarse.",
+      "d": "A qué datos se refiere, la corrección que haya de realizarse y el lugar en el que haya de publicarse la corrección.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD823",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 38 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, se constituirá un comité de seguridad y salud en todas las empresas o centros de trabajo que cuenten con:",
+      "a": "25 o más trabajadores.",
+      "b": "50 o más trabajadores.",
+      "c": "100 o más trabajadores.",
+      "d": "250 o más trabajadores.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD946",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 3 de la Ley 12/2007, de 26 de noviembre, para la Promoción de la Igualdad de Género de Andalucía, se entiende por discriminación directa por razón de sexo:",
+      "a": "La situación que garantice la presencia de mujeres y hombres de forma que, en el conjunto de personas a que se refiera, cada sexo no supere el sesenta por ciento ni sea menos del cuarenta por ciento.",
+      "b": "La situación en que la aplicación de una disposición, criterio o práctica aparentemente neutros pone a las personas de un sexo en desventaja particular con respecto a las personas del otro.",
+      "c": "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación equiparable.",
+      "d": "La situación en que la aplicación de una disposición, criterio o práctica aparentemente neutros pone a las personas de un sexo en ventaja particular con respecto a las personas del otro.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD765",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tLa Carta Europea de la Autonomía Local se firmó:",
+      "a": "16 de octubre de 1986.",
+      "b": "15 de octubre de 1985.",
+      "c": "16 de octubre de 1985.",
+      "d": "15 de octubre de 1986.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD161",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEl artículo 3 de la Carta Europea de la Autonomía Local define el concepto de la autonomía local como:",
+      "a": "El derecho y la obligación de las Entidades locales de ordenar y gestionar una parte importante de los asuntos públicos, en el marco de la Ley, bajo su propia responsabilidad y en beneficio de sus habitantes.",
+      "b": "El derecho y la capacidad efectiva de las Entidades locales de ordenar y gestionar una parte importante de los asuntos públicos, en el marco de la Ley, bajo su propia responsabilidad y en beneficio de sus habitantes.",
+      "c": "El derecho y la capacidad efectiva de las Entidades locales de ordenar y gestionar una parte importante de los asuntos públicos y sociales, en el marco de la",
+      "d": "Ninguna de las respuestas es correcta.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD848",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEn qué isla del archipiélago de las Gadeiras se encontraba el primitivo núcleo urbano de Gadir.",
+      "a": "Antípolis.",
+      "b": "Kotinoussa.",
+      "c": "Antigua Gadeira.",
+      "d": "Erytheia.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD904",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tEl grabado que muestra la vista de Cádiz de 1513 custodiada en el Archivo de",
+      "a": "Desde la perspectiva de la Bahía,donde se aprecia el recinto amurallado medieval, el Castillo de la Villa y la antigua Catedral, la plaza de la Corredera, el arrabal de Santa María y el caserío de poniente.",
+      "b": "Desde el Campo del Sur donde se aprecia el recinto amurallado medieval con el Castillo de la Villa, la Catedral nueva y parte del arrabal de Santa María.",
+      "c": "Desde la perspectiva la Bahía donde se aprecia el recinto amurallado medieval con el Castillo de la Villa y la antigua Catedral, sin el arrabal de Santa María ya que éste es de fecha posterior.",
+      "d": "Desde la perspectiva de la playa de la Caleta, donde se aprecia el núcleo urbano en primer término,flanqueado por los Castillos de Santa Catalina y San Sebastián.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD286",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\t¿En qué año se realiza el traslado de la Casa de Contratación a Cádiz?",
+      "a": "1771",
+      "b": "1722",
+      "c": "1717",
+      "d": "La Casa de Contratación nunca se trasladó a Cádiz.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD467",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tCon qué Alcalde y en qué fecha se realizó el derribo de la “primera piedra” de las murallas Cádiz:",
+      "a": "Segismundo Moret y Prendergast, el 3 de marzo 1906.",
+      "b": "Ramón de Carranza y Fernández de la Reguera, 3 de Marzo 1930.",
+      "c": "Fermín Salvochea y Álvarez, el 3 de marzo 1873.",
+      "d": "Cayetano del Toro y Quartiellers, el 3 de marzo 1906.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD057",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSeñala cuál de estas afirmaciones no se corresponde con la tipología tradicional de la arquitectura residencial gaditana del XVII.",
+      "a": "Los forjados están compuestos por vigas de madera y entablamento de ladrillo por tabla sobre alfarjías de madera.",
+      "b": "Los aljibes surgen como elemento capaz de almacenar el agua de lluvia.",
+      "c": "La planta noble, de mayor altura, se sitúa en la última planta del edificio, aprovechando las mejores condiciones de soleamiento, y normalmente albergaba la vivienda del propietario.",
+      "d": "El zaguán de entrada se sitúa en la crujía de fachada de planta baja y da acceso al patio principal que normalmente contiene la escalera que comunica con las galerías perimetrales.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD042",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tUna de estas características no se corresponde con la morfología del tejido parcelario del casco histórico:",
+      "a": "Manzana cuajada con ocupación intensiva del parcelario.",
+      "b": "Trazado viario interno con relativa homogeneidad en los anchos de calle que oscilan entre 4-5m.",
+      "c": "Altura de la edificación uniforme entre 3-4 plantas.",
+      "d": "Predominio de la tipología del bloque exento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD226",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tLas Áreas de Planeamiento de desarrollo establecidas en el PGOU son:",
+      "a": "Plan Especial del Puerto y Plan Especial de la Zona Franca.",
+      "b": "Plan Especial de protección del casco histórico y Plan Especial del Puerto.",
+      "c": "Plan Especial de Fortificaciones, Plan Especial del entorno de las Puertas de Tierra y Plan Especial del Puerto.",
+      "d": "Plan Especial de la Zona Franca y Plan Especial del Puerto.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD659",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tPara que una vivienda de 70 m2 útiles del casco antiguo alcance la condición de vivienda exterior debe tener al menos:",
+      "a": "Una pieza habitable con un hueco que ventile a patio principal.",
+      "b": "Una pieza habitable con un hueco que ventile a calle.",
+      "c": "Dos piezas habitables con huecos que ventilen a patio de parcela, siempre que en el patio pueda inscribirse un círculo de diámetro no inferior a 3.00 m.",
+      "d": "Dos piezas habitables con huecos que ventilen a patio principal.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD507",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\t¿Cuál de las siguientes afirmaciones es la correcta?",
+      "a": "Uso complementario es aquel que bajo determinadas condiciones puede transformarse en el uso cualificado del ámbito o el dominante en una parcela.",
+      "b": "Uso compatible es el que debe acompañar a otro uso, porque así lo exijan las determinaciones del planeamiento, la normativa sectorial o la funcionalidad del uso.",
+      "c": "Uso alternativo es aquel que acompaña al uso cualificado admitido por el planeamiento en un ámbito determinado.",
+      "d": "Uso cualificado es aquel al que se destina el edificio o parcela por este Plan o por los instrumentos de ordenación que lo desarrollen. En áreas de ordenanza coincide con el uso global de la misma.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD675",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\t¿Cuál es la superficie útil que debe tener la estancia-comedor-cocina de una vivienda de dos dormitorios en obras de rehabilitación?",
+      "a": "18 m2",
+      "b": "20 m2",
+      "c": "16 m2",
+      "d": "22 m2",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD023",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tLas condiciones de habitabilidad del uso comercial se establecen en función de:",
+      "a": "La superficie construida del local.",
+      "b": "La superficie útil del local.",
+      "c": "La superficie de venta.",
+      "d": "Del aforo.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD522",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tLa dotación mínima obligatoria de plazas de aparcamiento para el uso residencial con destino vivienda es:",
+      "a": "1 plaza por cada 100 m2 de superficie edificada.",
+      "b": "1 plaza por vivienda de hasta 3 dormitorios y 1,5 plazas por vivienda de más de 3 dormitorios.",
+      "c": "1plaza  por cada 150 m2 de superficie edificada.",
+      "d": "1 plaza para los estudios de un dormitorio, y 1,5 plazas por vivienda de más de un dormitorio.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD941",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\t¿Cuál de estas actuaciones no precisan el preceptivo dictamen de la Comisión Municipal de Patrimonio con carácter previo a su autorización?",
+      "a": "Los cambios de uso en locales pertenecientes a inmuebles Monumentos declarados Bien de Interés cultural.",
+      "b": "El planeamiento de desarrollo que pueda redactarse en el ámbito del Casco Histórico.",
+      "c": "La actuación en fachadas de edificios protegidos situados en el ámbito del Casco Histórico, y que no pertenezcan a un entorno BIC.",
+      "d": "d) Obras de ampliación en altura en el ámbito del Casco Histórico con modificaciones en lo que respecta a la altura de cornisa y a la posición de forjados.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD325",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tLos bienes adscritos al subcatálogo de Edificaciones protegidas se agrupan en cuatro categorías:",
+      "a": "Catálogo de Patrimonio Arquitectónico, catálogo de Elementos, catálogo de Patrimonio etnológico y catálogo de Patrimonio Arqueológico.",
+      "b": "Arquitectura residencial, arquitectura Civil, arquitectura Militar y arquitectura Religiosa.",
+      "c": "Grado 0 ( Bienes Monumentales), grado 1 ( Bienes Singulares), grado 2 ( Bienes de Interés Preferente) y grado 3 ( Bienes de Interés ambiental).",
+      "d": "Grado A (intervención intensiva), grado B (intervención parcial), grado C ( intervención mínima), grado D (escasa entidad).",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD719",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEn los edificios de la categoría de Arquitectura residencial histórica se permiten en determinadas circunstancias:",
+      "a": "La ocupación de patios de parcela.",
+      "b": "El empleo de otros materiales distinto a la madera en las carpinterías de los patios principales.",
+      "c": "Los revocos pintados en colores saturados.",
+      "d": "Los vuelos de balcones de 1.00m respecto al plano de fachada o 1/10 del ancho de la calle.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD269",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tLas Actividades de Interés Etnológico inscritas en el Catalogo General del Patrimonio Histórico Andaluz como Bien de interés Cultural, son:",
+      "a": "El Carnaval de Cádiz, la Conmemoración del maremoto de Cádiz de 1755 y el legado patrimonial de las Cortes  y la Constitución de 1812.",
+      "b": "El Carnaval de Cádiz y el legado patrimonial de las Cortes  y la Constitución de 1812.",
+      "c": "El legado patrimonial de las Cortes  y la Constitución de 1812.",
+      "d": "El Carnaval de Cádiz y la Conmemoración del maremoto de Cádiz de 1755.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD014",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tLas actuaciones en las Torres miradores del Catalogo de elementos conllevará la siguiente intervención arqueológica de las estructuras emergentes:",
+      "a": "Grado A o intensiva.",
+      "b": "Grado B o parcial.",
+      "c": "Grado C o mínimo.",
+      "d": "Grado D o escasa entidad.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD499",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún la Ley 9/2017 una Norma es:",
+      "a": "Una especificación técnica aprobada por un organismo de normalización reconocido para una aplicación repetida o continuada cuyo cumplimiento sea obligatorio.",
+      "b": "Cualquier documento elaborado por los organismos europeos de normalización, distinto de las normas europeas, con arreglo a procedimientos adaptados a la evolución de las necesidades del mercado.",
+      "c": "Especificación técnica en el ámbito de las TIC elaborada de conformidad con los artículos 13 y 14 del Reglamento (UE) nº 305/2011, del Parlamento Europeo y del Consejo.",
+      "d": "Una especificación técnica aprobada por un organismo de normalización reconocido para una aplicación repetida o continuada cuyo cumplimiento no sea obligatorio.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD244",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tEl valor estimado del contrato según la Ley 9/2017, será determinado:",
+      "a": "En el caso de los contratos de obras, suministros y servicios el órgano de contratación tomará el importe total, sin incluir el Impuesto sobre el Valor añadido, pagadero según sus estimaciones.",
+      "b": "En el caso de los contratos de obras, suministros y servicios el órgano de contratación tomará el importe total, incluyendo el Impuesto sobre el Valor añadido, pagadero según sus estimaciones.",
+      "c": "En el caso de los contratos de obras, suministros y servicios el órgano de contratación tomará el importe de ejecución material, pagadero según sus estimaciones.",
+      "d": "En el caso de los contratos de obras, suministros y servicios el órgano de contratación tomará el importe total, incluyendo el Impuesto sobre el Valor añadido y el 10% de una posible liquidación, pagadero según sus estimaciones.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD873",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tEn relación con la exigencia de garantía exigible en los contratos celebrados con las Administraciones públicas:",
+      "a": "Siempre procederá la exigencia de garantía provisional, sin que en ningún caso pueda superar el 3 por 100 del valor estimado del contrato.",
+      "b": "La garantía provisional se extinguirá automáticamente y será devuelta a los licitadores inmediatamente después de la perfección del contrato. En todo caso, la garantía provisional se devolverá al licitador seleccionado como adjudicatario cuando haya constituido la garantía definitiva, pudiendo aplicar el importe de la garantía provisional a la definitiva o proceder a una nueva constitución de esta última.",
+      "c": "Se exigirá una garantía definitiva a todos los licitadores del 5 por 100 del precio final ofertado por aquellos, excluido el Impuesto sobre el Valor Añadido.",
+      "d": "En ningún caso podrá superar el 5 por 100 del precio final ofertado por el licitador que presentó la mejor oferta.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD731",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEn relación con el artículo 136 de la LCSP “Plazo de presentación de las solicitudes de participación y de las proposiciones” se considerará modificación significativa de los pliegos la que afecte a:",
+      "a": "La clasificación requerida",
+      "b": "El importe y plazo del contrato",
+      "c": "Las obligaciones del adjudicatario",
+      "d": "Todas las anteriores",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD747",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tsegún el art 159 de la LCSP “procedimiento abierto simplificado”, los órganos de contratación podrán acordar la utilización de un procedimiento abierto simplificado en los contratos de obras si:",
+      "a": "Su valor estimado es igual o menor a 2.000.000 de euros y entre los criterios de adjudicación previstos no haya ninguno evaluable mediante juicio de valor o de haberlos su ponderación no supere el 50% del total.",
+      "b": "Su valor estimado es igual o menor a 580.000 euros y entre los criterios de adjudicación previstos no haya ninguno evaluable mediante juicio de valor.",
+      "c": "La LCSP no recoge el procedimiento abierto simplificado.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD614",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSegún el art 193. “Demora en la ejecución”, cuando el contratista por causas imputables al mismo hubiere incurrido en demora respecto al cumplimiento del plazo total, la Administración podrá, atendida las circunstancias del caso:",
+      "a": "Resolver el contrato o imponer penalidades semanales en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato , IVA excluido",
+      "b": "Resolver el contrato o imponer penalidades diarias en la proporción de 0,60 euros por cada 1.00 euros del precio del contrato, IVA excluido",
+      "c": "Resolver el contrato o imponer penalidades diarias en la proporción de 0,60 euros por cada 1.00 euros del precio del contrato, IVA incluido",
+      "d": "Solo resolver el contrato sin que quepa la imposición de penalizar al contratista",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD964",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tNo es causa de resolución del contrato:",
+      "a": "La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento",
+      "b": "La demora en el cumplimiento de los plazos por parte del contratista",
+      "c": "El incumplimiento de la obligación principal del contrato",
+      "d": "La aparición de unidades de obra no previstas en el contrato",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD546",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tEn relación con las modificaciones no previstas en el pliego de cláusulas administrativas particulares, debe encontrar justificación en al menos uno de los supuestos siguientes:",
+      "a": "Cuando deviniera necesario añadir obras, suministros o servicios adicionales si aislada o conjuntamente con otras modificaciones no exceda del 100% de su precio inicial.",
+      "b": "Que la necesidad de la modificación se derive de circunstancias que una Administración diligente hubiera podido prever",
+      "c": "Cuando las modificaciones no sean sustanciales.",
+      "d": "Cuando las modificaciones sean sustanciales",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD966",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el art 233 ”Contenido de los proyectos y responsabilidad derivada de su elaboración”, Cuál de las siguientes cuestiones no debe comprender un proyecto:",
+      "a": "Una memoria en la que se describa el objeto de las obras",
+      "b": "Los planos de conjunto y de detalle necesarios para que la obra quede perfectamente definida",
+      "c": "El pliego de condiciones administrativas particulares",
+      "d": "El estudio de seguridad y saludo, en su caso, el estudio básico de seguridad y salud en los términos previstos en las normas de seguridad y salud en las obras.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD493",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tLas competencias que no son delegables a las entidades locales, según el art. 40 de la Ley 14/2007, de 26 de Noviembre, del Patrimonio Histórico de Andalucía, son aquellas que afecten a las inmuebles que pertenezcan a las categorías enumeradas en los puntos a)b)c)d). Una de ellas, no es de aplicación en Cádiz, ya que no existe ningún BIC de esa categoría. Señala cuál es.",
+      "a": "Monumentos.",
+      "b": "Jardines Históricos.",
+      "c": "Zonas Arqueológicas.",
+      "d": "Las comprendidas en el ámbito territorial vinculado a una actividad etnológica.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD465",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún el Real Decreto 1492/2011, de 24 de octubre, por el que se aprueba el Reglamento de valoraciones de la Ley de Suelo, la tasación conjunta del suelo y de la edificación por el método de comparación requiere un conjunto estadísticamente significativo de transacciones reales o de ofertas cuyo número sea igual o superior a:",
+      "a": "7 muestras comparables",
+      "b": "6 muestras comparables",
+      "c": "5 muestras comparables",
+      "d": "3 muestras comparables",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD686",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 35 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, relativo a los criterios generales para la valoración de inmuebles, dispone que:",
+      "a": "El valor del suelo corresponde a su pleno dominio, libre de toda carga, gravamen o derecho limitativo de la propiedad salvo que tales limitaciones de la propiedad figuren inscritas en el Registro de la Propiedad.",
+      "b": "El valor del suelo corresponde a su pleno dominio, libre de toda carga, gravamen o derecho limitativo de la propiedad.",
+      "c": "El valor del suelo corresponde a su pleno dominio, libre de toda carga, gravamen o derecho limitativo de la propiedad salvo hipoteca publica preferente.",
+      "d": "El valor del suelo corresponde a su pleno dominio, libre de toda carga, gravamen o derecho limitativo de la propiedad excepto los tributos públicos que graven la propiedad.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD867",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, realizar la edificación en las condiciones y plazos fijados por la ordenación urbanística, una vez que el suelo tenga la condición de solar.",
+      "a": "Es un derecho vinculado a la propiedad del suelo urbano",
+      "b": "Es un deber vinculado a la propiedad del suelo con carácter general",
+      "c": "Es un derecho vinculado a la propiedad del suelo con carácter general",
+      "d": "Es un deber vinculado a la propiedad de suelo urbano",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD427",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSegún la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, en cada área de reparto el aprovechamiento medio vendrá determinado por el cociente entre:",
+      "a": "la suma de los aprovechamientos objetivos de los ámbitos que pertenecen al área y la superficie total de ésta, incluyendo la superficie de los terrenos pertenecientes a los sistemas generales o locales ya obtenidas y afectadas a su destino.",
+      "b": "la suma de los aprovechamientos subjetivos de los ámbitos que pertenecen al área y la superficie total de ésta, descontando la superficie de los terrenos pertenecientes a los sistemas generales o locales ya obtenidas y afectadas a su destino.",
+      "c": "la suma de los aprovechamientos objetivos de los ámbitos que pertenecen al área y la superficie total de ésta, descontando la superficie de los terrenos pertenecientes a los sistemas generales o locales ya obtenidas y afectadas a su destino.",
+      "d": "la suma de los aprovechamientos subjetivos de los ámbitos que pertenecen al área y la superficie total de ésta, incluyendo la superficie de los terrenos pertenecientes a los sistemas generales o locales ya obtenidas y afectadas a su destino.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD981",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el Título IV de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, no forma parte del modelo general de ordenación del municipio:",
+      "a": "La delimitación y la normativa general de las categorías de suelo rústico, así como, en su caso, de los ámbitos de Hábitat Rural Diseminado.",
+      "b": "El esquema de los elementos estructurantes y del futuro desarrollo urbano, que comprenderá, entre otros, los sistemas generales de espacios libres y zonas verdes, de movilidad y de equipamientos comunitarios, así como las redes de infraestructuras y servicios conforme a los estándares que se establezcan reglamentariamente.",
+      "c": "La propuesta de delimitación de la actuación o actuaciones de transformación de nueva urbanización que se estimen convenientes o necesarias.",
+      "d": "La delimitación de los bienes y espacios que deban contar con una singular protección por su valor histórico, cultural, urbanístico o arquitectónico.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD197",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tConforme al artículo 82 del Decreto 550/2022 de 29 de noviembre por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, la superficie mínima de dotación de sistema general de espacios libres y zonas verdes podrá reducirse justificadamente en un 50%, salvo que el instrumento de ordenación territorial disponga otra regulación:",
+      "a": "en municipios de menos de 10.000 habitantes y en aquellos cuyo término municipal tenga suelo rústico especialmente protegido por legislación sectorial y/o preservado por la ordenación territorial o urbanística en un porcentaje superior al 50% de su superficie y disponga de características adecuadas para cumplir su función ambiental y de esparcimiento de la población.",
+      "b": "en municipios de menos de 5.000 habitantes y en aquellos cuyo término municipal tenga suelo rústico especialmente protegido por legislación sectorial y/o preservado por la ordenación territorial o urbanística en un porcentaje superior al 75% de su superficie y disponga de características adecuadas para cumplir su función ambiental y de esparcimiento de la población.",
+      "c": "en municipios de menos de 7.000 habitantes y en aquellos cuyo término municipal tenga suelo rústico especialmente protegido por legislación sectorial y/o preservado por la ordenación territorial o urbanística en un porcentaje superior al 50% de su superficie y disponga de características adecuadas para cumplir su función ambiental y de esparcimiento de la población.",
+      "d": "en municipios de menos de 2.500 habitantes y en aquellos cuyo término municipal tenga suelo rústico especialmente protegido por legislación sectorial y/o preservado por la ordenación territorial o urbanística en un porcentaje superior al 75% de su superficie y disponga de características adecuadas para cumplir su función ambiental y de esparcimiento de la población.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD148",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tConforme al artículo 94 del Decreto 550/2022 de 29 de noviembre por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, un estudio de detalle podrá tramitarse:",
+      "a": "Solamente en ámbitos de suelo urbano",
+      "b": "Solamente en ámbitos de suelo rustico",
+      "c": "Desde la entrada en vigor de la LISTA no pueden tramitarse",
+      "d": "En suelo urbano y suelo rústico",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD428",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tConforme al artículo 110 del Decreto 550/2022 de 29 de noviembre por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, la publicación de los instrumentos de ordenación urbanística deberá contener:",
+      "a": "el acuerdo de aprobación inicial de los instrumentos de ordenación urbanística, junto al articulado de las normas urbanísticas, será publicado en el Boletín Oficial que corresponda y en el portal de la Administración urbanística.",
+      "b": "el acuerdo de aprobación definitiva de los instrumentos de ordenación urbanística, junto al articulado de las normas urbanísticas que tengan el carácter de norma, será publicado en el Boletín Oficial que corresponda y en el portal de la Administración urbanística.",
+      "c": "el acuerdo de aprobación definitiva de los instrumentos de ordenación urbanística, junto al articulado de las normas urbanísticas, será publicado en el Boletín Oficial que corresponda y en el portal de la Administración urbanística.",
+      "d": "el acuerdo de aprobación definitiva de los instrumentos de ordenación urbanística, junto al articulado de las normas urbanísticas, será publicado en el Boletín Oficial de la Provincia y en el tablón de anuncios del ayuntamiento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD812",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tConforme al artículo 92 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, en los procedimientos iniciados de oficio, el plazo máximo para la aprobación del proyecto de reparcelación será de:",
+      "a": "4 meses desde el acuerdo por el que se somete a información pública. El vencimiento del plazo máximo sin haberse acordado resolución expresa sobre la aprobación del proyecto de reparcelación producirá la caducidad del procedimiento.",
+      "b": "4 meses desde el acuerdo por el que se somete a información pública. El vencimiento del plazo máximo sin haberse acordado resolución expresa sobre la aprobación del proyecto de reparcelación producirá la aprobación por silencio administrativo.",
+      "c": "3 meses desde el acuerdo por el que se somete a información pública. El vencimiento del plazo máximo sin haberse acordado resolución expresa sobre la aprobación del proyecto de reparcelación producirá la aprobación por silencio administrativo.",
+      "d": "3 meses desde el acuerdo por el que se somete a información pública. El vencimiento del plazo máximo sin haberse acordado resolución expresa sobre la aprobación del proyecto de reparcelación producirá la caducidad del procedimiento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD315",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tEn una unidad de ejecución de suelo urbano de la ciudad de Cádiz, que cuenta con proyecto de urbanización aprobado con anterioridad a la entrada en vigor de la LISTA: Las obras de urbanización podrán recepcionarse parcialmente, previo informe técnico de los servicios municipales:",
+      "a": "Solo cuando constituyan una unidad de ejecución.",
+      "b": "Solo cuando constituyan una fase de urbanización.",
+      "c": "Solo cuando constituyan una unidad de ejecución o una fase de urbanización.",
+      "d": "Cuando conformen un ámbito directamente utilizable, aunque no constituya una fase de urbanización.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD539",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSegún la LISTA, en ausencia de previsión en los instrumentos urbanísticos correspondientes, la delimitación de la unidad de ejecución y la elección del sistema de actuación se aprobará por el Ayuntamiento:",
+      "a": "siempre de oficio",
+      "b": "previa información pública y audiencia a las personas propietarias afectadas por plazo de un mes, debiéndose publicar en el Boletín Oficial de la Provincia.",
+      "c": "El plazo máximo para resolver el procedimiento será de seis meses.",
+      "d": "La falta de notificación de la resolución expresa dentro del plazo máximo indicado tendrá efecto estimatorio.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD124",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún la LISTA, el sistema de compensación quedará establecido:",
+      "a": "Con la aprobación de la iniciativa formulada por la persona propietaria única o con la suscripción de un convenio urbanístico con la totalidad de las personas propietarias.",
+      "b": "Con el otorgamiento de la escritura de constitución de la Junta de Compensación o, en los casos previstos en el artículo 103.7.b), con la aprobación de las bases de actuación.",
+      "c": "Con la suscripción de convenio urbanístico con el agente urbanizador tras su selección en pública concurrencia.",
+      "d": "Ninguna de las anteriores es incorrecta.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD885",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tConforme a la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, las personas propietarias podrán participar en la gestión del sistema de actuación por cooperación, integrándose en:",
+      "a": "Junta de Cooperación",
+      "b": "Asociación administrativa que, con carácter consultivo, de auxilio y control meramente informativo, pueda constituirse como entidad urbanística colaboradora.",
+      "c": "Con carácter forzoso en determinados casos.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD504",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún la LISTA, el plazo máximo para la aprobación del proyecto de distribución de cargas de urbanización por la Administración actuante será de:",
+      "a": "Tres meses desde la presentación de la solicitud en el registro electrónico de la Administración u Organismo competente. El vencimiento de dicho plazo sin haberse notificado resolución expresa legitima al interesado o interesados para entenderla aprobada por silencio administrativo.",
+      "b": "Cuatro meses desde la presentación de la solicitud en el registro electrónico de la Administración u Organismo competente. El vencimiento de dicho plazo sin haberse notificado resolución expresa producirá la caducidad del procedimiento.",
+      "c": "Cuatro meses desde la presentación de la solicitud en el registro electrónico de la Administración u Organismo competente. El vencimiento de dicho plazo sin haberse notificado resolución expresa legitima al interesado o interesados para entenderla aprobada por silencio administrativo.",
+      "d": "Tres meses desde la presentación de la solicitud en el registro electrónico de la Administración u Organismo competente. El vencimiento de dicho plazo sin haberse notificado resolución expresa producirá la caducidad del procedimiento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD846",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tConforme a la LISTA, las Administraciones Públicas y demás entidades públicas, así como los particulares, podrán constituir el derecho de superficie en bienes de su propiedad o integrantes del patrimonio público de suelo correspondiente, con destino a cualquiera de los usos permitidos por la ordenación urbanística, cuyo derecho corresponderá al:",
+      "a": "Propietario.",
+      "b": "Adjudicatario.",
+      "c": "Auperficiario.",
+      "d": "Patrimonio público de suelo.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD527",
+      "RESPUESTA": "n"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 136 de la Ley 7/2021 de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía:",
+      "a": "La inclusión en el Registro Municipal de Solares y Edificaciones Ruinosas dará lugar al inicio del cómputo del plazo de seis meses para el comienzo de las obras o, en su caso, la acreditación de las causas de la imposibilidad de la obtención de la licencia o presentación de la declaración responsable. El plazo quedará suspendido con la solicitud de la licencia y se reanudará con la resolución sobre dicha solicitud. Por ministerio de la ley, transcurrido este plazo sin que se hubieran iniciado las obras, la parcela o el solar correspondiente, quedará en situación de ejecución por sustitución.",
+      "b": "La situación de ejecución por sustitución habilitará al Ayuntamiento, salvo que acuerde la expropiación o la ejecución subsidiaria, para convocar y resolver, mediante procedimiento con publicidad y concurrencia, de oficio exclusivamente, un concurso para la venta forzosa para la sustitución de la persona propietaria incumplidora.",
+      "c": "La situación de ejecución por sustitución habilitará al Ayuntamiento, salvo que acuerde la expropiación o la ejecución subsidiaria, para convocar y resolver, mediante procedimiento con publicidad y concurrencia, de oficio o a solicitud de cualquier persona, un concurso para la venta forzosa para la sustitución de la persona propietaria incumplidora. En caso de solicitud de persona interesada, el concurso deberá convocarse en el plazo máximo de dos meses desde la presentación de la solicitud, salvo que en ese plazo la Administración actuante acordara el inicio de procedimiento por expropiación o ejecución subsidiaria.",
+      "d": "La no iniciación, en el plazo fijado al efecto, de la edificación de las parcelas y solares, incluidos los que cuenten con edificación deficiente o inadecuada, comporta, previa audiencia a las personas propietarias por un plazo de 45 días, la declaración de incumplimiento del deber de edificación y la inclusión de la parcela o solar en el Registro Municipal de Solares y Edificaciones Ruinosas. En caso de inicio de las obras antes de dictarse Resolución declarando el incumplimiento, el procedimiento quedará suspendido por el tiempo acordado para su ejecución. La Administración actuante remitirá al Registro de la Propiedad certificación de la Resolución para su constancia por nota al margen de la última inscripción de dominio.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD695",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 138 de la Ley 7/2021 de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, están sometidas a declaración responsable, en el marco de lo establecido en la legislación estatal:",
+      "a": "La realización de obras de escasa entidad constructiva y sencillez técnica que requieran proyecto de acuerdo con la legislación vigente.",
+      "b": "Las obras en edificaciones o instalaciones existentes que sean conformes con la ordenación territorial y urbanística o se encuentren en situación de asimilado a fuera de ordenación, situadas en suelo urbano no sometido a actuaciones de transformación urbanística, siempre que no alteren los parámetros de ocupación y altura, ni conlleven incrementos en la edificabilidad o en el número de viviendas.",
+      "c": "Las obras en edificaciones e instalaciones existentes que sean conformes con la ordenación territorial y urbanística o se encuentren en situación legal de fuera de ordenación, situadas en suelo rústico y que tengan por objeto la mejora de las condiciones de eficiencia energética, la integración de instalaciones de energía renovable o la reducción de su impacto ambiental, siempre que no supongan obras de nueva planta o aumento de la superficie construida.",
+      "d": "La ocupación y utilización en edificaciones existentes que sean conformes con la ordenación vigente o se encuentren en situación de asimilado a fuera de ordenación, situadas en suelo urbano no sometido a actuaciones de transformación urbanística, siempre que no hayan sido objeto de obras.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD633",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 144 de la Ley 7/2021 de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, las personas propietarias de terrenos, instalaciones, construcciones y edificaciones tienen el deber de mantenerlos en condiciones de:",
+      "a": "Seguridad, salubridad, funcionalidad, accesibilidad, eficiencia energética, ornato público y demás que exijan las leyes, realizando los trabajos y obras precisos para conservarlos o rehabilitarlos, aunque para ello sea necesario el uso de espacios libres o de dominio público, a fin de mantener en todo momento las condiciones requeridas para su habitabilidad o uso efectivo.",
+      "b": "Solidez, salubridad, funcionalidad, accesibilidad universal, eficiencia energética, ornato público y demás que exijan las leyes, realizando los trabajos y obras precisos para conservarlos o rehabilitarlos, aunque para ello sea necesario el uso de espacios libres o de dominio público, a fin de mantener en todo momento las condiciones requeridas para su habitabilidad o uso efectivo.",
+      "c": "Seguridad, salubridad, funcionalidad, accesibilidad universal, eficiencia energética, ornato público y demás que exijan las leyes, realizando los trabajos y obras precisos para conservarlos o rehabilitarlos, aunque para ello sea necesario el uso de espacios libres o de dominio público, a fin de mantener en todo momento las condiciones requeridas para su habitabilidad o uso efectivo.",
+      "d": "Seguridad, salubridad, funcionalidad, accesibilidad universal, eficiencia energética, ornato público y demás que exijan las leyes, realizando los trabajos y obras precisos para ponerlos en uso, aunque para ello sea necesario el uso de espacios libres o de dominio público, a fin de mantener en todo momento las condiciones requeridas para su habitabilidad o uso efectivo.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD850",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el artículo 380 del Decreto 550/2022 de 29 de noviembre por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, las infracciones territoriales y urbanísticas serán sancionadas con las siguientes multas:",
+      "a": "Infracciones leves: multa desde 600 euros hasta 3.000 euros.",
+      "b": "Infracciones graves: multa desde 3.001 hasta 29.999 euros, salvo que el valor de las obras ejecutadas o de los terrenos afectados o de los daños causados a los bienes protegidos sea superior, en cuyo caso, el límite máximo alcanzará hasta el setenta y cinco por ciento de los valores referidos siempre que la cifra resultante sea superior a aquella extensión.",
+      "c": "Infracciones graves: multa desde 3.000 hasta 29.999 euros, salvo que el valor de las obras ejecutadas o de los terrenos afectados o de los daños causados a los bienes protegidos sea superior, en cuyo caso, el límite máximo alcanzará hasta el setenta y cinco por ciento de los valores referidos siempre que la cifra resultante sea superior a aquella extensión.",
+      "d": "Infracciones muy graves: multa desde 30.001 euros hasta 120.000 euros, salvo que el importe del valor de las obras ejecutadas o de los terrenos afectados o de los daños causados a los bienes protegidos sea superior, en cuyo caso, la extensión máxima alcanzará hasta el ciento cincuenta por ciento de dichos valores.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD105",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t¿Qué agentes establece la LOE (38/1999) que tienen la obligación de firmar o suscribir el acta de replanteo de una obra?",
+      "a": "El director de obra y el constructor",
+      "b": "El promotor, el director de obra y el constructor",
+      "c": "El director de obra, el director de ejecución de la obra y el constructor",
+      "d": "El acta debe estar firmado por todos los agentes que establece la LOE",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD745",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún la LOE (38/1999), ¿Qué agente será el tomador del seguro de daños materiales, seguro de caución o garantía financiera para garantizar, durante un año, el resarcimiento de los daños materiales por vicios o defectos de ejecución que afecten a elementos de terminación o acabado de las obras?",
+      "a": "El Constructor",
+      "b": "El Promotor",
+      "c": "El Propietario o usuario final",
+      "d": "Lo que establezca el Pliego Administrativo del contrato",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD035",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tEl Código Técnico de la Edificación es el marco normativo por el que se regulan las exigencias básicas de calidad que deben cumplir los edificios, incluidas sus instalaciones, para satisfacer los requisitos…",
+      "a": "de seguridad y habitabilidad; los de funcionalidad se regirán por su normativa específica",
+      "b": "de funcionalidad",
+      "c": "de seguridad, habitabilidad y funcionalidad",
+      "d": "de seguridad y funcionalidad; los de habitabilidad se regirán por su normativa específica",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD993",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDurante la construcción de las obras, ¿Qué controles establece el CTE en el artículo 7 de la Parte I que deben realizar, según sus respectivas competencias, el director de obra y el director de ejecución de la obra?",
+      "a": "Control de la documentación de obra y ensayos sobre la obra ejecutada",
+      "b": "Control de recepción en obra de productos equipos y sistemas, control de ejecución de la obra y control de obra terminada",
+      "c": "Control de documentación, ensayos y control de programa de puntos de inspección",
+      "d": "Control de suministro de materiales y su puesta en obra",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD495",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tA efectos del cómputo de la superficie de un sector de incendio, se considera que no forman parte del mismo:",
+      "a": "Locales de riesgo especial, escaleras y pasillo protegidos, vestíbulos de independencia y escaleras compartimentadas",
+      "b": "Los vestíbulos de independencia. las escaleras y pasillos protegidos y las zonas de ocupación nula",
+      "c": "Cualquier zona de riesgo mínimo",
+      "d": "Las zonas de ocupación nula, ascensores y escaleras compartimentadas y escaleras y pasillos protegidos.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD749",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tSegún el DB-SI, ¿es obligatorio que los locales de riesgo dispongan de vestíbulo de independencia en cada comunicación con el resto del edificio?",
+      "a": "Sí, en todo caso",
+      "b": "Sólo para locales de riesgo alto",
+      "c": "Sólo para locales de riesgo medio y alto",
+      "d": "No",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD596",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t¿Cuánto debe ser la anchura (A) de una escalera no protegida para evacuación descendente según el DB-SI?",
+      "a": "A>=P/200 siendo P el número total de personas cuyo paso está previsto por el punto cuya anchura se dimensiona",
+      "b": "A>=P*200 siendo P el número total de personas cuyo paso está previsto por el punto cuya anchura se dimensiona",
+      "c": "A>=(E - 3S)/160 siendo E la suma de ocupantes asignados a la escalera y S la superficie útil de la escalera en el conjunto de las plantas",
+      "d": "A>=P/160 siendo P el número total de personas cuyo paso está previsto por el punto cuya anchura se dimensiona",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD104",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\t¿Qué diferencia una escalera protegida de una escalera especialmente protegida?",
+      "a": "Las escaleras especialmente protegidas son de mayor altura que las protegidas",
+      "b": "Una escalera especialmente protegida requiere de unas condiciones de ventilación adicionales a la de la escalera protegida",
+      "c": "Las escaleras especialmente protegidas reúnen las condiciones de las protegidas pero además disponen de un vestíbulo de independencia diferente en cada uno de sus accesos a cada planta",
+      "d": "Las escaleras especialmente protegidas requieren de ventilación natural y sistema de presión diferencial conforme a EN 12101-6:2005",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD130",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t68.1 Según el DBSUA1, en una zona ocupable interior seca con pendiente menor del 6% de un edificio de Pública Concurrencia, ¿qué clase de resbaladicidad le será exigible al suelo?",
+      "a": "Clase B0",
+      "b": "Clase 1",
+      "c": "No le será exigible resbaladicidad",
+      "d": "Clase B-s3-d0",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD767",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\t¿Qué altura debe tener una barrera de protección si la diferencia de cota de la queprotege es superior a los 6m?",
+      "a": "1,05m",
+      "b": "1,10m",
+      "c": "0,90m",
+      "d": "0,95m",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD366",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\t¿Cuál de las siguientes afirmaciones es verdadera? Para satisfacer las exigencias del CTE en lo referente a la protección frente al ruido deben:",
+      "a": "Alcanzarse los valores límite de aislamiento acústico a ruido aéreo y no superarse los valores límite de presión de ruido de impactos",
+      "b": "No superar los valores límite de tiempo de reverberación",
+      "c": "Cumplirse las especificaciones referentes al ruido y a las vibraciones de las instalaciones",
+      "d": "Todas ellas son correctas",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD696",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\t¿Cuál es la presencia de agua que considera el DB-HS-1 para un muro en contacto con el terreno cuya cara inferior del suelo está 1m por encima del nivel freático?",
+      "a": "Alta",
+      "b": "Baja",
+      "c": "Media",
+      "d": "Nula",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD115",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEn cumplimiento del DB-HS1, para determinar el grado de impermeabilidad mínimoexigido a una fachada se requiere:",
+      "a": "La zona pluviométrica de promedios y el grado de exposición al viento",
+      "b": "El índice de permeabilidad del revestimiento y la porosidad de la hoja principal",
+      "c": "Los espesores de los elementos que componen la fachada incluyendo el de la barrera intermedia si existiese",
+      "d": "El índice de permeabilidad del revestimiento y la higroscopicidad del material componente de la hoja principal",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD777",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\t¿Es de aplicación el DB-HE-1 para intervenciones en edificios existentes?",
+      "a": "Sí, en cambios de uso siempre que la superficie útil total supere los 50m2",
+      "b": "Sí, en reformas siempre que se renueven de forma conjunta las instalaciones de generación térmica y más del 25% de la superficie total de la envolvente térmica final del edificio.",
+      "c": "Las respuestas a y b son correctas",
+      "d": "Sí, en ampliaciones, cambios de uso y reformas",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD139",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tEn las intervenciones en edificios existentes el proyectista deberá indicar en la documentación del proyecto si la intervención incluye o no actuaciones en la estructura preexistente;",
+      "a": "Entendiéndose, en caso negativo, que las obras no implican el riesgo de daño citado en el art 17.1.a) de la LOE",
+      "b": "Si el proyecto no incluyera actuaciones sobre la estructura, el CTE obliga a anexar al proyecto un levantamiento detallado de toda la estructura del edificio con una previsión de futuras actuaciones.",
+      "c": "Si el proyecto incluye actuación sobre la estructura, los coeficientes de seguridad para el cálculo se incrementarán al doble de los coeficientes establecidos para obra nueva.",
+      "d": "Todas son correctas",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD357",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\t¿Cuál de las siguientes no es un una exigencia relativa al requisito de seguridad y de funcionalidad estructural?",
+      "a": "Según se establece en el art 5 del RD 470/2021 por el que se aprueba el",
+      "b": "Exigencia de aptitud al servicio",
+      "c": "Exigencia de resistencia y estabilidad",
+      "d": "Exigencia de resistencia de la estructura frente al fuego",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD711",
+      "RESPUESTA": "n"
+    },
+    {
+      "pregunta": ")\tSegún lo indicado en el art 10 del RD 470/2021, la fisuración del recubrimiento como consecuencia de la corrosión de las armaduras…",
+      "a": "Se puede considerar un incumplimiento del Estado Límite Último",
+      "b": "Se puede considerar un incumplimiento del Estado Límite de Servicio",
+      "c": "Se puede considerar un incumplimiento del Estado Límite de Recubrimiento",
+      "d": "Se puede considerar un incumplimiento del Estado Límite del Acero",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD978",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tEn referencia al decreto 293/2009, marca la afirmación errónea:",
+      "a": "Las áreas y dependencias de utilización colectiva deberán ser accesibles a personas con movilidad reducida.",
+      "b": "Las dimensiones de los vestíbulos serán tales que pueda inscribirse en ellos una circunferencia de 1,50m de radio no barrido por las hojas de las puertas.",
+      "c": "El ángulo de apertura de las puertas interiores no será inferior a 90 grados",
+      "d": "Las puertas correderas no tendrán resaltes con el pavimento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD127",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tPara la accesibilidad en espacios públicos urbanizados, además del decreto 293/2009, ¿Qué otra Orden es de obligado cumplimiento?",
+      "a": "La Orden VIV/561/2009",
+      "b": "La Orden VIV/984/2009",
+      "c": "La Orden TMA/370/2022",
+      "d": "La Orden TMA/851/2021",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD298",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tSegún el art 233 de la Ley 9/2017, ¿Puede un proyecto de obra prescindir de los planos?",
+      "a": "No, en ningún caso.",
+      "b": "Sí, exclusivamente en obras de conservación y mantenimiento.",
+      "c": "Sí, en para los proyectos de obras de primer establecimiento, reforma o gran reparación inferiores a 500.000 euros de presupuesto base de licitación, IVA excluido siempre que la documentación resultante sea suficiente para definir, valorar y ejecutar las obras que comprenda.",
+      "d": "Sí, siempre que se cuente con informe favorable del órgano de contratación y del órgano de supervisión de proyecto.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD987",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\tSegún el Anejo II de la Parte I del CTE, ¿cuál de los siguientes documentos no forma parte de la documentación mínima de seguimiento de la que deben disponer las obras?",
+      "a": "El seguro decenal",
+      "b": "El Libro de Órdenes y Asistencias",
+      "c": "El certificado final de la obra",
+      "d": "La licencia de obras",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD471",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tSegún se indica en las NNUU del PGOU, la declaración en estado ruinoso de una edificación o de parte de ella constituye al propietario en la obligación de demoler, parcial o totalmente, la edificación en el plazo que se señale.",
+      "a": "Sí, en todo caso.",
+      "b": "Sí, salvo los edificios situados en el ámbito del Conjunto Histórico, declarados BIC, inscritos en el Catálogo General del PHA o incluidos en el Catálogo del",
+      "c": "No. El propietario no tendrá obligación de demoler en ningún caso.",
+      "d": "No. Será el Ayuntamiento el que tras una declaración de edificio en estado ruinoso tenga la obligación de ejecutar la demolición.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD851",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tSegún se indica en el DB-SE-C, ¿Cuál de las siguientes no corresponde a una cimentación directa?",
+      "a": "Zapata combinada",
+      "b": "Emparrillado",
+      "c": "Pozo de cimentación",
+      "d": "Micropilote",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD164",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\t¿Cuáles son los grados de impermeabilidad mínimos exigidos para cubiertas en el DBHS1?",
+      "a": "Grados bajo, medio y alto en función del índice pluviométrico",
+      "b": "Grados 1, 2, 3, 4 y 5 en función de la zona climática de invierno.",
+      "c": "Es único e independiente de factores climáticos.",
+      "d": "Grados bajo, medio y alto en función de la exposición al viento.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD582",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t¿Cómo se denomina a la humedad que se produciría debido a una mala resolución de los puntos singulares de la cubierta?",
+      "a": "Humedades de filtración",
+      "b": "Humedades de condensación",
+      "c": "Humedades de capilaridad",
+      "d": "Humedad freática",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD403",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tSiguiendo las reglas de la arquitectura bioclimática, de las siguientes, para un mismo volumen ¿Qué morfología sería energéticamente más efectiva para disminuir las pérdidas de calor a través de paramentos?",
+      "a": "Las formas verticales tipo torre, con superficie reducida de planta y techos altos",
+      "b": "Las formas planas, techos bajos y gran extensión de superficie en planta",
+      "c": "Las formas compactas, lo más cercana al cubo",
+      "d": "No existe relación entre la forma del edificio y las pérdidas de calor a través de paramentos",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD771",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ")\t¿Qué es la ventilación convectiva en la construcción bioclimática?",
+      "a": "Es aquella que se produce cuando el aire caliente asciende por un proceso natural y es reemplazado por aire más frio.",
+      "b": "Es aquella que se produce cuando el aire frío asciende por un proceso natural y es reemplazado por aire más cálido.",
+      "c": "Es aquella que se produce al abrir ventanas situadas en fachadas opuestas",
+      "d": "Es la producida por los convectores mecánicos.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD120",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con el Artículo 15. Documentación técnica de diseño y dimensionado de las instalaciones térmicas, del RD 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios, una instalación térmica de 100 kW incluida en el ámbito de aplicación del RITE, debe ejecutarse sobre la base de una documentación técnica:",
+      "a": "Proyecto",
+      "b": "Memoria Técnica",
+      "c": "No es preceptiva la presentación de documentación para acreditar el cumplimiento reglamentario ante el órgano competente de la Comunidad Autónoma, al ser la potencia térmica inferior a 150 kW.",
+      "d": "Proyecto, solo si incluye instalación solar térmica.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD502",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con la IT 1.2.4.5.2 Recuperación de calor del aire de extracción, del RD 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios, se recuperará la energía del aire expulsado en los sistemas de climatización de los edificios en los que el caudal de aire expulsado al exterior, por medios mecánicos, sea:",
+      "a": "Superior a 0,5 m3/s.",
+      "b": "Superior a 0,28 m3/s.",
+      "c": "Superior a 0,1 m3/s.",
+      "d": "Superior a 1 m3/s.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD095",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con el Documento Básico Salubridad,  HS 4 Suministro de agua, tanto en instalaciones individuales como en instalaciones de producción centralizada de agua caliente sanitaria (ACS), la red de distribución debe estar dotada de una red de retorno cuando la longitud de la tubería de ida al punto de consumo más alejado sea igual o mayor que:",
+      "a": "15 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "50 m",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD489",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con el Documento Básico Salubridad,  HS 5 Evacuación de aguas, se considera suficiente como único sistema de ventilación en edificios con menos de 7 plantas, o con menos de 11 si la bajante está sobredimensionada, y los ramales de desagües tienen menos de 5 m:",
+      "a": "Ventilación primaria",
+      "b": "Ventilación secundaria",
+      "c": "Ventilación terciaria",
+      "d": "No necesita ventilación",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD709",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con el Campo de Aplicación de la Instrucción Técnica Complementaria BT28 Instalaciones en locales de pública concurrencia, un local de reunión destinado a museo, se considera pública concurrencia:",
+      "a": "Siempre",
+      "b": "Si la ocupación prevista es de más de 50 personas",
+      "c": "Según la dificultad de evacuación del local",
+      "d": "Si la ocupación prevista es de más de 50 personas y se clasifica como de difícil evacuación.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD360",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ")\tDe acuerdo con el apartado 3 Alumbrado de Emergencia de la Instrucción Técnica Complementaria BT-28 Instalaciones en locales de pública concurrencia, el alumbrado de evacuación debe proporcionar en las rutas de evacuación, a nivel del suelo y en el eje de los paso principales, una iluminancia horizontal de:",
+      "a": "5 lux",
+      "b": "10 lux",
+      "c": "0,5 lux",
+      "d": "1 lux",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD449",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ")\tAdemás de emitir el correspondiente informe para la certificación energética de edificios, la Herramienta Unificada HULC permite la verificación de algunas exigencias del DB-HE 2019.",
+      "a": "No es correcto, el software HULC no emite la certificación del edificio.",
+      "b": "No es correcto, permite la verificación completa del DB-HE 2019.",
+      "c": "No es correcto, no permite la verificación de ninguna exigencia del DB-HE 2019.",
+      "d": "Es correcto",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD140",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "0)Según el artículo 118 LCSP. “Expediente de contratación en contratos menores” se consideran contratos menores los contratos de valor estimado:",
+      "a": "Inferior a 50.000 euros cuando se trate de contratos de obras o 15.000 euros cuando se trate de contratos de suministro o servicios",
+      "b": "Inferior a 40.000 euros cuando se trate de contratos de obras o 12.000 euros cuando se trate de contratos de suministro o servicios",
+      "c": "Inferior a 50.000 euros cuando se trate de contratos de obras o 12.000 euros cuando se trate de contratos de suministro o servicios",
+      "d": "Inferior a 40.000 euros cuando se trate de contratos de obras o 15.000 euros cuando se trate de contratos de suministro o servicios",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD503",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "1)\tPodrán excluirse del cumplimiento del coeficiente global de transmisión de calor a través de la envolvente térmica, los edificios cuyas demandas de calefacción y refrigeración sean menores, en ambos casos, de….",
+      "a": "No existe un valor de la demanda que permita la excepción del cumplimiento del coeficiente global de transmisión de calor a través de la envolvente.",
+      "b": "15kWh/m²",
+      "c": "25kWh/m² para edificios en zona climática de inverno A y 20 kWh/m² para el resto",
+      "d": "30 kWh/m² y un consumo total de 50kWh/m²",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD326",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "2)\tSegún el Anejo I de la Parte I del CTE, ¿es necesario incluir el apartado referente a la sustentación del edificio en la memoria constructiva de un Proyecto Básico?",
+      "a": "No",
+      "b": "Sí",
+      "c": "Sólo en caso de estructuras de hormigón",
+      "d": "Sólo en proyectos de edificios medianeros o de más de 4 plantas.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD937",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "3)\tUna de las exigencias del DB-HE1 es que las particiones interiores del edificio limiten la transferencia de calor entre las distintas unidades de uso del mismo.",
+      "a": "Correcto",
+      "b": "No, el DB-HE1 solo limita las transferencias de calor entre el exterior e interior de la envolvente",
+      "c": "No es correcto, esa exigencia corresponde al DB-HE0",
+      "d": "Correcto pero solo para edificios comerciales o de uso industrial",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD241",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "4)\t¿Dónde se ubicaban las denominadas “zonas polémicas” exteriores de la ciudad de Cádiz:",
+      "a": "En el perímetro del recinto amurallado.",
+      "b": "Desde el Frente de Tierra hasta cerca de la Iglesia de San José, dividida en tres zonas.",
+      "c": "En los perímetros exteriores del Castillo de San Sebastián y Santa Catalina.",
+      "d": "Desde el Fuerte de Cortadura hasta el ventorrillo del Chato",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD763",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "5)\tEn la clase del terciario recreativo, se establecen los siguientes tipos:",
+      "a": "Tipos I, II y III en función de su superficie construida.",
+      "b": "Tipos I, II, III, IV, V y VI en función su superficie construida.",
+      "c": "Tipos I, II y III en función de su aforo permisible.",
+      "d": "Tipos I, II, III, IV, V y VI en función su aforo permisible.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD066",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "6)\tLos despachos profesionales domésticos que ejercen su actividad en la vivienda habitual, se regulan por:",
+      "a": "Las condiciones del uso residencial.",
+      "b": "Las condiciones del uso de actividades económicas, en su categoría de oficinas.",
+      "c": "Las condiciones del uso administrativo.",
+      "d": "Las condiciones del uso terciario.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD243",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "7)\tLas condiciones de parcela mínima en la ordenanza de Ensanche Moderno son:",
+      "a": "Superficie de parcela mayor o igual de 140 m2 y frente de parcela como mínimo 12m.",
+      "b": "Superficie de parcela mayor o igual de 125 m2 y frente de parcela como mínimo 7m.",
+      "c": "Superficie de parcela mayor o igual de 140 m2 y frente de parcela como mínimo 7m.",
+      "d": "Superficie de parcela mayor o igual de 125 m2 y frente de parcela como mínimo 12m.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD292",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "8)\tCuál de estas condiciones no es necesario tener en cuenta parala implantación voluntaria de garaje-aparcamiento en la Ordenanza del Casco histórico:",
+      "a": "El ancho de calle.",
+      "b": "La superficie de parcela.",
+      "c": "El frente de parcela.",
+      "d": "La existencia de un aparcamiento público a menos de 50 m.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD708",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "9)\tLas condiciones de habitabilidad del uso residencial establecen que las piezas que cuenten con un único hueco de iluminación y ventilación natural, alcanzarán la condición de pieza exterior cuando la profundidad máxima medida perpendicularmente al paramento en el que se encuentra el hueco, no supere:",
+      "a": "5,50 metros.",
+      "b": "7,50 metros.",
+      "c": "12 metros.",
+      "d": "9 metros.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD856",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "0)\tLa adaptación de un local de 100 m2 para destinarlo a restaurante, se regula por las condiciones del uso:",
+      "a": "Comercial.",
+      "b": "Industrial.",
+      "c": "Turístico.",
+      "d": "Terciario recreativo.",
+      "origen": "2022_CADIZ_v2",
+      "fid": "CAD322",
+      "RESPUESTA": "d"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+<!DOCTYPE html> 
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Aleatorio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #ffffff;
+            color: #000000;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .question {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .option {
+            border: 1px solid #f2f2f2;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            cursor: pointer;
+        }
+        .option.correct { background: rgba(0, 200, 0, 0.3); }
+        .option.wrong { background: rgba(200, 0, 0, 0.3); }
+
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 16px;
+            background: transparent;
+            border: 1px solid #f2f2f2;
+            cursor: pointer;
+            border-radius: 6px;
+        }
+        /* La clase para el selector de tema (que ya no se usa) se ha eliminado del CSS */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="pregunta" class="question">Cargando preguntas...</div>
+        <div id="opciones"></div>
+
+        <div class="buttons">
+            <button id="btnAtras">Atrás</button>
+            <button id="btnMenu">Reiniciar Quiz</button> 
+            <button id="btnSiguiente">Siguiente</button>
+        </div>
+
+        </div>
+
+    <script>
+        let todasLasPreguntas = []; // Array original sin modificar
+        let preguntas = []; // Array que contendrá las preguntas barajadas y activas
+        let index = 0;
+        let seleccion = null;
+        let opciones = [];
+
+        // Función para barajar un array (Algoritmo Fisher-Yates)
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        async function cargarPreguntas() {
+            const url = "https://raw.githubusercontent.com/javi241098/test_data/refs/heads/main/preguntas.json";
+            try {
+                const res = await fetch(url);
+                todasLasPreguntas = await res.json();
+                
+                // Una vez cargadas, iniciamos el quiz
+                iniciarQuizAleatorio();
+            } catch (error) {
+                console.error("Error al cargar las preguntas:", error);
+                document.getElementById("pregunta").textContent = "Error al cargar las preguntas.";
+            }
+        }
+        
+        function iniciarQuizAleatorio() {
+            // 1. Clonamos el array original para no modificarlo
+            preguntas = [...todasLasPreguntas]; 
+            
+            // 2. Barajamos las preguntas
+            shuffleArray(preguntas);
+            
+            // 3. Reiniciamos el índice y la selección
+            index = 0;
+            seleccion = null;
+            
+            // 4. Mostramos la primera pregunta barajada
+            if (preguntas.length > 0) {
+                mostrarPregunta();
+            } else {
+                document.getElementById("pregunta").textContent = "No hay preguntas disponibles.";
+            }
+        }
+
+        // Se elimina la función cargarTemas()
+
+        function barajarOpciones() {
+            const p = preguntas[index];
+            opciones = [
+                { letra: "a", texto: p.a },
+                { letra: "b", texto: p.b },
+                { letra: "c", texto: p.c },
+                { letra: "d", texto: p.d },
+            ];
+            opciones.sort(() => Math.random() - 0.5);
+        }
+
+        function mostrarPregunta() {
+            const p = preguntas[index];
+
+            // Ya no mostramos el tema, solo la posición de la pregunta
+            document.getElementById("pregunta").textContent = `Pregunta ${index + 1} de ${preguntas.length}: ${p.pregunta}`;
+
+            barajarOpciones();
+            const div = document.getElementById("opciones");
+            div.innerHTML = "";
+
+            opciones.forEach(op => {
+                const btn = document.createElement("div");
+                btn.className = "option";
+                btn.textContent = `${op.texto}`; // Quitamos la letra para que la aleatoriedad sea más clara
+                btn.onclick = () => seleccionarRespuesta(op.letra);
+                
+                // Mantiene el estado de la pregunta si el usuario pulsa Atrás/Siguiente
+                if (p.seleccionado === op.letra) {
+                    seleccionarRespuesta(op.letra, true); 
+                }
+                
+                div.appendChild(btn);
+            });
+            
+            // Si ya está seleccionada, deshabilitamos la selección
+            if (p.seleccionado) {
+                deshabilitarOpciones();
+            }
+        }
+        
+        function deshabilitarOpciones() {
+            [...document.querySelectorAll('.option')].forEach(el => {
+                el.style.pointerEvents = 'none';
+            });
+        }
+
+        function seleccionarRespuesta(letra, esRegreso = false) {
+            // Si es un nuevo clic y ya había una selección, salimos
+            if (!esRegreso && preguntas[index].seleccionado) return; 
+
+            // Guardamos la selección en el objeto pregunta
+            preguntas[index].seleccionado = letra;
+            seleccion = letra;
+
+            const correcta = preguntas[index].respuesta;
+
+            [...document.querySelectorAll('.option')].forEach((el, i) => {
+                const op = opciones[i].letra;
+                // Si la opción actual es la correcta
+                if (op === correcta) el.classList.add("correct");
+                // Si la opción actual es la seleccionada por el usuario (y no es la correcta)
+                else if (op === letra) el.classList.add("wrong");
+            });
+            
+            deshabilitarOpciones();
+        }
+
+        document.getElementById("btnSiguiente").onclick = () => {
+            if (index < preguntas.length - 1) {
+                index++;
+                seleccion = null;
+                mostrarPregunta();
+            }
+        };
+
+        document.getElementById("btnAtras").onclick = () => {
+            if (index > 0) {
+                index--;
+                seleccion = null;
+                mostrarPregunta();
+            }
+        };
+
+        // El botón de menú ahora Reinicia el Quiz
+        document.getElementById("btnMenu").onclick = () => {
+             // Limpia el estado de selección de todas las preguntas
+            todasLasPreguntas.forEach(p => delete p.seleccionado);
+            iniciarQuizAleatorio();
+        };
+
+        // Inicia la carga al principio
+        cargarPreguntas(); 
+    </script>
+</body>
+</html>

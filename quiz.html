@@ -1,0 +1,188 @@
+<!DOCTYPE html> 
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #ffffff;
+      color: #000000;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+    }
+    .question {
+      text-align: center;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .option {
+      border: 1px solid #f2f2f2;
+      padding: 12px;
+      border-radius: 6px;
+      margin-bottom: 12px;
+      cursor: pointer;
+    }
+    .option.correct { background: rgba(0, 200, 0, 0.3); }
+    .option.wrong { background: rgba(200, 0, 0, 0.3); }
+
+    .buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+    button {
+      padding: 10px 16px;
+      background: transparent;
+      border: 1px solid #f2f2f2;
+      cursor: pointer;
+      border-radius: 6px;
+    }
+
+    #temaSelect {
+      width: 100%;
+      padding: 12px;
+      margin-top: 20px;
+      border-radius: 6px;
+      border: 1px solid #f2f2f2;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="tema" style="font-size:10px; text-align:right; margin-bottom:10px;"></div>
+
+    <div id="pregunta" class="question">Selecciona un tema</div>
+    <div id="opciones"></div>
+
+    <div class="buttons">
+      <button id="btnAtras">Atrás</button>
+      <button id="btnMenu">Menú Principal</button>
+      <button id="btnSiguiente">Siguiente</button>
+    </div>
+
+    <!-- Selector de tema al final -->
+    <select id="temaSelect">
+      <option value="">Selecciona un tema...</option>
+    </select>
+  </div>
+
+  <script>
+    let todasLasPreguntas = [];
+    let preguntas = [];
+    let index = 0;
+    let seleccion = null;
+    let opciones = [];
+
+    async function cargarPreguntas() {
+      const url = "https://raw.githubusercontent.com/javi241098/test_data/refs/heads/main/preguntas.json";
+      const res = await fetch(url);
+      todasLasPreguntas = await res.json();
+
+      cargarTemas();
+    }
+
+    function cargarTemas() {
+      const select = document.getElementById("temaSelect");
+
+      const temasUnicos = [...new Set(todasLasPreguntas.map(p => p.tema))];
+
+      temasUnicos.forEach(t => {
+        const op = document.createElement("option");
+        op.value = t;
+        op.textContent = t;
+        select.appendChild(op);
+      });
+
+      select.onchange = () => {
+        const tema = select.value;
+        if (tema === "") {
+          preguntas = [];
+          document.getElementById("pregunta").textContent = "Selecciona un tema";
+          document.getElementById("opciones").innerHTML = "";
+          return;
+        }
+
+        preguntas = todasLasPreguntas.filter(p => p.tema === tema);
+        index = 0;
+        seleccion = null;
+        mostrarPregunta();
+      };
+    }
+
+    function barajarOpciones() {
+      const p = preguntas[index];
+      opciones = [
+        { letra: "a", texto: p.a },
+        { letra: "b", texto: p.b },
+        { letra: "c", texto: p.c },
+        { letra: "d", texto: p.d },
+      ];
+      opciones.sort(() => Math.random() - 0.5);
+    }
+
+    function mostrarPregunta() {
+      const p = preguntas[index];
+
+      document.getElementById("origen").textContent = p.tema;
+      document.getElementById("pregunta").textContent = p.pregunta;
+
+      barajarOpciones();
+      const div = document.getElementById("opciones");
+      div.innerHTML = "";
+
+      opciones.forEach(op => {
+        const btn = document.createElement("div");
+        btn.className = "option";
+        btn.textContent = `${op.letra}) ${op.texto}`;
+        btn.onclick = () => seleccionarRespuesta(op.letra);
+        div.appendChild(btn);
+      });
+    }
+
+    function seleccionarRespuesta(letra) {
+      if (seleccion) return;
+      seleccion = letra;
+
+      const correcta = preguntas[index].respuesta;
+
+      [...document.querySelectorAll('.option')].forEach((el, i) => {
+        const op = opciones[i].letra;
+        if (op === correcta) el.classList.add("correct");
+        else if (op === letra) el.classList.add("wrong");
+      });
+    }
+
+    document.getElementById("btnSiguiente").onclick = () => {
+      if (index < preguntas.length - 1) {
+        index++;
+        seleccion = null;
+        mostrarPregunta();
+      }
+    };
+
+    document.getElementById("btnAtras").onclick = () => {
+      if (index > 0) {
+        index--;
+        seleccion = null;
+        mostrarPregunta();
+      }
+    };
+
+    document.getElementById("btnMenu").onclick = () => {
+      document.getElementById("temaSelect").value = "";
+      document.getElementById("pregunta").textContent = "Selecciona un tema";
+      document.getElementById("opciones").innerHTML = "";
+      preguntas = [];
+    };
+
+    cargarPreguntas();
+  </script>
+</body>
+</html>

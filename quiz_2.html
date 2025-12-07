@@ -43,7 +43,6 @@
             cursor: pointer;
             border-radius: 6px;
         }
-        /* La clase para el selector de tema (que ya no se usa) se ha eliminado del CSS */
     </style>
 </head>
 <body>
@@ -57,16 +56,15 @@
             <button id="btnSiguiente">Siguiente</button>
         </div>
 
-        </div>
+    </div>
 
     <script>
-        let todasLasPreguntas = []; // Array original sin modificar
-        let preguntas = []; // Array que contendrá las preguntas barajadas y activas
+        let todasLasPreguntas = [];
+        let preguntas = [];
         let index = 0;
         let seleccion = null;
         let opciones = [];
 
-        // Función para barajar un array (Algoritmo Fisher-Yates)
         function shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
@@ -78,36 +76,29 @@
             const url = "https://raw.githubusercontent.com/javi241098/test_data/refs/heads/main/preguntas.json";
             try {
                 const res = await fetch(url);
-                todasLasPreguntas = await res.json();
-                
-                // Una vez cargadas, iniciamos el quiz
+                const data = await res.json();
+
+                todasLasPreguntas = data.preguntas;
+
                 iniciarQuizAleatorio();
             } catch (error) {
                 console.error("Error al cargar las preguntas:", error);
                 document.getElementById("pregunta").textContent = "Error al cargar las preguntas.";
             }
         }
-        
+
         function iniciarQuizAleatorio() {
-            // 1. Clonamos el array original para no modificarlo
-            preguntas = [...todasLasPreguntas]; 
-            
-            // 2. Barajamos las preguntas
+            preguntas = [...todasLasPreguntas];
             shuffleArray(preguntas);
-            
-            // 3. Reiniciamos el índice y la selección
             index = 0;
             seleccion = null;
-            
-            // 4. Mostramos la primera pregunta barajada
+
             if (preguntas.length > 0) {
                 mostrarPregunta();
             } else {
                 document.getElementById("pregunta").textContent = "No hay preguntas disponibles.";
             }
         }
-
-        // Se elimina la función cargarTemas()
 
         function barajarOpciones() {
             const p = preguntas[index];
@@ -123,8 +114,8 @@
         function mostrarPregunta() {
             const p = preguntas[index];
 
-            // Ya no mostramos el tema, solo la posición de la pregunta
-            document.getElementById("pregunta").textContent = `Pregunta ${index + 1} de ${preguntas.length}: ${p.pregunta}`;
+            document.getElementById("pregunta").textContent =
+                `Pregunta ${index + 1} de ${preguntas.length}: ${p.pregunta}`;
 
             barajarOpciones();
             const div = document.getElementById("opciones");
@@ -133,47 +124,48 @@
             opciones.forEach(op => {
                 const btn = document.createElement("div");
                 btn.className = "option";
-                btn.textContent = `${op.texto}`; // Quitamos la letra para que la aleatoriedad sea más clara
+                btn.textContent = op.texto;
+
+                // Guardamos la letra en el botón
+                btn.dataset.letra = op.letra;
+
                 btn.onclick = () => seleccionarRespuesta(op.letra);
-                
-                // Mantiene el estado de la pregunta si el usuario pulsa Atrás/Siguiente
+
                 if (p.seleccionado === op.letra) {
-                    seleccionarRespuesta(op.letra, true); 
+                    seleccionarRespuesta(op.letra, true);
                 }
-                
+
                 div.appendChild(btn);
             });
-            
-            // Si ya está seleccionada, deshabilitamos la selección
+
             if (p.seleccionado) {
                 deshabilitarOpciones();
             }
         }
-        
+
         function deshabilitarOpciones() {
-            [...document.querySelectorAll('.option')].forEach(el => {
+            document.querySelectorAll('.option').forEach(el => {
                 el.style.pointerEvents = 'none';
             });
         }
 
         function seleccionarRespuesta(letra, esRegreso = false) {
-            // Si es un nuevo clic y ya había una selección, salimos
-            if (!esRegreso && preguntas[index].seleccionado) return; 
+            if (!esRegreso && preguntas[index].seleccionado) return;
 
-            // Guardamos la selección en el objeto pregunta
             preguntas[index].seleccionado = letra;
-            seleccion = letra;
 
-            const correcta = preguntas[index].respuesta;
+            const correcta = preguntas[index].RESPUESTA;
 
-            [...document.querySelectorAll('.option')].forEach((el, i) => {
-                const op = opciones[i].letra;
-                // Si la opción actual es la correcta
-                if (op === correcta) el.classList.add("correct");
-                // Si la opción actual es la seleccionada por el usuario (y no es la correcta)
-                else if (op === letra) el.classList.add("wrong");
+            document.querySelectorAll('.option').forEach(el => {
+                const op = el.dataset.letra;
+
+                if (op === correcta) {
+                    el.classList.add("correct");
+                } else if (op === letra) {
+                    el.classList.add("wrong");
+                }
             });
-            
+
             deshabilitarOpciones();
         }
 
@@ -193,15 +185,12 @@
             }
         };
 
-        // El botón de menú ahora Reinicia el Quiz
         document.getElementById("btnMenu").onclick = () => {
-             // Limpia el estado de selección de todas las preguntas
             todasLasPreguntas.forEach(p => delete p.seleccionado);
             iniciarQuizAleatorio();
         };
 
-        // Inicia la carga al principio
-        cargarPreguntas(); 
+        cargarPreguntas();
     </script>
 </body>
 </html>

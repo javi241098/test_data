@@ -1099,6 +1099,1806 @@
       "origen": "2022_CADIZ_v2",
       "fid": "CAD322",
       "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De conformidad con lo dispuesto en el artículo 103 de la Constitución Española de 1978, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+      "a": "Racionalización, eficiencia, agilidad, celeridad y simplificación, con sometimiento pleno a la ley y al Derecho.",
+      "b": "Seguridad jurídica, accesibilidad, confidencialidad, integridad, disponibilidad y transparencia, con sometimiento pleno a la ley y al Derecho.",
+      "c": "Eficiencia, agilización, transparencia, innovación y participación, con sometimiento pleno a la ley y al Derecho.",
+      "d": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN291",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De conformidad con lo dispuesto en el artículo 141 de la Constitución Española de 1978, cualquier alteración de los límites provinciales en el territorio español habrá de ser aprobada por las Cortes Generales mediante:",
+      "a": "Ley ordinaria.",
+      "b": "Ley orgánica.",
+      "c": "Real Decreto-ley.",
+      "d": "Real Decreto-legislativo.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN794",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 25 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, NO se encuentra entre las materias en las que el Municipio ejercerá competencias propias:",
+      "a": "Ferias, abastos, mercados, lonjas y comercio ambulante.",
+      "b": "Protección de la salubridad pública.",
+      "c": "Cementerios y actividades funerarias.",
+      "d": "Conservación, mantenimiento y vigilancia de los edificios destinados a centros públicos de educación secundaria.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN072",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "A tenor de lo dispuesto por la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía, esta Comunidad Autónoma ostenta competencias compartidas en materia de:",
+      "a": "Ordenación del Territorio.",
+      "b": "Sanidad interior.",
+      "c": "Servicios sociales.",
+      "d": "Vivienda.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN649",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 9 de la Ley 2/2021, de 18 de junio, de lucha contra el fraude y la corrupción en Andalucía y protección de la persona denunciante, es una función de la Oficina Andaluza contra el Fraude y la Corrupción:",
+      "a": "Informar periódicamente al Parlamento de Andalucía sobre los trabajos desarrollados por la Oficina y, particularmente, sobre cualquier actividad ilegal que vaya en detrimento de intereses públicos o financieros.",
+      "b": "Formular propuestas y recomendaciones dirigidas al sector público andaluz y demás instituciones, órganos y entidades públicas, respecto del cumplimiento de los principios de protección de datos recogidos en el título II de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+      "c": "Formular propuestas y recomendaciones dirigidas a los altos cargos de la Administración de la Junta de Andalucía, respecto del cumplimiento de los principios de buen gobierno previstos en el título II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+      "d": "Defender los derechos de las personas denunciantes y, particularmente, respecto al cumplimiento del deber de mantener la confidencialidad sobre la identidad de las mismas, de acuerdo con el apartado 3 del artículo 14 de dicha ley.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN180",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El artículo 27 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, establece que corresponde al Consejo de Gobierno:",
+      "a": "Aprobar el Presupuesto de la Comunidad Autónoma.",
+      "b": "Aprobar los proyectos de ley, autorizar su remisión al Parlamento de Andalucía y acordar, en su caso, su retirada.",
+      "c": "Resolver sobre la propuesta de estructura orgánica de las Consejerías y de sus organismos autónomos, y acordar la remisión al Parlamento de Andalucía para, en su caso, su aprobación.",
+      "d": "Proponer la creación de Comisiones Delegadas del Gobierno al Parlamento de Andalucía.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN317",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 3 del Tratado de Funcionamiento de la Unión Europea, la Unión Europea dispondrá de competencia exclusiva en:",
+      "a": "El mercado interior.",
+      "b": "La unión aduanera.",
+      "c": "La cohesión económica, social y territorial.",
+      "d": "La protección de los consumidores.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN638",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el tenor literal del artículo 5 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, tendrán la consideración de órganos administrativos:",
+      "a": "Las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
+      "b": "Las unidades administrativas a las que se les atribuyan funciones que tengan efectos frente a terceros y cuya actuación tenga carácter vinculante.",
+      "c": "Las unidades administrativas a las que se les atribuya funciones jurídicas, así como aquellas que, preceptivamente, actúen frente a terceros.",
+      "d": "Las unidades administrativas a las que, preceptivamente, se les atribuya funciones jurídicas, así como aquellas cuya actuación tenga carácter vinculante frente a terceros.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN749",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, es motivo de abstención en un procedimiento:",
+      "a": "Tener un vínculo de afinidad dentro del cuarto grado con cualquiera de los interesados.",
+      "b": "Compartir despacho profesional con los asesores que intervengan en el procedimiento.",
+      "c": "Haber prestado en los cinco últimos años servicios profesionales a cualquier persona natural o jurídica interesada.",
+      "d": "Haber intervenido como perito o testigo en algún procedimiento de cualquiera de los interesados.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN516",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 109 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+      "a": "Mientras no haya transcurrido el plazo de prescripción.",
+      "b": "En cualquier momento, de oficio o a instancia de los interesados.",
+      "c": "Siempre que tal revocación no constituya dispensa o exención no permitida por las leyes.",
+      "d": "Siempre que tal revocación no sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN014",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 118 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se consideran contratos menores los contratos de valor estimado inferior a:",
+      "a": "40.000 euros, cuando se trate de contratos de obras.",
+      "b": "60.000 euros, cuando se trate de contratos de obras.",
+      "c": "25.000 euros, cuando se trate de contratos de suministro o de servicio.",
+      "d": "18.000 euros, cuando se trate de contratos de suministro o de servicio.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN754",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 48 de la Ley 4/1986, de 5 de mayo, del Patrimonio de la Comunidad Autónoma de Andalucía, por cuál de las siguientes formas NO podrá tener lugar la afectación:",
+      "a": "Por silencio.",
+      "b": "Mediante acto expreso.",
+      "c": "Mediante acto tácito.",
+      "d": "Por Decreto.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN895",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 14 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, es una obligación del beneficiario:",
+      "a": "Acreditar ante el órgano instructor estar al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social a la fecha de solicitud de la subvención.",
+      "b": "Comunicar al órgano instructor las subvenciones, ayudas, ingresos o recursos obtenidos en los últimos dos años, en relación a la materia objeto de subvención.",
+      "c": "Cumplir el objetivo, ejecutar el proyecto, realizar la actividad o adoptar el comportamiento que fundamenta la concesión de las subvenciones.",
+      "d": "Justificar ante el órgano concedente la realización de la actividad objeto de subvención en el plazo de seis meses desde su finalización.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN521",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con lo dispuesto en el artículo 15 de la Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía, los puestos de trabajo de la Administración de la Junta de Andalucía serán desempeñados con carácter general por:",
+      "a": "Empleados públicos, en su condición de personal funcionario o personal laboral.",
+      "b": "Personal funcionario público.",
+      "c": "Personal funcionario, personal interino o personal laboral público.",
+      "d": "Personal funcionario, de carrera, interino o laboral.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN488",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 18 de la Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía, en la Administración de la Junta de Andalucía:",
+      "a": "La condición de personal eventual podrá constituir mérito para la contratación como personal laboral en la Administración de la Junta de Andalucía.",
+      "b": "El nombramiento del personal eventual corresponde a la persona titular del órgano superior jerárquico a aquel en que se preste la función de confianza o asesoramiento.",
+      "c": "El nombramiento del personal eventual por el órgano o autoridad competente será publicado en el Boletín Oficial de la Junta de Andalucía o boletín oficial correspondiente.",
+      "d": "El cese del personal eventual conlleva derecho a indemnización.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN988",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El artículo 35 del Decreto Legislativo 1/2010, de 2 de marzo, por el que se aprueba el Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, establece que el marco presupuestario a medio plazo que servirá de referencia para la elaboración del Presupuesto anual será aprobado cada año por:",
+      "a": "La Comisión Delegada para Asuntos Económicos del Parlamento de Andalucía.",
+      "b": "El Presidente de la Junta de Andalucía.",
+      "c": "El Consejo de Gobierno, a propuesta de la Consejería competente en materia de Hacienda.",
+      "d": "La persona titular de la Consejería competente en materia de Hacienda.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN482",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "A tenor del artículo 40 del Decreto Legislativo 1/2010, de 2 de marzo, por el que se aprueba el Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, señale en qué caso NO podrán adquirirse compromisos por gastos que hayan de extenderse a ejercicios posteriores a aquel en que se autoricen:",
+      "a": "Arrendamientos de bienes muebles y cualquier otro instrumento jurídico que implique la cesión de uso remunerada sobre los mismos.",
+      "b": "Concesión de préstamos para la financiación de viviendas de promoción pública o privada.",
+      "c": "Concesión de préstamos para promoción económica en programas especiales aprobados por el Consejo de Gobierno.",
+      "d": "Inversiones reales, transferencias y subvenciones de capital, salvo las subvenciones nominativas, y transferencias de financiación de la Ley del Presupuesto de cada ejercicio.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN350",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Conforme al artículo 17 del Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía, es un tipo de sede electrónica que puede crear la Administración de la Junta de Andalucía:",
+      "a": "Sedes electrónicas virtuales.",
+      "b": "Sedes electrónicas compartidas.",
+      "c": "Sedes electrónicas provisionales.",
+      "d": "Sedes electrónicas combinadas.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN996",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 35 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el cumplimiento de los requisitos establecidos en el artículo 37.5 del Reglamento (UE) 2016/679 para la designación del delegado de protección de datos, sea persona física o jurídica, podrá demostrarse, entre otros medios:",
+      "a": "A través de mecanismos de certificación que acrediten la obtención de una titulación universitaria con conocimientos en derecho administrativo.",
+      "b": "A través de mecanismos voluntarios de certificación que tendrán particularmente en cuenta la obtención de una titulación universitaria que acredite conocimientos especializados en el derecho y la práctica en materia de protección de datos.",
+      "c": "A través de mecanismos de certificación que acrediten la obtención de una titulación universitaria con conocimientos especializados en derecho público y, voluntariamente, en materia de tratamiento de datos.",
+      "d": "A través de mecanismos de certificación que tengan en cuenta, particularmente, la obtención de una titulación universitaria que acredite conocimientos especializados en derecho.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN021",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 32 de la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía, el plazo máximo para dictar y notificar la resolución en el procedimiento para el ejercicio del derecho de acceso a la información pública, sin tener en cuenta la posible prórroga, es de:",
+      "a": "20 días hábiles desde la recepción de la solicitud por el órgano competente para resolver.",
+      "b": "30 días hábiles desde la recepción de la solicitud en el registro del órgano competente para su tramitación.",
+      "c": "30 días hábiles desde la presentación de la solicitud en el registro del órgano competente para resolver.",
+      "d": "20 días hábiles desde la presentación de la solicitud en el registro de la Administración u Organismo competente para su tramitación.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN876",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "En relación con el Plan Andaluz de Investigación, Desarrollo e Innovación, el artículo 29 de la Ley 16/2007, de 3 de diciembre, Andaluza de la Ciencia y el Conocimiento, establece que:",
+      "a": "El Parlamento determinará el procedimiento de elaboración y aprobación del Plan.",
+      "b": "El Consejo de Gobierno determinará los objetivos, estructura, procedimiento de elaboración y aprobación, y financiación del Plan.",
+      "c": "El Plan será aprobado por Decreto del Presidente de la Junta de Andalucía.",
+      "d": "El Comité Andaluz para la Sociedad del Conocimiento determinará los objetivos del Plan.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN776",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El artículo 8 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, establece que, en materia de seguridad y salud en el trabajo, el asesoramiento técnico en la elaboración de la normativa legal y en el desarrollo de la normalización, tanto a nivel nacional como internacional, es una función de:",
+      "a": "La Inspección de Trabajo y Seguridad Social.",
+      "b": "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "c": "La Comisión Nacional de Seguridad y Salud en el Trabajo.",
+      "d": "La Consejería competente en materia de empleo.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN717",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 3 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, se entiende por representación equilibrada aquella situación que garantice la presencia de mujeres y hombres de forma que, en el conjunto de personas a que se refiera cada sexo:",
+      "a": "Ni supere el setenta por ciento ni sea menos del treinta por ciento.",
+      "b": "Ni supere el sesenta por ciento ni sea menos del cuarenta por ciento.",
+      "c": "No supere el cincuenta y cinco por ciento.",
+      "d": "No sea menos del treinta por ciento.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN480",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme establece el artículo 38 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, los catálogos de paisaje son:",
+      "a": "Documentos de desarrollo de la ordenación territorial que contienen las estrategias y directrices de la política de la Junta de Andalucía en materia de paisaje en su ámbito de aplicación.",
+      "b": "Instrumentos urbanísticos que contienen determinaciones y medidas específicas dirigidas a la protección, gestión y ordenación del paisaje natural y urbano.",
+      "c": "Documentos de carácter descriptivo, analítico y prospectivo que identifican los paisajes, analizan sus características y las fuerzas y presiones que los transforman, identifican sus valores y estado de conservación, y proponen los objetivos de calidad paisajística.",
+      "d": "Instrumentos de gestión territorial que tienen por objeto impulsar y coordinar las propuestas que establezcan los planes de ordenación del territorio en materia de paisaje.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN711",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 27 del Decreto 225/1999, de 9 de noviembre, de regulación y desarrollo de la figura de Monumento Natural de Andalucía, la declaración de un Monumento Natural, conforme a lo dispuesto en la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, conllevará:",
+      "a": "Su incorporación directa al inventario general de bienes y derechos de la Comunidad Autónoma de Andalucía.",
+      "b": "Su clasificación a todos los efectos como suelo rústico especialmente protegido por legislación sectorial, desde la fecha de su declaración.",
+      "c": "La delimitación de una Zona de Protección cautelar, continua y periférica, de 200 metros.",
+      "d": "Derechos de tanteo y retracto a favor de la Administración de la Junta de Andalucía.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN848",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 5 de la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía, y se establecen medidas adicionales para su protección, en el ámbito de la Comunidad Autónoma de Andalucía corresponde:",
+      "a": "Al Parlamento Andaluz la declaración por Ley de las Reservas Naturales.",
+      "b": "Al Consejo de Gobierno la declaración por Acuerdo de las Reservas Naturales.",
+      "c": "Al Consejo de Gobierno la declaración por Decreto de las Reservas Naturales, a propuesta de la persona titular de la consejería competente en materia de espacios protegidos.",
+      "d": "Al Consejo de Gobierno la declaración por Decreto de las Reservas Naturales, previa audiencia a los municipios afectados.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN273",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Conforme al artículo 35 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, se considera espacio litoral, a los efectos de dicha ley:",
+      "a": "La zona marítimo-terrestre o espacio comprendido entre la línea de bajamar escorada o máxima viva equinoccial y la línea de pleamar máxima viva equinoccial, incluyendo las márgenes de los ríos hasta donde se haga sensible el efecto de las mareas.",
+      "b": "La zona de influencia del dominio público marítimo terrestre definida por la legislación específica en materia de costas, excluyendo de la misma las zonas contiguas a los márgenes de los ríos.",
+      "c": "Las playas o zonas de depósito de materiales sueltos, tales como arenas, gravas y guijarros, incluyendo escarpes, bermas y dunas, estas últimas se incluirán hasta el límite que resulte necesario para garantizar la estabilidad de la playa y la defensa de la costa.",
+      "d": "La zona terrestre y marina que conforman las distintas cuencas hidrográficas y las aguas de transición y costeras asociadas a dichas cuencas.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN394",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 36 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, entre las determinaciones destinadas a la protección del litoral que deben incluir los Planes de Ordenación del Territorio de ámbito subregional que comprendan terrenos incluidos en el espacio litoral se encuentra:",
+      "a": "La clasificación del espacio litoral como suelo rústico preservado conforme a lo establecido en dicha ley.",
+      "b": "La calificación del espacio litoral como sistema general de espacios libres de interés supralocal conforme a lo establecido en dicha ley.",
+      "c": "La delimitación del espacio litoral conforme a lo establecido en dicha ley.",
+      "d": "Las directrices para la inclusión del espacio litoral en la Red de Espacios Naturales Protegidos de Andalucía tras la tramitación y aprobación del instrumento de ordenación correspondiente.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN825",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según recoge el Plan de Ordenación del Territorio de Andalucía en su Norma 13 “Sistema Polinuclear de Centros Regionales”, se entiende por Centro Regional el conjunto del ámbito urbano, afectado en mayor o menor medida por procesos de naturaleza metropolitana, en el que se integran:",
+      "a": "Cada una de las ciudades de Andalucía de más de 100.000 habitantes, y su ámbito metropolitano.",
+      "b": "Cada una de las ciudades principales de Andalucía (capitales de provincia, más Jerez y Algeciras), y su ámbito metropolitano.",
+      "c": "Cada una de las ocho capitales de provincia, junto con Algeciras, Jerez, Marbella y Dos Hermanas, y su ámbito metropolitano.",
+      "d": "Cada una de las ocho capitales de provincia, junto con Algeciras, Jerez, San Fernando, Marbella y Dos Hermanas, y su ámbito metropolitano.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN991",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según recoge el Plan de Ordenación del Territorio de Andalucía en su Norma 12 “Referentes Territoriales del Modelo”, dentro del Sistema de Ciudades se distinguen las siguientes categorías básicas de ciudades y asentamientos:",
+      "a": "Las Ciudades Principales, las Ciudades Medias de interior, las Ciudades Litorales, los Centros Rurales, y finalmente el resto de asentamientos.",
+      "b": "Las Ciudades Principales, las Ciudades Medias, los Centros Rurales o Pequeñas Ciudades, y finalmente el resto de asentamientos.",
+      "c": "Los Centros Regionales, las Ciudades Medias de interior, las Ciudades Medias Litorales, los Centros Rurales, y finalmente el resto de asentamientos.",
+      "d": "Los Centros Regionales, las Ciudades Principales, las Pequeñas Ciudades, los Núcleos Rurales, y finalmente el resto de asentamientos.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN908",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 5 del Real Decreto 1071/2007, de 27 de julio, por el que se regula el sistema geodésico de referencia oficial en España, para cartografía terrestre, básica y derivada, se adopta el sistema de referencia de coordenadas:",
+      "a": "ETRS-Cónica Conforme de Lambert a escala mayor a 1:500.000 y ETRS-Transversa de Mercator a escala igual o menor a 1:500.000.",
+      "b": "Proyección de Peters a escala mayor a 1:500.000 y Proyección de Mollweide a escala igual o menor a 1:500.000.",
+      "c": "Proyección Universal Transversa de Mercator Huso 30.",
+      "d": "ETRS-Transversa de Mercator a escala mayor a 1:500.000 y ETRS-Cónica Conforme de Lambert a escala igual o menor a 1:500.000.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN173",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Según el artículo 2 del Decreto 141/2006, de 18 de julio, por el que se ordena la actividad cartográfica en la Comunidad Autónoma de Andalucía, se denomina Sistema de información geográfica:",
+      "a": "El sistema de puntos cuya localización en latitud, longitud y altura son conocidos de forma precisa.",
+      "b": "El conjunto de técnicas para la modelización de la superficie terrestre por medio de datos georreferenciados susceptibles de representación gráfica.",
+      "c": "El conjunto de informaciones georreferenciadas, recursos informáticos, humanos y organizativos que realizan procesos de captación, almacenamiento, análisis y representación de datos espaciales.",
+      "d": "La información geográfica con una referencia directa o indirecta a una localización por coordenadas o área geográfica.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN125",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes yacimientos o enclaves arqueológicos de Andalucía se identifica con un modelo de Oppidum o ciudad fortificada íbera?",
+      "a": "El enclave arqueológico de Castellón Alto, en la provincia de Granada.",
+      "b": "El enclave arqueológico de Los Millares, en la provincia de Almería.",
+      "c": "El enclave arqueológico de Peñas de Cabrera, en la provincia de Málaga.",
+      "d": "El enclave arqueológico de Puente Tablas, en la provincia de Jaén.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN373",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "La Sala de los Reyes y la Sala de las Dos Hermanas son dos de los espacios áulicos más emblemáticos de la ciudad palatina de la Alhambra. ¿En qué zona de este complejo monumental se encuentran las salas indicadas?",
+      "a": "En el Palacio de los Leones.",
+      "b": "En el Palacio del Partal.",
+      "c": "En el Mexuar.",
+      "d": "En el Palacio de Comares.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN556",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Su recinto contiene, además de una plaza de toros del siglo XIX apoyada en sus lienzos, una de las pocas mezquitas de la España rural conservada de forma casi intacta, la cual fue levantada entre los siglos IX y X, y reconvertida en iglesia cristiana en época posterior. Nos estamos refiriendo al:",
+      "a": "Castillo de Alcaudete (Jaén).",
+      "b": "Castillo de los Sotomayor y Zúñiga, en Belalcázar (Córdoba).",
+      "c": "Castillo de la Yedra, en Cazorla (Jaén).",
+      "d": "Castillo de Almonaster la Real (Huelva).",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN602",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "La obra de la catedral de Sevilla constituyó una iniciativa ardua cuya construcción abarcó varios siglos y, por tanto, distintos períodos estilísticos. ¿Cuál de los siguientes espacios o elementos arquitectónicos de este edificio NO es característico de su período renacentista?",
+      "a": "Sala Capitular.",
+      "b": "Sacristía Mayor.",
+      "c": "Capilla Real.",
+      "d": "Portada de la Asunción.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN838",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "La iglesia del Sagrario es una edificación adosada a la Catedral de Jaén que decide acometerse tras los daños producidos en la Catedral por el terremoto de Lisboa de 1755. La autoría del proyecto de esta iglesia corresponde a:",
+      "a": "José Martín de Aldehuela.",
+      "b": "Torcuato Cayón de la Vega.",
+      "c": "Ventura Rodríguez.",
+      "d": "Lucas Cintora.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN330",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El despegue turístico de la Costa del Sol a mediados del siglo XX lleva consigo una serie de ejemplos arquitectónicos que incorporan las tendencias revisionistas del Movimiento Moderno en esos años. Un ejemplo es el Hotel Pez Espada en Torremolinos (Málaga), cuya autoría corresponde a:",
+      "a": "Luis Gutiérrez Soto.",
+      "b": "Rafael de la Hoz Arderius.",
+      "c": "José María García de Paredes.",
+      "d": "Juan Jáuregui Briales y Manuel Muñoz Monasterio.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN207",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Durante las décadas de los años sesenta y setenta del pasado siglo XX, el uso educativo cobrará impulso con la construcción de escuelas, facultades, universidades y seminarios, en los que participarán los mejores arquitectos del momento. En este contexto, Julio Cano Lasso, en colaboración con Alberto Campo Baeza y otros arquitectos, proyecta:",
+      "a": "La Escuela Técnica Superior de Ingenieros Agrónomos y Forestales de Córdoba.",
+      "b": "La Universidad Laboral de Almería.",
+      "c": "La Escuela Técnica Superior de Ingenieros Industriales de Sevilla.",
+      "d": "La Escuela de Artes y Oficios de Algeciras.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN399",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "La antigua Casa Consistorial de El Puerto de Santa María (Cádiz) fue objeto, a comienzos de este siglo XXI, de una importante actuación de rehabilitación y ampliación promovida por la Junta de Andalucía. La autoría de dicho proyecto corresponde a:",
+      "a": "Rafael Otero González.",
+      "b": "José Antonio Carbajal Navarro y José Luis Daroca Bruño.",
+      "c": "Ubaldo García Torrente.",
+      "d": "Enrique Abascal García.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN197",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El Ayuntamiento de Fuentes de Andalucía (Sevilla) ha sido objeto recientemente de una importante actuación de rehabilitación promovida por la Junta de Andalucía. La autoría de dicho proyecto corresponde a:",
+      "a": "Fuensanta Nieto y Enrique Sobejano.",
+      "b": "Ramón Pico Valimaña.",
+      "c": "Ignacio Laguillo Díaz.",
+      "d": "José Morales Sánchez y Sara de Giles Dubois.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN798",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El Programa Copernicus es:",
+      "a": "El Programa de Observación de la Tierra de la Unión Europea, que mira a nuestro planeta y su medio ambiente para el máximo beneficio de toda la ciudadanía europea. Ofrece servicios de información basados en datos de observación de la Tierra por satélite y en datos in situ (no espaciales).",
+      "b": "El Programa de financiación de la Unión Europea centrado en llevar la tecnología digital a las empresas, los ciudadanos y las administraciones públicas.",
+      "c": "El Programa de la Unión Europea que tiene por objetivo impulsar el desarrollo regional a través de la cooperación entre regiones europeas a diferentes niveles: transfronterizo, transnacional, interregional, ultraperiférico y vecindad.",
+      "d": "El Instrumento financiero de la Unión Europea dedicado, de forma exclusiva, al medio ambiente y a la acción por el clima.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN517",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 5 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, se entiende por Evaluación ambiental, a los efectos de dicha ley:",
+      "a": "Pronunciamiento del órgano ambiental dirigido al promotor que tiene por objeto delimitar el contenido, la amplitud, nivel de detalle y grado de especificación del estudio ambiental estratégico.",
+      "b": "Análisis técnico de los planes, programas y proyectos con la finalidad de proponer las medidas ambientales más adecuadas para la corrección o compensación de sus efectos tras su adopción, aprobación o autorización.",
+      "c": "Proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, antes de su adopción, aprobación o autorización sobre el medio ambiente.",
+      "d": "Informe preceptivo y vinculante del órgano ambiental en el que se identifican, describen y cuantifican los posibles efectos significativos sobre el medio ambiente que puedan derivarse del plan, programa o proyecto, así como su vulnerabilidad ante riesgos de accidentes graves.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN829",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De conformidad con lo previsto en el artículo 13 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, en relación con las facultades del derecho de propiedad del suelo en situación rural, sólo podrá alterarse la delimitación de los espacios naturales protegidos o de los espacios incluidos en la Red Natura 2000, reduciendo su superficie total o excluyendo terrenos de los mismos:",
+      "a": "Cuando, de forma motivada y previo pronunciamiento favorable del órgano ambiental correspondiente, el instrumento de ordenación justifique su necesidad para destinar suelo adecuado y suficiente para usos productivos o para uso residencial.",
+      "b": "Cuando así lo justifiquen los cambios provocados en ellos por su evolución natural, científicamente demostrada.",
+      "c": "Cuando, de forma motivada y previo pronunciamiento favorable del órgano ambiental correspondiente, quede acreditada su transformación y la pérdida de los valores que determinaron su protección.",
+      "d": "Cuando así lo justifique la necesidad de su incorporación al proceso urbanizador para garantizar suelo adecuado y suficiente para usos productivos o para uso residencial.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN568",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con la disposición transitoria séptima de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, los Planes Especiales de Protección del Medio Físico:",
+      "a": "Conservarán su vigencia y ejecutividad hasta la publicación de la resolución por la que se inicia la información pública de un Plan de Ordenación del Territorio de ámbito subregional que incluya o afecte a su ámbito territorial.",
+      "b": "Conservarán su vigencia y ejecutividad hasta su revisión o previsión expresa de derogación en alguno de los instrumentos de planificación previstos en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.",
+      "c": "Seguirán siendo de aplicación de forma supletoria mientras no se produzca su desplazamiento por los instrumentos de ordenación territorial o urbanística.",
+      "d": "Seguirán siendo de aplicación de forma complementaria a las Normas Subsidiarias Provinciales mientras no se apruebe alguno de los instrumentos de desarrollo territorial previstos en dicha ley.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN658",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 45 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, los Planes de Ordenación del Territorio de ámbito subregional:",
+      "a": "Serán formulados por la persona titular de la Consejería competente en materia de ordenación del territorio y urbanismo de oficio o a instancia de alguna de las Corporaciones Locales afectadas.",
+      "b": "Serán formulados por la persona titular de la Consejería competente en materia de ordenación del territorio y urbanismo previa audiencia a las Corporaciones Locales afectadas.",
+      "c": "Serán aprobados por el Parlamento de Andalucía previa toma de conocimiento por el Consejo de Gobierno, y publicándose en el Boletín Oficial de la Junta de Andalucía para su efectividad.",
+      "d": "Serán aprobados por Decreto del Consejo de Gobierno, dando cuenta al Parlamento y publicándose en el Boletín Oficial de la Junta de Andalucía para su efectividad.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN229",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 60 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía:",
+      "a": "El Plan General de Ordenación Municipal, el Plan Básico de Ordenación Municipal y los Planes de Ordenación Urbana son instrumentos de ordenación urbanística general.",
+      "b": "Los Planes Parciales de Ordenación, los Planes de Reforma Interior, los Estudios de Ordenación y los Estudios de Detalle son instrumentos de ordenación urbanística detallada.",
+      "c": "Los Planes de Ordenación Urbana, los Planes de Reforma Interior y los Estudios de Ordenación son instrumentos de ordenación urbanística detallada.",
+      "d": "Los Estudios de Ordenación, los Estudios de Detalle y los Catálogos son instrumentos complementarios de la ordenación urbanística.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN525",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 22 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, la resolución del procedimiento de autorización previa municipal de una actuación extraordinaria en suelo rústico requiere previamente:",
+      "a": "Informe vinculante emitido por la Consejería competente en materia de ordenación del territorio cuando la actuación afecte o tenga incidencia supralocal conforme a lo dispuesto en el artículo 2 de dicha ley.",
+      "b": "Informe preceptivo emitido por la Consejería competente en materia de ordenación del territorio cuando la actuación afecte o tenga incidencia supralocal conforme a lo dispuesto en el artículo 2 de dicha ley, que será vinculante cuando la actuación afecte a suelos rústicos especialmente protegidos.",
+      "c": "Informe preceptivo emitido por la Consejería competente en materia de ordenación del territorio, que será vinculante cuando la actuación afecte a suelos incluidos en el ámbito de un instrumento de ordenación territorial.",
+      "d": "Informe preceptivo emitido por la Consejería competente en materia de ordenación del territorio. Este informe tendrá carácter vinculante cuando la actuación afecte a suelos preservados por los instrumentos de ordenación territorial.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN874",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una de las categorías del suelo rústico contempladas en el artículo 14 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía?",
+      "a": "Suelo rústico del Hábitat Rural Diseminado.",
+      "b": "Suelo rústico preservado por la ordenación territorial o urbanística.",
+      "c": "Suelo rústico especialmente protegido por la existencia acreditada de procesos naturales o actividades antrópicas susceptibles de generar riesgos.",
+      "d": "Suelo rústico natural o rural.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN212",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, y su Reglamento General, corresponde a la Consejería competente en materia de ordenación del territorio y urbanismo emitir informe:",
+      "a": "Preceptivo y vinculante durante la tramitación de los Planes de Ordenación Intermunicipal cuya aprobación corresponda a los municipios.",
+      "b": "Preceptivo durante la tramitación de los Estudios de Detalle cuya aprobación corresponda a los municipios.",
+      "c": "Preceptivo durante la tramitación de los Planes Básicos de Ordenación Municipal. Este informe tendrá carácter vinculante en lo relativo a las determinaciones de ordenación urbanística general.",
+      "d": "Preceptivo y vinculante durante la tramitación de los Planes de Ordenación Urbana.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN906",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 25 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, se requerirá informe preceptivo a la Consejería competente en materia de ordenación del territorio y urbanismo durante el periodo de información pública:",
+      "a": "De una propuesta de actuación de nueva urbanización. Este informe deberá emitirse en el plazo de un mes.",
+      "b": "De una nueva propuesta de actuación. Este informe deberá emitirse en el plazo de tres meses.",
+      "c": "De una propuesta de actuación de mejora urbana. Este informe deberá emitirse en el plazo de un mes.",
+      "d": "De una propuesta de actuación de reforma interior no contemplada en el Plan de Ordenación Urbana correspondiente. Este informe deberá emitirse en el plazo de tres meses.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN712",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 34 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, las valoraciones del suelo, las instalaciones, construcciones y edificaciones, y los derechos constituidos sobre o en relación con ellos, se rigen por lo dispuesto en esta ley cuando tengan por objeto, entre otros:",
+      "a": "La fijación del precio a pagar al propietario en la venta o sustitución forzosas.",
+      "b": "La fijación de obligaciones fiscales y tributarias de los propietarios.",
+      "c": "La obtención de un valor de tasación cuya finalidad sea fijar la garantía hipotecaria en créditos o préstamos.",
+      "d": "La obtención de un valor de referencia a efectos de derechos hereditarios y sucesorios.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN478",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 36 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, las edificaciones, construcciones e instalaciones en suelo rural, cuando deban valorarse con independencia del suelo, se tasarán:",
+      "a": "Por el método de comparación, siempre que exista un mercado representativo de inmuebles en el entorno.",
+      "b": "Por el método de actualización de rentas, conforme a la evolución de las rentas de alquiler en el mercado local de inmuebles.",
+      "c": "Por el método de coste de reposición según su estado y antigüedad en el momento al que deba entenderse referida la valoración.",
+      "d": "Por el método residual estático.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN645",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según establece el artículo 7 del Real Decreto Legislativo 1/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Catastro Inmobiliario, a efectos catastrales, NO tendrán la consideración de construcciones:",
+      "a": "Los depósitos al aire libre.",
+      "b": "Los tinglados o cobertizos de pequeña entidad.",
+      "c": "Los estacionamientos y los espacios anejos o accesorios a los edificios e instalaciones.",
+      "d": "Los campos para la práctica del deporte.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN364",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según establece la Norma 11 de las normas técnicas de valoración incluidas en el anexo del Real Decreto 1020/1993, de 25 de junio, por el que se aprueban las Normas Técnicas de Valoración y el Cuadro Marco de Valores del Suelo y de las construcciones para determinar el valor catastral de los bienes inmuebles de naturaleza urbana, para el cómputo de la superficie construida:",
+      "a": "Los balcones, terrazas, porches y demás elementos análogos se computarán al 50 por 100 de su superficie, siempre que estén cerrados por dos de sus cuatro orientaciones.",
+      "b": "Los balcones, terrazas, porches y demás elementos análogos no computarán, salvo que estén cerrados por tres de sus cuatro orientaciones, en cuyo caso se computarán al 50 por 100.",
+      "c": "Los balcones, terrazas, porches y demás elementos análogos, que estén cubiertos se computarán al 50 por 100 de su superficie, salvo que estén cerrados por tres de sus cuatro orientaciones, en cuyo caso se computarán al 100 por 100.",
+      "d": "Los balcones, terrazas, porches y demás elementos análogos se computarán al 50 por 100 de su superficie, salvo que estén cubiertos, en cuyo caso se computarán al 100 por 100.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN715",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con la Carta de Cracovia 2000, sobre los Principios para la Conservación y Restauración del Patrimonio Construido, los trabajos de conservación de hallazgos arqueológicos deben basarse en el principio de:",
+      "a": "Máxima conservación",
+      "b": "Mínima intervención.",
+      "c": "Máximo conocimiento y documentación.",
+      "d": "Mínima reposición.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN774",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con lo establecido en la disposición adicional cuarta de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, los monumentos declarados histórico- artísticos conforme a la legislación anterior a la entrada en vigor de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y los bienes afectados por el Decreto de 22 de abril de 1949, sobre protección de los castillos españoles, que gozan de la condición de Bienes de Interés Cultural, a los que no se les hubiera establecido individualmente, tendrán un entorno de protección constituido por aquellas parcelas y espacios que los circunden hasta:",
+      "a": "Cincuenta metros en suelo urbano y urbanizable y doscientos metros en suelo no urbanizable.",
+      "b": "Cien metros en suelo urbano y urbanizable y doscientos metros en suelo no urbanizable.",
+      "c": "Cien metros en suelo urbano y doscientos metros en suelo urbanizable y no urbanizable.",
+      "d": "Cincuenta metros en suelo urbano y doscientos metros en suelo urbanizable y no urbanizable.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN181",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De acuerdo con lo establecido en el artículo 84 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, se incluirá una partida equivalente al menos al 1 por ciento de la aportación autonómica destinada a obras de conservación y acrecentamiento del Patrimonio Histórico Andaluz:",
+      "a": "En toda obra pública ejecutada en la Comunidad Autónoma de Andalucía, quedando exceptuadas de esta obligación las obras cuyo presupuesto sea inferior a un millón de euros y aquellas que se realicen en cumplimiento de los objetivos de dicha Ley.",
+      "b": "En toda obra ejecutada en la Comunidad Autónoma de Andalucía que cuente con financiación pública, total o parcial, superior a un millón de euros, quedando exceptuadas de esta obligación las obras que se realicen en cumplimiento de los objetivos de dicha Ley.",
+      "c": "En toda obra pública financiada total o parcialmente por la Administración de la Junta de Andalucía cuyo presupuesto exceda de un millón de euros, quedando exceptuadas de esta obligación las obras que se realicen en cumplimiento de los objetivos de dicha Ley.",
+      "d": "En toda obra licitada, total o parcialmente, por la Administración de la Junta de Andalucía cuyo presupuesto de ejecución material sea igual o superior a un millón de euros, quedando exceptuadas de esta obligación las obras que se realicen en cumplimiento de los objetivos de dicha Ley.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN128",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 25 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, los bienes inmuebles que por su interés para la Comunidad Autónoma sean objeto de inscripción como Bien de Interés Cultural en el Catálogo General del Patrimonio Histórico Andaluz se clasificarán con arreglo a la siguiente tipología:",
+      "a": "Monumentos; Conjuntos Históricos; Jardines Históricos; Sitios de la Memoria Democrática; Zonas Arqueológicas y Lugares de Interés Etnológico.",
+      "b": "Monumentos; Conjuntos Históricos; Jardines Históricos; Sitios Históricos; Yacimientos Arqueológicos; Lugares de Interés Etnológico y Lugares de la Memoria Democrática.",
+      "c": "Monumentos; Conjuntos Históricos; Jardines Históricos; Sitios Históricos; Zonas Arqueológicas; Lugares de Interés Etnológico; Lugares de Interés Industrial y Zonas Patrimoniales.",
+      "d": "Monumentos; Conjuntos Históricos; Jardines Históricos; Enclaves Históricos; Yacimientos Arqueológicos; Lugares de Interés Etnológico; Lugares de Interés Industrial y Lugares de la Memoria Democrática.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN896",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 20 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, en las actuaciones de conservación, restauración y rehabilitación de bienes inmuebles se evitarán los intentos de reconstrucción salvo:",
+      "a": "Cuando en su reposición se utilicen técnicas y materiales que permitan adiciones miméticas y se deje constancia documental de la intervención para verificar su autenticidad.",
+      "b": "Cuando en su reposición se utilicen algunas partes originales de los mismos o se cuente con la precisa información documental y pueda probarse su autenticidad.",
+      "c": "Cuando en su reposición se utilicen materiales originales y el volumen de obra reconstruida no supere el 50% del total de las obras ejecutadas.",
+      "d": "Cuando su reposición esté documentada y justificada en el proyecto correspondiente y el volumen de obra reconstruida no supere el 50% del total de las obras ejecutadas.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN499",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 33 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, y de acuerdo con lo establecido en el artículo 19 de la misma, queda prohibida la colocación de publicidad comercial y de cualquier clase de cables, antenas y conducciones aparentes:",
+      "a": "En los Jardines Históricos y en las fachadas y cubiertas de los Monumentos.",
+      "b": "En los Conjuntos Históricos y en las fachadas y cubiertas de los Monumentos.",
+      "c": "En las fachadas y cubiertas de los Monumentos y en las Zonas Arqueológicas.",
+      "d": "En los Conjuntos Históricos y en los Jardines Históricos.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN544",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 35 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, la Consejería competente en materia de Patrimonio Histórico, con el fin de decidir sobre la conveniencia de incluirlos en alguna de las modalidades de inscripción en el Catálogo General del Patrimonio Histórico Andaluz, podrá ordenar la suspensión de obras o actuaciones en bienes integrantes del Patrimonio Histórico, por espacio de:",
+      "a": "Tres meses.",
+      "b": "Un mes.",
+      "c": "20 días.",
+      "d": "30 días.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN002",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 53 del Decreto 91/2020, de 30 de junio, por el que se regula el Plan Vive en Andalucía, de vivienda, rehabilitación y regeneración urbana de Andalucía 2020-2030,",
+      "a": "La ejecución de actuaciones requerirá la previa delimitación territorial del ámbito de actuación mediante acuerdo de Pleno del Ayuntamiento correspondiente.",
+      "b": "Los ámbitos urbanos propuestos para su delimitación habrán de tener clasificación urbanística de suelo urbano conforme a la legislación urbanística en vigor. Este requisito no será exigible en el supuesto de eliminación de la infravivienda y el chabolismo.",
+      "c": "La mitad de la edificabilidad sobre rasante existente dentro del ámbito o la resultante según el planeamiento vigente, incluidas las plantas bajas o plantas inferiores con otros usos compatibles, deberá tener uso residencial de vivienda.",
+      "d": "Los ámbitos urbanos propuestos para su delimitación habrán de contar con un plan de intervención social aprobado por la Consejería competente en materia de servicios sociales e inclusión.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN113",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Respecto a los parámetros y requisitos de superficie y diseño para la calificación de viviendas y alojamientos protegidos, el artículo 18 del Decreto 91/2020, de 30 de junio, por el que se regula el Plan Vive en Andalucía, de vivienda, rehabilitación y regeneración urbana de Andalucía 2020-2030, establece que:",
+      "a": "Con carácter general, la superficie construida máxima de la vivienda protegida no superará 90 metros cuadrados.",
+      "b": "En el caso de alojamientos, la superficie construida máxima de cada una de las unidades habitacionales será de 70 metros cuadrados.",
+      "c": "Cuando la promoción incluya anejos vinculados, podrán contabilizarse a efecto del precio máximo por vivienda o unidad habitacional, en caso de alojamiento, un garaje de hasta 25 metros cuadrados útiles y un trastero de hasta 8 metros cuadrados útiles.",
+      "d": "Las viviendas o alojamientos protegidos incluidos en la reserva destinada a personas con movilidad reducida por causa de alguna discapacidad podrán sobrepasar el límite de superficie en un 30 por ciento.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN590",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 12 de la Ley 13/2005, de 11 de noviembre, de medidas para la vivienda protegida y el suelo, las segundas o posteriores transmisiones ínter vivos de la titularidad del derecho de propiedad o de cualquier otro derecho real de uso y disfrute sobre las viviendas protegidas:",
+      "a": "Estarán sometidas al derecho de adquisición preferente por parte de la Administración de la Junta de Andalucía o, en su caso, el Ayuntamiento o la entidad pública que sean designados por aquélla.",
+      "b": "Estarán sujetas a los derechos de tanteo y retracto legal en favor de la Administración de la Junta de Andalucía, o del Ayuntamiento o entidad pública que sean designados por aquélla.",
+      "c": "No podrán producirse durante el plazo mínimo de quince años desde la fecha de formalización de la adquisición, salvo la posibilidad de permuta en casos de víctimas de terrorismo.",
+      "d": "Serán comunicadas por parte de los titulares de las viviendas protegidas a los órganos competentes una vez formalizada la transmisión, indicando el precio, la forma de pago y la fecha de dicha transmisión.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN189",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 4 de la Ley 9/2022, de 14 de junio, de Calidad de la Arquitectura, el principio de calidad en la arquitectura exige el respeto de, entre otros, el siguiente criterio:",
+      "a": "La diversificación funcional de los centros urbanos y su contribución a la asequibilidad de la vivienda.",
+      "b": "La seguridad y la limitación de riesgos derivados del uso acorde con el tipo de bien y sus características, para todas las personas.",
+      "c": "La contribución a la restauración ecológica de zonas ambientalmente degradadas y al proceso de desurbanización del litoral turístico.",
+      "d": "El interés artístico y su aportación al debate cultural.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN726",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 17 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, con respecto a la responsabilidad civil de los agentes que intervienen en el proceso de edificación:",
+      "a": "La responsabilidad civil será exigible en forma personal e individualizada, y únicamente por los actos u omisiones propios por los que, con arreglo a dicha ley, se deba responder.",
+      "b": "La responsabilidad civil se exigirá solidariamente cuando quede debidamente probada la concurrencia de culpas y pueda precisarse el grado de intervención de cada agente en el daño producido.",
+      "c": "En todo caso, el promotor responderá solidariamente con los demás agentes intervinientes ante los posibles adquirentes de los daños materiales en el edificio ocasionados por vicios o defectos de construcción.",
+      "d": "Quien acepte la dirección de una obra cuyo proyecto no haya elaborado él mismo no asumirá las responsabilidades derivadas de las omisiones, deficiencias o imperfecciones del proyecto.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN788",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El Documento Básico DB-SE Seguridad Estructural del Código Técnico de la Edificación establece que la comprobación estructural de un edificio requiere, entre otros aspectos, determinar las situaciones de dimensionado que resulten determinantes. Estas situaciones de dimensionado se clasifican en:",
+      "a": "Reversibles e irreversibles.",
+      "b": "Permanentes, variables y accidentales.",
+      "c": "Persistentes, transitorias y extraordinarias.",
+      "d": "Límites, aceptables y adecuadas.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN655",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 9 del Decreto 67/2011, de 5 de abril, por el que se regula el control de calidad de la construcción y obra pública, el Registro de laboratorios de ensayos y de entidades de control de calidad de la construcción y obra pública de Andalucía tendrá:",
+      "a": "Naturaleza jurídica, carácter público restringido y formato electrónico.",
+      "b": "Naturaleza administrativa, carácter voluntario y estadístico y formato electrónico.",
+      "c": "Naturaleza jurídica, carácter restringido y declarativo y formato electrónico.",
+      "d": "Naturaleza administrativa, carácter público e informativo y formato electrónico.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN570",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Según el artículo 32 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, la Consejería competente en materia de medio ambiente dictará y notificará la resolución que ponga fin al procedimiento de autorización ambiental unificada simplificada en el plazo máximo de:",
+      "a": "Ocho meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse notificado resolución expresa, los interesados podrán entender desestimada su solicitud.",
+      "b": "Seis meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse notificado resolución expresa, los interesados podrán entender estimada su solicitud.",
+      "c": "Cinco meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse notificado resolución expresa, los interesados podrán entender desestimada su solicitud.",
+      "d": "Cuatro meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse notificado resolución expresa, los interesados podrán entender estimada su solicitud.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN962",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 191 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en caso de:",
+      "a": "Interpretación, nulidad y resolución de los contratos, cuando se formule oposición por parte del contratista.",
+      "b": "Modificaciones de los contratos cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares y su cuantía, aislada o conjuntamente, sea superior a un 10 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 1.000.000 de euros.",
+      "c": "Reclamaciones dirigidas a la Administración con fundamento en la responsabilidad contractual en que esta pudiera haber incurrido, en los casos en que las indemnizaciones reclamadas sean de cuantía igual o superior al 50 por ciento del precio inicial del contrato, IVA excluido.",
+      "d": "Suspensión de la ejecución de los contratos por causa imputable a la Administración.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN787",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 232 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son obras de restauración:",
+      "a": "Las de ampliación, mejora, modernización, adaptación, adecuación o refuerzo de un bien inmueble ya existente.",
+      "b": "Aquellas que tienen por objeto reparar una construcción conservando su estética, respetando su valor histórico y manteniendo su funcionalidad.",
+      "c": "Aquellas que tienen por objeto reparar una construcción conservando su estética, respetando su valor histórico y dotándola de una nueva funcionalidad que sea compatible con los elementos y valores originales del inmueble.",
+      "d": "Las necesarias para enmendar un menoscabo producido en el tiempo por el natural uso del bien.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN747",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con lo dispuesto en el artículo 235 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, respecto al informe de las oficinas o unidades de supervisión de proyectos:",
+      "a": "Los órganos de contratación deberán solicitar un informe de las correspondientes oficinas o unidades de supervisión de los proyectos cuando el presupuesto base de licitación del contrato de obras sea igual o superior a 500.000 euros, IVA incluido.",
+      "b": "En los proyectos de presupuesto base de licitación inferior a 500.000 euros, IVA excluido, en el caso de obras que afecten a la estabilidad, seguridad o estanqueidad de la obra, el informe tendrá carácter preceptivo.",
+      "c": "El informe verificará que se han tenido en cuenta las disposiciones generales de carácter legal o reglamentario así como la normativa técnica que resulten de aplicación para cada tipo de proyecto, siendo responsabilidad de las oficinas o unidades de supervisión la aplicación incorrecta de las mismas en los diferentes estudios y cálculos.",
+      "d": "El informe se debe emitir en el plazo máximo de veinte días, salvo que por las características del proyecto se requiera otro mayor, contado a partir de la recepción del proyecto.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN538",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 236 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, respecto al replanteo del proyecto:",
+      "a": "Aprobado el proyecto, y tras la aprobación del expediente de contratación de la obra, se procederá a efectuar el replanteo del mismo.",
+      "b": "En la tramitación de los expedientes de contratación referentes a obras de infraestructuras hidráulicas, de transporte y de carreteras, se dispensará del requisito previo de disponibilidad de los terrenos, pudiendo iniciarse la ejecución de las obras antes de haberse formalizado su ocupación.",
+      "c": "La ejecución del contrato de obras comenzará con el acta de replanteo del proyecto.",
+      "d": "Una vez realizado el replanteo se incorporará el proyecto al expediente de contratación.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN642",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Según el artículo 69 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, una vez formalizado un contrato con una unión temporal de empresas, cuando alguna o algunas de las empresas integrantes de la unión temporal fuesen declaradas en concurso de acreedores y aun cuando se hubiera abierto la fase de liquidación:",
+      "a": "Se suspenderá la ejecución del contrato y se iniciará el procedimiento para la resolución del mismo.",
+      "b": "Se procederá, en todo caso, a una nueva licitación del contrato.",
+      "c": "Continuará la ejecución del contrato con la empresa o empresas restantes siempre que estas cumplan los requisitos de solvencia o clasificación exigidos.",
+      "d": "Continuará la ejecución del contrato con la empresa o empresas restantes siempre que se hubiera ejecutado el contrato al menos en un 50% de su importe.",
+      "origen": "JUNTA_2022_2023",
+      "fid": "JUN640",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "España se constituye en un Estado social y democrático de Derecho, que propugna como",
+      "a": "La libertad, la justicia, la enseñanza y la sanidad.",
+      "b": "La libertad, la justicia, la igualdad y el pluralismo político.",
+      "c": "La libertad, la justicia, la igualdad y el pluralismo social.",
+      "d": "La libertad, la justicia, la igualdad y la soberanía nacional.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI046",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "La Junta de Gobierno Local existe en todos los municipios:",
+      "a": "Con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento.",
+      "b": "Con población inferior a 5.000 habitantes, cuando así lo disponga el reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento.",
+      "c": "Con población superior a 3.000 habitantes, cuando así lo disponga la Diputación Provincial.",
+      "d": "Con población inferior a 3.000 habitantes.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI616",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el Art. 5 del Estatuto de Autonomía gozan de la condición política de andaluz:",
+      "a": "Los ciudadanos españoles que hayan residido en algún momento en Andalucía.",
+      "b": "Los ciudadanos españoles de padres andaluces.",
+      "c": "Los ciudadanos españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los municipios de Andalucía.",
+      "d": "Todas las anteriores son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI312",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Si al iniciarse el ejercicio económico no hubiese entrada en vigor el presupuesto correspondiente de la entidad local:",
+      "a": "Se considerará automáticamente prorrogados los créditos no ejecutados del presupuesto anterior.",
+      "b": "Se considerará automáticamente prorrogado el del anterior, con sus créditos iniciales.",
+      "c": "Se considerará automáticamente prorrogado el del anterior, con sus créditos finales.",
+      "d": "Se considerará automáticamente prorrogado el del anterior, con el 75 % de los créditos iniciales.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI765",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Contra las ordenanzas fiscales aprobadas por el Pleno de la Corporación:",
+      "a": "Se podrá interponer recurso potestativo de reposición ante el propio Pleno.",
+      "b": "Se podrá interponer recurso de Alzada ante el Alcalde.",
+      "c": "Se podrá interponer recurso ante el Tribunal Constitucional.",
+      "d": "Solo será recurrible vía contencioso – administrativa.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI448",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "En general, el importe de las tasas por la prestación de un servicio o por la realización de una actividad:",
+      "a": "No podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad de que se trate o, en su defecto, del valor de la prestación recibida.",
+      "b": "Será igual, en su conjunto, al coste real o previsible del servicio o actividad de que se trate o,",
+      "c": "Podrá podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad de que se trate o, en su defecto, del valor de la prestación recibida.",
+      "d": "Serán fijadas libremente por la Entidad Local.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI432",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "¿Cuándo producen efectos, según Ley 39/2015, de 1 de octubre del Procedimiento Administra- tivo Común de las Administraciones Públicas, los actos administrativos?",
+      "a": "Inmediatamente o desde la fecha en que se dicten, con arreglo a lo dispuesto en sus normas reguladoras.",
+      "b": "Inmediatamente con arreglo a lo dispuesto en sus normas reguladoras.",
+      "c": "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "d": "Cuando se publiquen.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI721",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Si no recae resolución expresa en un procedimiento de responsabilidad patrimonial:",
+      "a": "Se podrá entender estimada la solicitud de indemnización.",
+      "b": "Se podrá entender que la resolución es contraria a la indemnización del particular.",
+      "c": "Se podrá plantear la correspondiente reclamación",
+      "d": "Dará lugar a indemnización por daños y perjuicios.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI373",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+      "a": "Los actos que limiten derechos subjetivos o intereses legítimos.",
+      "b": "Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión.",
+      "c": "Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+      "d": "Todas son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI201",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Cuál de los siguientes actos administrativos es nulo de pleno derecho?",
+      "a": "Los actos administrativos realizados fuera del tiempo establecido para ellos.",
+      "b": "Los actos que incurran en cualquier defecto de forma.",
+      "c": "Los que tengan un contenido posible.",
+      "d": "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI340",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tConforme a lo indicado en el Art. 69 de la Ley 39/2015: Las declaraciones responsables y las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad,",
+      "a": "desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.",
+      "b": "al día siguiente de su presentación.",
+      "c": "transcurridas 48 horas tras su presentación.",
+      "d": "transcurridas 72 horas tras su presentación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI541",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 4 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mu - jeres y hombres, la igualdad de trato y de oportunidades entre mujeres y hombres:",
+      "a": "Es un principio de actuación de las Administraciones públicas.",
+      "b": "Es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+      "c": "Es una acción positiva para hacer efectivo el derecho constitucional de la igualdad.",
+      "d": "Es un principio que impulsa las relaciones interadministrativas y, como tal, se integrará y obser- vará en la interpretación y aplicación de las normas jurídicas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI027",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 8 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los empleados públicos se clasifican en:",
+      "a": "Funcionarios de carrera y funcionarios interinos.",
+      "b": "Funcionarios, personal laboral fijo y personal eventual.",
+      "c": "Funcionarios, personal laboral temporal y personal directivo profesional.",
+      "d": "Funcionarios de carrera, funcionarios interinos, personal laboral, ya sea fijo, por tiempo indefinido o temporal y personal eventual.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI922",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tLos equipos de protección individual deberán utilizarse:",
+      "a": "Siempre y en todo momento del día.",
+      "b": "Cuando los riesgos no se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del trabajo.",
+      "c": "Cuando los riesgos sean muy leves.",
+      "d": "Cuando los riesgos se puedan evitar o se pongan en marcha por medios técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del trabajo.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI685",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Qué documento define las condiciones de solvencia técnica exigidas a los licitadores?",
+      "a": "El informe de necesidad del contrato.",
+      "b": "El pliego de clausulas administrativas particulares.",
+      "c": "La memoria justificativa del contrato.",
+      "d": "El pliego de prescripciones técnicas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI555",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Es obligatoria la prórroga del contrato para el contratista ?",
+      "a": "Siempre.",
+      "b": "Debe ser expresamente aceptada.",
+      "c": "Siempre que se haya producido su preaviso dos meses antes de la finalización de su plazo de duración.",
+      "d": "Sólo cuando se acuerde expresamente.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI701",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿Puede el Ayuntamiento vender un bien de su propiedad?",
+      "a": "Si, previa instrucción de expediente licitatorio.",
+      "b": "Si, cuando se trate de un bien patrimonial.",
+      "c": "Si, cuando quede acreditado que no lo necesita para sus fines.",
+      "d": "No, sin autorización autonómica.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI205",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Puede un Ayuntamiento adquirir un inmueble a título oneroso sin licitación?",
+      "a": "Nunca, es obligatorio que la adquisición se rija por la Ley de contratos del Sector Publico.",
+      "b": "No, debe instrumentar de forma habitual el procedimiento de concurso.",
+      "c": "Si, cuando la singularidad y especificidad histórica, cultural o técnica del inmueble lo justifique.",
+      "d": "Si, cuando se trate de una adquisición por cesión de naturaleza urbanística.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI534",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿Cómo puede un particular obtener el uso privativo de una parcela de dominio público municipal?",
+      "a": "Mediante la obtención de la licencia municipal de uso.",
+      "b": "Mediante la concesión del uso.",
+      "c": "Previa solicitud, aportando memoria justificativa de su uso.",
+      "d": "Mediante la concurrencia a la subasta que al efecto convoque el Ayuntamiento.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI625",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Cuándo es facultativo emitir informe de supervisión de un proyecto para contratar una obras según la Ley de Contratos del Sector Público?",
+      "a": "Siempre que el contrato se licite por procedimiento abierto.",
+      "b": "Cuando el presupuesto base de licitación sea igual o superior a 500.00 euros, IVA excluido.",
+      "c": "Cuando la obra proyectada afecte la estabilidad, seguridad o estanqueidad de la obra.",
+      "d": "Cuando el presupuesto base de licitación sea inferior a 500.000 IVA excluido.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI165",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\t¿Requiere publicación la tramitación de los contratos menores de obras?",
+      "a": "No es necesario publicarlos.",
+      "b": "Si, debe publicarse anuncio de su licitación en la Plataforma de Contratación del Sector Público.",
+      "c": "Si, debe publicarse información relativa a la adjudicación de todos los contratos en el perfil de contratante del Ayuntamiento en la Plataforma de Contratación del Sector Publico , al menos trimestralmente.",
+      "d": "Deben publicarse los contratos que tengan un valor estimado superior a 15.000 euros.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI365",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿Cuándo comienza la ejecución del contrato de obras?",
+      "a": "Con la adjudicación.",
+      "b": "Con el acta de comprobación del replanteo.",
+      "c": "Con la firma del contrato.",
+      "d": "Con el acta de replanteo.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI138",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Es obligatorio que el proyecto de obras incluya estudio geotécnico?",
+      "a": "Si, siempre.",
+      "b": "No.",
+      "c": "Si, cuando la naturaleza del terreno lo requiera.",
+      "d": "Si, salvo que resulte incompatible con la naturaleza de la obra.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI385",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\t¿Son obligatorias para el contratista las modificaciones contractuales acordadas por el órgano de contratación?",
+      "a": "Si, siempre.",
+      "b": "Cuando impliquen una alteración de la cuantía que no exceda del 20% del precio inicial del contrato, IVA excluido.",
+      "c": "Cuando no impliquen una alteración de la cuantía que exceda del 50% del precio inicial del contrato, IVA excluido.",
+      "d": "Cuando impliquen una alteración de la cuantía que no exceda del 10% del precio inicial del contrato, IVA excluido.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI670",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Puede modificarse un contrato para suprimir unidades de obra?",
+      "a": "Si, pero el contratista no tendrá derecho a reclamar indemnización alguna.",
+      "b": "Si, siendo suficiente la justificación de su necesidad y la comunicación al contratista.",
+      "c": "No se considera modificación contractual.",
+      "d": "Si, teniendo el contratista derecho a reclamar indemnización por los gastos que se le hayan ocasionado.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI198",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\t¿Es posible la ocupación efectiva de una obra o su puesta en servicio sin acto formal de recepción?",
+      "a": "Si, previo acuerdo del órgano de contratación, con los efectos y consecuencias del acto de recepción de las obras.",
+      "b": "Si, cuando la dirección técnica entienda que concurran razones de interés público.",
+      "c": "Si, cuando se acuerde por el órgano de contratación la ocupación efectiva por razones excepcionales de interés público",
+      "d": "No, siempre es necesaria la formalización de la recepción.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI676",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿Durante la ejecución de un contrato de obras pueden darse instrucciones al contratista de forma verbal?",
+      "a": "Si, cuando sean ratificadas por escrito, en el plazo mas breve posible.",
+      "b": "No, deben ser siempre por escrito.",
+      "c": "Si, cuando se ratifiquen por el órgano de contratación.",
+      "d": "Siempre que se trate de cuestiones menores sin incidencia en la obra.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI187",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\t¿En qué supuesto es obligatoria la clasificación del contratista en la contratación pública?",
+      "a": "En todos los contratos del sector público, sin excepción.",
+      "b": "Cuando se trate de contratos de obras con valor estimado sea igual o superior a 500.000 euros.",
+      "c": "En todos los contratos con valor estimado igual o superior a 500.000 euros.",
+      "d": "En los contratos de servicios con valor estimado superior a 500.000 euros.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI843",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿Es obligatoria la clasificación del contratista para ser adjudicatario de un contrato de servicio",
+      "a": "Si, al tener por objeto una prestación de carácter intelectual.",
+      "b": "Si, pero solo si el valor estimado del contrato supera los 500.000 euros.",
+      "c": "No es obligatoria, aunque puede presentarse como medio de acreditación de la solvencia.",
+      "d": "Si, por tratarse de servicios especializados.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI900",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún la LISTA, las determinaciones de los instrumentos de ordenación territorial y urbanística podrán tener el carácter de:",
+      "a": "Normas, Directrices o Sugerencias.",
+      "b": "Normas, Reglas o Directrices.",
+      "c": "Técnicas, Jurídicas o Administrativas.",
+      "d": "Normas, Directrices o Recomendaciones.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI105",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, tendrán la condición de solar:",
+      "a": "las parcelas dotadas de las infraestructuras y servicios que determine la ordenación urbanística.",
+      "b": "las parcelas de suelo urbano dotadas de las infraestructuras y servicios que determine la ordenación urbanística.",
+      "c": "las parcelas en cualquier tipo de suelo dotadas de las infraestructuras y servicios que determine la ordenación urbanística.",
+      "d": "las parcelas dotadas de servicio urbano de suministro de agua potable, evacuación de aguas residuales y energía eléctrica con capacidad suficiente para el uso previsto.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI672",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, la categoría de Suelo No Urbanizable Protegido por Interés Agrícola de las Normas Subsidiarias Municipales de Chiclana de la Frontera (en adelante NNSS) se corresponde con:",
+      "a": "suelo rústico común.",
+      "b": "suelo rústico especialmente protegido por legislación sectorial.",
+      "c": "suelo rústico preservado por la ordenación territorial o urbanística.",
+      "d": "hábitat rural diseminado existente.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI243",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, cual de las siguientes no se considera una actuación ordinaria en suelo rústico:",
+      "a": "las obras, construcciones, edificaciones, viarios, infraestructuras, instalaciones y servicios técnicos que sean necesarios para el normal funcionamiento y desarrollo de los usos ordinarios del suelo rústico.",
+      "b": "la realización de las actuaciones en los asentamientos delimitados como hábitat rural diseminado para la conservación, mantenimiento y mejora de estos ámbitos, que no estén expresamente previstas en el instrumento de ordenación urbanística correspondiente.",
+      "c": "Las edificaciones destinadas a uso residencial que sean necesarias para el desarrollo de los usos ordinarios del suelo rústico, entre los que se incluyen los alojamientos para personas que",
+      "d": "La ejecución de infraestructuras, instalaciones y servicios técnicos de carácter permanente, no previstos en los instrumentos de planeamiento, y que necesariamente deban discurrir o localizarse en esta clase de suelo.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI453",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, las actividades extraordinarias en suelo rústico (señale la respuesta errónea):",
+      "a": "podrán tener por objeto la implantación de equipamientos, incluyendo su ampliación, así como usos industriales, terciarios o turísticos y cualesquiera otros que deban implantarse en esta clase de suelo.",
+      "b": "requieren, para ser legitimadas, de una autorización previa a la licencia municipal que cualifique los terrenos donde pretendan implantarse.",
+      "c": "la resolución del procedimiento corresponderá al Ayuntamiento, previo informe vinculante emitido por la Consejería competente en materia de Ordenación del Territorio cuando afecte al sistema de equipamientos municipales.",
+      "d": "se podrá establecer una duración limitada de la cualificación con la obligación de restitución de los terrenos finalizada la misma.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI856",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, la delimitación y ordenación de las actuaciones de transformación urbanística se realizará:",
+      "a": "por los correspondientes instrumentos de ordenación urbanística detallada y, en su caso, por el Plan de Ordenación Intermunicipal y por el Plan Básico de Ordenación Municipal.",
+      "b": "mediante la aprobación de una propuesta de delimitación previa.",
+      "c": "por los correspondientes instrumentos de ordenación urbanística general.",
+      "d": "por las personas propietarias del ámbito constituidas en órgano gestor.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI370",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme a la LISTA, un ámbito sectorizado de Suelo Apto para Urbanizar de las NNSS, no desarrollado:",
+      "a": "conforme a la Disposición Transitoria 2ª del RGLISTA, tendrá el régimen de la promoción de las actuaciones de transformación urbanística de nueva urbanización.",
+      "b": "deberá ser colindante al suelo urbano de los núcleos de población existentes, quedando integrada tras su transformación en la malla urbana.",
+      "c": "atendiendo a los principios de sostenibilidad y racionalidad deberá justificar la necesidad de transformación del suelo rústico y establecer sus determinaciones mediante el Plan Parcial de Ordenación.",
+      "d": "conforme a la Disposición Transitoria 1ª del RGLISTA, tendrá la consideración de suelo rústico común y por tanto, deberá aprobarse previamente el Plan General de Ordenación Municipal que legitime su delimitación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI179",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, cual de las siguientes determinaciones no concreta la ordenación urbanística detallada:",
+      "a": "El establecimiento de las zonas de suelo urbano.",
+      "b": "La regulación precisa de los usos en suelo urbano.",
+      "c": "La normativa urbanística de las distintas categorías y zonas de suelo rústico.",
+      "d": "Las\tdeterminaciones\tsobre\tla\tejecución\ty\tequidistribución\tde\tlas\tactuaciones\tde transformación urbanística.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI212",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl Plan de Ordenación Urbana de Chiclana de la Frontera, aprobado inicialmente el 28 de octubre de 2024:",
+      "a": "en ausencia de PGOM, delimita como suelo urbano únicamente los suelos reconocidos como tal por las NNSS y aquellos desarrollados en vigencia de esta, conforme a las determinaciones del artículo 13 de la LISTA y 19 del RGLISTA.",
+      "b": "en ausencia de PGOM, ordena todo el suelo urbano del municipio conforme a las determinaciones del artículo 13 de la LISTA y 19 del RGLISTA.",
+      "c": "en ausencia de PGOM, delimita como suelo urbano únicamente los suelos reconocidos como tal por las NNSS y aquellos desarrollados en vigencia de esta, así como los suelos ya urbanizados en desarrollo de los Planes Generales anulados.",
+      "d": "en ausencia de PGOM, establece la ordenación urbanística general de todo el territorio del término municipal, a través de la definición del modelo general de ordenación, la planificación estratégica de su evolución a medio y largo plazo y las determinaciones complementarias.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI699",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, un estudio de detalle podrá tramitarse:",
+      "a": "solamente en ámbitos de suelo urbano.",
+      "b": "en suelo urbano y en ámbitos de suelo rustico sometido a una actuación extraordinaria.",
+      "c": "en ámbitos de suelo urbano sometidos a actuaciones de transformación urbanística.",
+      "d": "en ámbitos de suelo urbano y en ámbitos de suelo rústico sometido a actuaciones de transformación urbanística de nueva urbanización.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI405",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA sobre el Régimen de los informes sectoriales, a falta de solicitud del informe preceptivo, en el supuesto de informe vinculante desfavorable, o en los casos de silencio en los que no opera la presunción del carácter favorable del informe:",
+      "a": "no podrá aprobarse definitivamente el correspondiente instrumento de ordenación urbanística.",
+      "b": "no podrá aprobarse definitivamente el correspondiente instrumento de ordenación urbanística en aquellas determinaciones que afecten a las competencias del órgano administrativo cuyo informe preceptivo fue omitido o, siendo vinculante, lo haya sido en sentido desfavorable.",
+      "c": "transcurridos dos meses desde la solicitud de informe, se entenderán emitidos con carácter favorable y podrá continuarse con la tramitación del procedimiento.",
+      "d": "la Administración urbanística requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que, en el plazo de un mes ordene al órgano sectorial competente la entrega del correspondiente informe.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI071",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, las actuaciones de urbanización pueden consistir en (señale la respuesta errónea):",
+      "a": "Obras para la reforma o renovación de la urbanización, en actuaciones de mejora urbana,",
+      "b": "Obras para la reforma o renovación de la urbanización en áreas de reforma interior.",
+      "c": "Obras de nueva urbanización en las actuaciones de nueva urbanización.",
+      "d": "Obras de urbanización de sistemas generales o locales no incluidos o adscritos a efectos de su ejecución material a actuaciones de transformación urbanística, así como de los adscritos o incluidos a actuaciones de transformación que requieran su ejecución anticipada.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI781",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA sobre las actuaciones de urbanización, los gastos de urbanización correspondientes al concepto “gastos de gestión del sistema de actuación”:",
+      "a": "habrán de estar expresamente justificados y no podrán exceder de el diez por ciento del total de los gastos de urbanización.",
+      "b": "habrán de estar expresamente justificados si exceden de el diez por ciento del total de los gastos de urbanización.",
+      "c": "habrán de estar expresamente justificados y no podrán exceder de el veinte por ciento del total de los gastos de urbanización.",
+      "d": "habrán de estar expresamente justificados si exceden de el veinte por ciento del total de los gastos de urbanización.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI502",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA sobre las actuaciones de urbanización, cual de los documentos siguientes no es necesario aportar acompañando a la solicitud de recepción de las obras:",
+      "a": "documentación descriptiva de las dimensiones debidamente georreferenciada y de las características de las obras ejecutadas.",
+      "b": "Certificación expedida por la dirección facultativa de las obras que acredite su finalización y que se han ejecutado conforme al proyecto de urbanización o título administrativo habilitante.",
+      "c": "Actas de recepción de la obra realizada por la empresa constructora.",
+      "d": "Informe de las entidades prestadoras de servicios sobre la conformidad con el proyecto autorizado de las obras e instalaciones que deban ser objeto de cesión a las mismas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI142",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA sobre los Medios de intervención administrativa sobre la actividad de edificación, señale cual de los siguientes actos requiere previa licencia urbanística:",
+      "a": "Los actos y obras promovidos por Administraciones Públicas en los supuestos exceptuados en la Ley y en el Reglamento.",
+      "b": "Los actos necesarios para la ejecución de resoluciones administrativas o jurisdiccionales dirigidas al restablecimiento de la legalidad territorial y urbanística.",
+      "c": "La instalación o ubicación de casas prefabricadas, caravanas fijas, casas móviles e instalaciones similares, provisionales o permanentes.",
+      "d": "Los actos de urbanización complementarios a las actuaciones edificatorias contenidos en los proyectos que las definan.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI060",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, sobre los Medios de intervención administrativa sobre la actividad de edificación, están sometidas a declaración responsable, en el marco de lo establecido en la legislación estatal:",
+      "a": "La realización de obras de escasa entidad constructiva y sencillez técnica que requieran",
+      "b": "Las obras en edificaciones o instalaciones existentes que sean conformes con la ordenación territorial y urbanística o se encuentren en situación de asimilado a fuera de ordenación, situadas en suelo urbano no sometido a actuaciones de transformación urbanística, siempre que no alteren los parámetros de ocupación y altura, ni conlleven incrementos en la edificabilidad o en el número de viviendas.",
+      "c": "Las obras en edificaciones e instalaciones existentes que sean conformes con la ordenación territorial y urbanística o se encuentren en situación legal de fuera de ordenación, situadas en suelo rústico y que tengan por objeto la mejora de las condiciones de eficiencia energética, la integración de instalaciones de energía renovable o la reducción de su impacto ambiental, siempre que no supongan obras de nueva planta o aumento de la superficie construida.",
+      "d": "La ocupación y utilización en edificaciones existentes que sean conformes con la ordenación vigente o se encuentren en situación de asimilado a fuera de ordenación, situadas en suelo urbano no sometido a actuaciones de transformación urbanística, siempre que no hayan sido objeto de obras.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI716",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, sobre Órdenes de ejecución de obras de conservación y mejora:",
+      "a": "Las órdenes de ejecución podrán dictarse previo informe técnico y jurídico de los servicios municipales, dando traslado a los propietarios afectados.",
+      "b": "Cuando las obras a ejecutar tengan sencillez técnica o escasa entidad el municipio iniciará el procedimiento de orden de ejecución requiriendo al propietario para ejecutar las mismas en un plazo máximo de dos meses.",
+      "c": "Iniciado el procedimiento, se notificará la apertura de audiencia por un plazo de veinte días a los propietarios y demás titulares de bienes y derechos reales afectados",
+      "d": "El plazo máximo de notificación de la resolución expresa será de seis meses desde la fecha del acuerdo de iniciación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI619",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, sobre el Plazo para restablecer la legalidad territorial y urbanística, la Administración competente podrá adoptar medidas de restablecimiento en todo momento respecto a los siguientes actos y usos (señale la respuesta errónea):",
+      "a": "Los realizados en suelo urbano en zona de influencia del litoral.",
+      "b": "Los realizados en suelo rústico preservado con riesgos ciertos de desprendimientos, corrimientos, inundaciones o similares o que los generen o incrementen, mientras subsistan dichos riesgos conforme al artículo 14.1 b) de la Ley.",
+      "c": "Los realizados sobre dominio público y servidumbres de protección.",
+      "d": "Los que afecten a zonas verdes y espacios libres.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI197",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, sobre el Régimen Sancionador, cual de las siguientes infracciones urbanísticas tiene carácter de muy grave:",
+      "a": "La expedición por profesionales o entidades urbanísticas certificadoras de informes, certificados o documentos similares con inexactitudes, falsedades u omisiones sustanciales para su traslado a la Administración.",
+      "b": "La realización de obras de urbanización, tales como la apertura de viales o la implantación de",
+      "c": "La resistencia, obstrucción, excusa o negativa a las actuaciones inspectoras.",
+      "d": "La prestación de servicios por las empresas suministradoras con incumplimiento de los actos administrativos que les ordenen su cese.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI163",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme al RGLISTA, sobre Adecuación ambiental y territorial de agrupaciones de edificaciones irregulares, el Plan Especial de adecuación ambiental y territorial, podrá delimitar una agrupación de edificaciones irregulares:",
+      "a": "sobre cualquier clase y categoría de suelo, salvo que en el mismo esté prevista una actuación de transformación urbanística y el instrumento que establece su ordenación detallada esté aprobado inicialmente.",
+      "b": "sobre cualquier clase y categoría de suelo, salvo que en el mismo esté prevista una actuación de transformación urbanística y el instrumento que establece su ordenación detallada esté aprobado definitivamente.",
+      "c": "sobre cualquier clase y categoría de suelo no sometido a actuaciones de transformación urbanística.",
+      "d": "en suelo urbano y en ámbitos de suelo rústico protegido por legislación sectorial cuando justifiquen su interés público o social, en función del análisis de parámetros objetivos.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI410",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tTras la aprobación de la nueva Ley LISTA, las Normas Subsidiarias Municipales de Chiclana de la Frontera (en adelante NNSS):",
+      "a": "son de ámbito municipal, y comprenden la totalidad del termino municipal de Chiclana de la Frontera.",
+      "b": "son de aplicación transitoria hasta tanto se apruebe el nuevo Plan General de Ordenación Municipal.",
+      "c": "son de ámbito municipal, regulándose el suelo rústico por las disposiciones transitorias de la LISTA.",
+      "d": "el Ayuntamiento tiene la obligación de sustituir las NNSS por un nuevo instrumento de ordenación general conforme a la LISTA.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI977",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEn vigencia de las NNSS, ¿se puede delimitar una actuación de transformación urbanística en suelo urbano?",
+      "a": "no, hay que aprobar antes el Plan de Ordenación Urbana (POU).",
+      "b": "si.",
+      "c": "si, siempre que sea una actuación de mejora urbana.",
+      "d": "si, siempre que sea un área de gestión integrada para la obtención de vivienda protegida.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI481",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEn vigencia de las NNSS, ¿se puede desarrollar una actuación de transformación urbanística de nueva urbanización?",
+      "a": "no.",
+      "b": "si.",
+      "c": "si, siempre que sea una actuación ya prevista en el Planeamiento General en vigor.",
+      "d": "no, es necesario previamente delimitarla conforme a los criterios del futuro Plan General de",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI675",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tLas NNSS de Chiclana de la Frontera, sobre las Condiciones generales de la edificación, regula las construcciones por encima de la última planta máxima permitida, estableciendo que (señale la respuesta errónea):",
+      "a": "se situará retranqueada como mínimo 3,00 metros de las alineaciones de calle.",
+      "b": "ningún punto podrá sobrepasar un plano inclinado a 45º que se apoya en el encuentro de la cara superior del forjado de la última planta con el plano de fachada.",
+      "c": "su altura desde el forjado en que se apoya hasta su remate superior, instalación o cualquier elemento constructivo, no será superior a 3,50 metros.",
+      "d": "su superficie construida no superará el 20% de la superficie de la planta en que se apoya.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI878",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tLas NNSS de Chiclana de la Frontera, sobre las Condiciones generales higiénico-sanitarias que deben cumplir las edificaciones, define como patio vividero:",
+      "a": "aquellos de forma y dimensiones tales que se pueda inscribir un círculo cuyo diámetro no sea inferior a la altura del patio, con un mínimo de 8,00 metros de diámetro en cualquier caso.",
+      "b": "aquellos de forma y dimensiones tales que se pueda inscribir un círculo de 8,00 metros de diámetro.",
+      "c": "aquellos de forma y dimensiones tales que se pueda inscribir un círculo cuyo diámetro no sea inferior a la altura del patio, con un mínimo de 6,00 metros de luces rectas.",
+      "d": "aquellos que, en cualquier caso, iluminen y ventilen viviendas completas (sin huecos a la vía pública), considerándoselas como viviendas exteriores.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI169",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tLas NNSS de Chiclana de la Frontera permiten para el uso pormenorizado Parcelas singulares destinadas a Industrias y Bodegas (PIB) las actuaciones de sustitución parcial o total de la edificación para usos extraordinarios. En esos casos, la edificabilidad máxima permitida será:",
+      "a": "1,00 m²/m² sobre la superficie total de parcela.",
+      "b": "1,50 m²/m² sobre la superficie de la zona de la parcela situada hasta 20,00 m. de profundidad desde la fachada o alineación a calle.",
+      "c": "1,50 m²/m² sobre el 75% de la superficie total de la parcela.",
+      "d": "la menor que resulte de todas las anteriores.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI333",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tCual de los siguientes elementos no tiene declaración de Bien de Interés Cultural (BIC):",
+      "a": "Iglesia de San Juan Bautista.",
+      "b": "Torre del Reloj.",
+      "c": "Poblado de Sancti Petri.",
+      "d": "Torre del Puerco.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI095",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tCual de las siguientes categorías no pertenece al suelo no urbanizable protegido de las NNSS de Chiclana de la Frontera:",
+      "a": "protección de lagunas y cauces superficiales.",
+      "b": "protección sectorial por afección a vía pecuaria.",
+      "c": "protección del planeamiento por su situación en la estructura general.",
+      "d": "protección ambiental visual.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI569",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\t¿Qué agentes establece la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación (en adelante LOE) que tienen la obligación de firmar o suscribir el acta de replanteo de una obra?",
+      "a": "El director de obra y el constructor.",
+      "b": "El promotor, el director de obra y el constructor.",
+      "c": "El director de obra, el director de ejecución de la obra y el constructor.",
+      "d": "El director de ejecución de la obra, el constructor y el promotor.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI562",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl Código Técnico de la Edificación (en adelante CTE) es el marco normativo por el que se regulan las exigencias básicas de calidad que deben cumplir los edificios, incluidas sus instalaciones, para satisfacer los requisitos…",
+      "a": "de seguridad y habitabilidad; los de funcionalidad se regirán por su normativa específica.",
+      "b": "de funcionalidad.",
+      "c": "de seguridad, habitabilidad y funcionalidad.",
+      "d": "de seguridad y funcionalidad; los de habitabilidad se regirán por su normativa específica.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI075",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el CTE-DB-SI, ¿es obligatorio que los locales de riesgo dispongan de vestíbulo de independencia en cada comunicación con el resto del edificio?",
+      "a": "Sí, en todo caso.",
+      "b": "Sólo para locales de riesgo alto.",
+      "c": "Sólo para locales de riesgo medio y alto.",
+      "d": "No.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI592",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el CTE-DB-SI, ¿Qué diferencia una escalera protegida de una escalera especialmente protegida?",
+      "a": "Las escaleras especialmente protegidas son de mayor altura que las protegidas.",
+      "b": "Una escalera especialmente protegida requiere de unas condiciones de ventilación adicionales a la de la escalera protegida.",
+      "c": "Las escaleras especialmente protegidas reúnen las condiciones de las protegidas pero además disponen de un vestíbulo de independencia diferente en cada uno de sus accesos a cada planta.",
+      "d": "Las escaleras especialmente protegidas requieren de ventilación natural y sistema de presión diferencial conforme a EN 12101-6:2005.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI122",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el documento básico DB-SUA, las escaleras que salven una altura mayor de 55 cm dispondrán de pasamos a ambos lados de la escalera cuando su anchura libre exceda de:",
+      "a": "1,10 m.",
+      "b": "1,20 m.",
+      "c": "1,50 m.",
+      "d": "1.80 m.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI775",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 2 del CTE DB-SU1, excepto en zonas de uso restringido y con el fin de limitar el",
+      "a": "6 mm.",
+      "b": "10 mm.",
+      "c": "15 mm.",
+      "d": "Ninguna de las respuestas son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI164",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\t¿Es de aplicación el CTE-DB-HE-1 para intervenciones en edificios existentes?",
+      "a": "Sí, en cambios de uso siempre que la superficie útil total supere los 50 m² .",
+      "b": "Sí, en reformas siempre que se renueven de forma conjunta las instalaciones de generación térmica y más del 25% de la superficie total de la envolvente térmica final del edificio.",
+      "c": "Sí, en ampliaciones, cambios de uso y reformas.",
+      "d": "Las respuestas a y b son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI940",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn referencia al decreto 293/2009, por el que se aprueba el reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte en Andalucía (señale la afirmación errónea):",
+      "a": "Las áreas y dependencias de utilización colectiva deberán ser accesibles a personas con movilidad reducida.",
+      "b": "Las dimensiones de los vestíbulos serán tales que pueda inscribirse en ellos una circunferencia de 1,50 m. de radio no barrido por las hojas de las puertas.",
+      "c": "El ángulo de apertura de las puertas interiores no será inferior a 90 grados.",
+      "d": "Las puertas correderas no tendrán resaltes con el pavimento.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI070",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tPara la accesibilidad en espacios públicos urbanizados, además del decreto 293/2009, ¿Qué otra Orden es de obligado cumplimiento?:",
+      "a": "La Orden VIV/561/2009.",
+      "b": "La Orden VIV/984/2009.",
+      "c": "La Orden TMA/370/2022.",
+      "d": "La Orden TMA/851/2021.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI988",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tDe acuerdo con el CTE-DB-HS, sección HS 4 Suministro de agua, tanto en instalaciones individuales como en instalaciones de producción centralizada de agua caliente sanitaria (ACS), la red de distribución debe estar dotada de una red de retorno cuando la longitud de la tubería de ida al punto de consumo más alejado sea igual o mayor que:",
+      "a": "15 m.",
+      "b": "20 m.",
+      "c": "30 m.",
+      "d": "50 m.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI184",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el Anejo I de la Parte I del CTE, ¿es necesario incluir el apartado referente a la sustentación del edificio en la memoria constructiva de un Proyecto Básico?",
+      "a": "No.",
+      "b": "Sí.",
+      "c": "Sólo en caso de estructuras de hormigón.",
+      "d": "Sólo en proyectos de edificios medianeros o de más de 4 plantas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI177",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tUna de las exigencias del DB-HE1 es que las particiones interiores del edificio limiten la transferencia de calor entre las distintas unidades de uso del mismo:",
+      "a": "Si, es correcto.",
+      "b": "No, el DB-HE1 solo limita las transferencias de calor entre el exterior e interior de la envolvente.",
+      "c": "No es correcto, esa exigencia corresponde al DB-HE0.",
+      "d": "Correcto pero solo para edificios comerciales o de uso industrial.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI990",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún la LOE, las titulaciones académicas y habilitantes para desempeñar la función de coordinador de seguridad y salud serán las de:",
+      "a": "arquitecto y arquitecto técnico.",
+      "b": "arquitecto, arquitecto técnico, ingeniero o ingeniero técnico, de acuerdo con sus competencias y especialidades.",
+      "c": "arquitecto, arquitecto técnico, ingeniero o ingeniero técnico y graduado en Prevención en riesgos laborales.",
+      "d": "arquitecto técnico, ingeniero técnico y graduado en Prevención en riesgos laborales.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI708",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún la LOE, la responsabilidad civil será exigible:",
+      "a": "en forma personal e individualizada.",
+      "b": "a partes iguales entre otros agentes intervinientes.",
+      "c": "solidariamente entre los intervinientes cuando no pudiera individualizarse la causa de los daños.",
+      "d": "Las respuestas A) y C) son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI017",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSegún el CTE Parte I, ¿quiénes son los responsables de la aplicación del CTE?",
+      "a": "únicamente el Proyectista.",
+      "b": "el Director de Obra y el Director de la Ejecución de la obra.",
+      "c": "todos los agentes que participan en el proceso de la edificación.",
+      "d": "el Promotor y el Proyectista.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI747",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el CTE, Parte I, cuando la aplicación del CTE no sea urbanística, técnica o económicamente viable, ¿quién será responsable de aquellas soluciones que permitan el mayor grado posible de adecuación efectiva?",
+      "a": "el Constructor.",
+      "b": "el Promotor.",
+      "c": "el Proyectista.",
+      "d": "el Director de Ejecución de la obra.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI621",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el CTE-DB-SI, el objetivo del requisito básico \"Seguridad en caso de incendio\" consiste en",
+      "a": "el riesgo de que los usuarios de un edificio sufran daños derivados de un incendio de origen accidental, como consecuencia de las características de su proyecto y construcción, entre otros aspectos.",
+      "b": "los daños que sufra el edificio derivados de un incendio de origen accidental, como consecuencia de las características de su proyecto, construcción, uso y mantenimiento.",
+      "c": "el riesgo de que los usuarios de un edificio sufran daños derivados de las características de su proyecto, construcción, uso y mantenimiento.",
+      "d": "el riesgo de que los usuarios de un edificio sufran daños derivados de un incendio de origen accidental, como consecuencia de los niveles mínimos de calidad de la edificación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI813",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el CTE DB-SUA, dispondrán de ascensor accesible:",
+      "a": "Los edificios de uso Residencial Vivienda en los que haya que salvar más de una planta desde alguna entrada principal accesible al edificio hasta alguna vivienda o zona comunitaria.",
+      "b": "Los edificios de uso Residencial Vivienda con más de 10 viviendas en plantas sin entrada principal accesible al edificio.",
+      "c": "Los edificios de otros usos en los que haya que salvar más de dos plantas desde alguna entrada principal accesible al edificio hasta alguna planta que no sea de ocupación nula.",
+      "d": "En los edificios de otros usos, las plantas que tengan zonas de uso público con más de 80 m² de superficie útil.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI267",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el CTE, Parte I, el contenido del proyecto básico será el suficiente para solicitar la licencia municipal de obras, ¿cuál de los siguientes Documentos Básicos deben ser justificados obligatoriamente en el Proyecto Básico?:",
+      "a": "Seguridad estructural.",
+      "b": "Seguridad en caso de incendio.",
+      "c": "Protección frente al ruido y ahorro de energía.",
+      "d": "Cumplimiento de parámetros urbanísticos de aplicación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI667",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y de salud en las obras de construcción ¿Quién elabora el Plan de Seguridad y Salud en una obra?",
+      "a": "el contratista.",
+      "b": "el coordinador de seguridad y salud.",
+      "c": "la empresa de prevención de riesgos laborales.",
+      "d": "la dirección facultativa cuando no exista coordinador de seguridad.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI571",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al RD 105/2008 por el que se regula la producción y gestión de los residuos de construcción y demolición, el Estudio de Gestión de Residuos:",
+      "a": "Quedará integrado en el Proyecto de Ejecución según señala el artículo 4 del Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción y demolición.",
+      "b": "Formará parte del contenido del Proyecto Básico según se especifica en la Parte I del CTE.",
+      "c": "No se encuentra regulado como contenido del proyecto básico ni de ejecución.",
+      "d": "Se aportará a la Administración competente como documento independiente después de la concesión de licencia y antes del comienzo de obra.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI120",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tLos residuos de construcción y demolición se destinarán preferentemente, conforme al RD 105/2008 por el que se regula la producción y gestión de los residuos de construcción y demolición, a:",
+      "a": "Operaciones de reutilización, reciclado o a otras formas de valoración, por este orden.",
+      "b": "Indistintamente a operaciones de reutilización, reciclado o a otras formas de valoración.",
+      "c": "Operaciones de reutilización, reciclado o eliminación.",
+      "d": "Operaciones de reutilización, reciclado o eliminación, según prioridad.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI379",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 4 de la Orden ECO/805/2003, de 27 de marzo, sobre normas de valoración de bienes inmuebles y de determinados derechos para ciertas finalidades financieras, ¿cómo se define la superficie útil?:",
+      "a": "Es el área medida por el tasador teniendo en cuenta las definiciones de superficie útil o construida y el correspondiente plano acotado.",
+      "b": "Es la superficie construida sin partes comunes más la parte proporcional que le corresponda según su cuota en la superficie de los elementos comunes del edificio.",
+      "c": "Es la superficie del suelo delimitado por el perímetro definido por la cara interior de los cerramientos externos de un edificio o de un elemento de un edificio, incluyendo la mitad de la superficie del suelo de sus espacios exteriores de uso privativo cubiertos (tales como terrazas, balcones y tendederos, porches, muelles de carga, voladizos, etc.), medida sobre la proyección horizontal de su cubierta.",
+      "d": "Es el espacio aprovechable del inmueble, incluyendo parte proporcional de zonas comunes y zonas exteriores y excluyendo elementos estructurales.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI639",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, establece dos situaciones básicas para el suelo:",
+      "a": "Suelo rural y suelo urbanizado.",
+      "b": "Suelo rústico y suelo urbano.",
+      "c": "Suelo no urbanizado y suelo urbano.",
+      "d": "suelo urbanizable y suelo urbanizado.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI683",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tConforme al Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, un ámbito de Suelo apto para urbanizar de las Normas Subsidiarias Municipales de Chiclana de la Frontera, pendiente de desarrollar mediante Plan Parcial, se encuentra a los efectos de esta Ley:",
+      "a": "en situación básica de suelo urbanizable.",
+      "b": "en situación de suelo urbanizado legalmente integrado en la malla urbana.",
+      "c": "en situación básica de suelo rural.",
+      "d": "no podrá desarrollarse hasta que las NNSS se sustituyan por el PGOM y delimiten una ANU (actuación de nueva urbanización).",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI646",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo con RD 293/2009 de Julio, por el que se aprueba el reglamento que regula las",
+      "a": "Los dos niveles a comunicar se enlacen por un plano inclinado de pendiente longitudinal y transversal que, como máximo, será del 8% y 2% respectivamente.",
+      "b": "Los dos niveles a comunicar se enlacen por un plano inclinado de pendiente longitudinal y transversal que, como máximo, será del 10% y 2% respectivamente.",
+      "c": "El rebaje quede a un máximo de 2 cm del pavimento de la calzada.",
+      "d": "Todas son incorrectas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI790",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el artículo 12 de la LOE, ¿de quien es obligación elaborar las eventuales modificaciones del Proyecto?:",
+      "a": "El director de ejecución material.",
+      "b": "El director de obra.",
+      "c": "El contratista.",
+      "d": "Ninguna de las anteriores.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI330",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEn las obras de la Administración pública y según el R.D.1627/1997, ¿quién aprueba el plan de seguridad y salud?",
+      "a": "La dirección facultativa.",
+      "b": "El coordinador de seguridad y salud.",
+      "c": "La administración pública que haya adjudicado la obra.",
+      "d": "El contratista.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI449",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el R.D. 1627/1997 en su artículo 13 Libro de Incidencias, en el caso de realizar una anotación referida a cualquier incumplimiento de las advertencias u observaciones previamente anotadas en dicho libro por las personas facultadas para ello, deberá remitirse una copia a la Inspección de Trabajo y Seguridad Social en un plazo de:",
+      "a": "24 horas.",
+      "b": "48 horas.",
+      "c": "No más de una semana.",
+      "d": "8 horas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI766",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe acuerdo con RD 293/2009 de Julio, por el que se aprueba el reglamento que regula las normas de accesibilidad en Andalucía, las dimensiones de las plazas reservadas para movilidad reducida serán como mínimo:",
+      "a": "batería o semibatería de 5 x 3,60 metros.",
+      "b": "batería o semibatería de 6 x 3,60 metros.",
+      "c": "en línea de 5 x 2,20 metros.",
+      "d": "en línea de 6 x 2,20 metros",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI704",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl CTE se aplica a:",
+      "a": "en obras de nueva construcción, excepto a aquellas construcciones de sencillez técnica y de",
+      "b": "en una obra de autopista, sin edificación alguna.",
+      "c": "No se aplicará en ampliaciones y reformas, pero si en cambios de uso.",
+      "d": "Ninguna es correcta.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI336",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún la Ley 37/2015 de carreteras, las zonas de protección de la carretera son:",
+      "a": "Zona de servidumbre, de dominio público y de afección.",
+      "b": "Zona de servidumbre, de dominio público y de afección y de limitación de edificabilidad.",
+      "c": "Zona de dominio público y de servidumbre.",
+      "d": "Zona de resguardo.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI227",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el decreto 67/2011 por el que se regula el control de calidad de la construcción y obra pública, durante la construcción de las obras, la dirección facultativa competente, realizará, en la forma prevista en las disposiciones de aplicación en función del tipo de obra, los controles siguientes:",
+      "a": "de la recepción en obra de los productos, equipos y sistemas suministrado, de la ejecución de la obra y de la obra terminada.",
+      "b": "de la ejecución de la obra y la obra terminada.",
+      "c": "de la recepción en obra de los productos, equipos y sistemas suministrado.",
+      "d": "a las entidades de control.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI010",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe conformidad con el Artículo 5 “Bolsa de suelo para vivienda asequible”, del Decreto-ley 1/2025, de 24 de febrero, de medidas urgentes en materia de vivienda, en las parcelas y edificios existentes calificados por los instrumentos de ordenación urbanística con el uso residencial de vivienda libre podrá incrementarse:",
+      "a": "En parcelas sin edificar destinadas a vivienda protegida se podrá incrementar la densidad de vivienda en un 20% y la edificabilidad en un 10%.",
+      "b": "En parcelas sin edificar destinadas a vivienda protegida se podrá incrementar la densidad de vivienda en un 20% y la edificabilidad en un 20%.",
+      "c": "En parcelas sin edificar destinadas a vivienda protegida se podrá incrementar la densidad de vivienda en un 30% y la edificabilidad en un 20%.",
+      "d": "En parcelas sin edificar destinadas a vivienda protegida se podrá incrementar la densidad de vivienda en un 30% y la edificabilidad en un 30%.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI711",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún art. 58 de la Ley 4/2017, de 25 de septiembre, de los Derechos y la Atención a las Personas con Discapacidad en Andalucía, en los proyectos de viviendas protegida, o sobre suelos destinados a vivienda protegida, promovidos o subvencionados por las Administraciones Públicas, se reservará:",
+      "a": "un 4% de las viviendas de las promociones referidas a personas con discapacidad.",
+      "b": "un 4% de las viviendas de las promociones referidas a personas con movilidad reducida.",
+      "c": "un 6 % de las viviendas de las promociones referidas a personas con discapacidad, de las que",
+      "d": "un 8 % de las viviendas de las promociones referidas a personas con discapacidad, de las que un 4% se destinarán a personas con movilidad reducida.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI777",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe conformidad con el artículo 38. “Procedimiento de la evaluación ambiental estratégica ordinaria para la formulación de la declaración ambiental estratégica”, junto con la solicitud de inicio de la evaluación ambiental estratégica ordinaria habrá que acompañar:",
+      "a": "el borrador del plan o programa y el documento inicial estratégico.",
+      "b": "el borrador del plan o programa y el estudio ambiental estratégico.",
+      "c": "la versión preliminar del plan o programa y el estudio ambiental estratégico.",
+      "d": "la propuesta final del plan o programa y el estudio ambiental estratégico.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI967",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tLa formulación del la Declaración Ambiental Estratégica de un Plan Parcial de Ordenación promovido por un particular corresponde a:",
+      "a": "la Consejería competente en materia de Urbanismo.",
+      "b": "la Consejería competente en materia de Medio Ambiente.",
+      "c": "al Ayuntamiento.",
+      "d": "al Ayuntamiento previo informe favorable de las Consejerías competentes en materia de Urbanismo y de Medio Ambiente.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI722",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEn el supuesto de que no se haya solicitado y/o obtenido prórroga de de la declaración ambiental estratégica antes de que transcurra el plazo previsto, la declaración ambiental estratégica perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicada en el Boletín Oficial de la Junta de Andalucía, no se hubiera procedido a la adopción o aprobación del plan o programa:",
+      "a": "en el plazo máximo de dos años desde su publicación.",
+      "b": "en el plazo máximo de tres años desde su publicación.",
+      "c": "en el plazo máximo de cuatro años desde su publicación.",
+      "d": "en el plazo máximo de cinco años desde su publicación.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI274",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe acuerdo con lo previsto en el artículo 4.1 de la Ley de Vías Pecuarias, las cañadas son aquellas vías cuya anchura no exceda de los:",
+      "a": "90 metros",
+      "b": "75 metros.",
+      "c": "37,5 metros.",
+      "d": "20 metros.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI980",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tDe conformidad con lo dispuesto en el artículo 7 de la Ley de Vías Pecuarias, el amojonamiento:",
+      "a": "es el acto administrativo de carácter declarativo en virtud del cual se determinan la existencia, denominación, anchura, trazado y demás características físicas generales de cada vía pecuaria.",
+      "b": "es el acto administrativo por el que se definen los límites de las vías pecuarias, incluyendo los abrevaderos, descansaderos, majadas y demás lugares asociados al tránsito ganadero, de acuerdo",
+      "c": "es el procedimiento administrativo en virtud del cual, una vez aprobado la clasificación, se determinan físicamente los límites de la vía pecuaria y se señalizan con carácter permanente sobre el terreno, de conformidad con lo establecido en el artículo 9 de la Ley de Vías Pecuarias",
+      "d": "es el procedimiento administrativo en virtud del cual, una vez aprobado el deslinde, se determinan físicamente los límites de la vía pecuaria y se señalizan con carácter permanente sobre el terreno, de conformidad con lo establecido en el artículo 9 de la Ley de Vías Pecuarias.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI715",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tDe conformidad con el artículo 36 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, podrán considerarse expectativas derivadas de la asignación de edificabilidades y usos por la ordenación territorial o urbanística para la valoración de un suelo en situación de suelo rural:",
+      "a": "cuando hayan sido plenamente realizados.",
+      "b": "una vez aprobado y publicado el Plan de Ordenación Urbana.",
+      "c": "una vez aprobado el Plan General de Ordenación Municipal.",
+      "d": "una vez aprobado y publicado el Plan General de Ordenación Municipal",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI331",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe conformidad con el artículo 34. Aplicabilidad del método residual, de la “Orden ECO/805/2003, de 27 de marzo, sobre normas de valoración de bienes inmuebles y de determinados derechos para ciertas finalidades financieras”, el método residual sólo se podrá aplicar mediante el procedimiento estático, a los solares edificados así como a los solares e inmuebles en rehabilitación en los que se pueda comenzar la edificación o rehabilitación:",
+      "a": "en un plazo no superior a un año.",
+      "b": "en un plazo no superior a dos años.",
+      "c": "en un plazo no superior a tres años.",
+      "d": "en un plazo no superior a cuatro años.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI412",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "0.\tDe conformidad con el artículo Artículo 123. Justiprecio y pago en especie, órgano competente para su fijación y bonificación por avenencia, del CAPÍTULO VI “La expropiación forzosa por razón de urbanismo” de la LISTA, cuando el pago del justiprecio se hace en especie:",
+      "a": "No será de aplicación la bonificación por avenencia.",
+      "b": "Solo será de aplicación la bonificación por avenencia cuando se produzca la aceptación por la persona expropiada del precio ofrecido por la Administración actuante o su beneficiario en el plazo concedido al efecto.",
+      "c": "Solo será de aplicación la bonificación por avenencia cuando se produzca la aceptación por la persona expropiada del precio ofrecido por la Administración actuante o su beneficiario en el plazo concedido al efecto, siempre y cuando no implique un pago en metálico a favor de la persona expropiada.",
+      "d": "Es de aplicación obligatoria para la Administración la bonificación por avenencia.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI375",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "El órgano instructor resolverá la finalización del procedimiento sancionador, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias:",
+      "a": "La inexistencia de los hechos que pudieran constituir la infracción.",
+      "b": "Cuando los hechos no resulten acreditados.",
+      "c": "Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa.",
+      "d": "Todas son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI319",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "¿Puede el contratista percibir abonos a cuenta de la obra en concepto de acopio de materiales?",
+      "a": "Si, cuando el pliego de clausulas administrativas particulares lo prevea.",
+      "b": "Si, previa prestación de garantía.",
+      "c": "Con las condiciones y limites que se determinen reglamentariamente.",
+      "d": "Todas las anteriores son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI152",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Conforme al RGLISTA, en las actuaciones de nueva urbanización, los terrenos incluidos en la zona de servidumbre de protección del dominio público marítimo-terrestre que carezcan de ordenación urbanística detallada deberán ser destinados a:",
+      "a": "actividades complementarias a los usos náuticos-recreativos.",
+      "b": "sistema general o local de espacios libres y zonas verdes.",
+      "c": "equipamientos comunitarios de ámbito supralocal.",
+      "d": "adoptar medidas que puedan contribuir a la adaptación del litoral a los efectos del cambio climático y prevenir y reducir los efectos de los riesgos naturales.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI849",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Las NNSS de Chiclana de la Frontera, en la regulación de los usos del suelo, establecen (señale la respuesta errónea):",
+      "a": "uso residencial es aquel que sirve para proporcionar alojamiento a las personas.",
+      "b": "uso terciario es aquel que tiene por finalidad la prestación de servicios al público, a las empresas u organismos.",
+      "c": "el uso hotelero está englobado en el uso residencial.",
+      "d": "el uso hotelero está englobado en el uso terciario.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI955",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "El Decreto 195/2007, de 26 de junio, por el que se establecen las condiciones generales para la celebración de espectáculos públicos y actividades recreativas de carácter ocasional y extraordinario en Andalucía, es de aplicación:",
+      "a": "a los espectáculos públicos y actividades recreativas ocasionales y extraordinarios que se celebren en Andalucía.",
+      "b": "a las actividades de turismo activo y ecoturismo.",
+      "c": "a los espectáculos taurinos y festejos taurinos populares.",
+      "d": "todas son correctas.",
+      "origen": "CHICLANA_2022",
+      "fid": "CHI108",
+      "RESPUESTA": "a"
     }
   ]
 }

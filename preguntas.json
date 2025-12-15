@@ -2899,6 +2899,2156 @@
       "origen": "CHICLANA_2022",
       "fid": "CHI108",
       "RESPUESTA": "a"
+    },
+    {
+      "n": 1,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR442",
+      "pregunta": "Se articula en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en el Artículo 31. Políticas urbanas, de ordenación territorial y vivienda, en su apartado 3:",
+      "a": "Las Administraciones públicas tendrán en cuenta en el desarrollo de la ciudad, en las políticas urbanas, en la definición y ejecución del planeamiento urbanístico, la perspectiva de género, utilizando para ello, especialmente, mecanismos e instrumentos que fomenten y favorezcan la participación ciudadana y la transparencia.",
+      "b": "Las Administraciones públicas tendrán en cuenta en el diseño de la ciudad, en las políticas urbanas, en la definición y ejecución del planeamiento urbanístico, la perspectiva de género, utilizando para ello, especialmente, mecanismos e instrumentos que fomenten y favorezcan la participación ciudadana y la transparencia.",
+      "c": "Las Administraciones públicas tendrán en cuenta en el desarrollo de la ciudad, en las políticas urbanas, en la definición y ejecución del planeamiento urbanístico, la perspectiva de género, utilizando para ello, especialmente, mecanismos e instrumentos que fomenten y favorezcan la conciliación y participación.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 2,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR873",
+      "pregunta": "La Constitución Española de 1978 en su Artículo 18 dispone en el apartado 1 que se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen; añadiendo el apartado 2:",
+      "a": "El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del propietario o resolución judicial, salvo en caso de flagrante delito.",
+      "b": "El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito",
+      "c": "El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular con resolución judicial, salvo en caso de flagrante delito.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 3,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR041",
+      "pregunta": "En el artículo 129 de la Normativa del Plan Especial de Protección y Catálogo del Conjunto Histórico de Utrera se regula la altura máxima en las edificaciones incluidas en la delimitación del Conjunto Histórico. Indicar la respuesta correcta:",
+      "a": "Las edificaciones con altura máxima de dos (2) plantas (planta baja más una planta), podrán alcanzar hasta la cara superior del forjado de techo de planta primera un máximo de ocho (8,00) metros.",
+      "b": "Las edificaciones con altura máxima de tres (3) plantas (planta baja más dos plantas), podrán alcanzar hasta la cara superior del forjado de techo de planta segunda un máximo de doce (12,00) metros.",
+      "c": "En el caso de edificios de tres plantas de altura, por encima de esta altura solo se permitirán los elementos indicados en el artículo 132, siempre que estén retiradas un mínimo de cuatro (4) metros de la fachada.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 4,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR617",
+      "pregunta": "En el artículo 152 de la normativa urbanística del Plan Especial de Protección y Catálogo del Conjunto Histórico de Utrera se regulan los cuerpos salientes de las edificaciones incluidas en la delimitación del Conjunto Histórico. Señalar la respuesta incorrecta:",
+      "a": "No se permiten cuerpos volados cerrados.",
+      "b": "Las jambas de las portadas podrá sobresalir de la alineación un máximo de diez (10) centímetros.",
+      "c": "El vuelo máximo en balcones, cierros, cornisas, marquesinas y viseras no podrá ser superior de treinta (30) centímetros en calles de menos de nueve (9) metros de a la que de frente.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 5,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR991",
+      "pregunta": "Conforme se establece en el artículo 78 de la Normativa del Plan Especial de Protección y Catálogo del Conjunto Histórico de Utrera, los edificios catalogados B Protección Global, mantendrán la edificabilidad materializada conforme a lo establecido en el artículo 77 de la misma normativa, pudiéndose incrementar la edificabilidad:",
+      "a": "Hasta un máximo de un diez (10) por ciento, fuera de las áreas protegidas y siempre que se justifique su necesidad por razones de adaptar el edificio tecnológicamente, introducir mejoras de accesibilidad, seguridad o habitabilidad. Esta propuesta de incremento de superficie deberá ser aprobada por la Comisión Provincial de Patrimonio Histórico.",
+      "b": "Hasta un máximo de un cinco (5) por ciento, fuera de las áreas protegidas y siempre que se justifique su necesidad por razones de adaptar el edificio tecnológicamente, introducir mejoras de accesibilidad, seguridad o habitabilidad. Esta propuesta de incremento de superficie deberá ser aprobada por la Comisión Provincial de Patrimonio Histórico.",
+      "c": "Conforme a las Normas Generales del Plan Especial, previa aprobación por la Comisión Provincial de Patrimonio Histórico, según procedimiento establecido en el artículo 76 de la Normativa del plan Especial.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 6,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR298",
+      "pregunta": "Conforme se establece en el artículo 94 de la Normativa del Plan Especial de Protección y Catálogo del Conjunto Histórico de Utrera, para la ejecución de zanjas de infraestructuras de 4 metros de anchura, en actuaciones incluidas en la Zona I de protección arqueológica del Plan Especial ¿cuál es la actividad arqueológica preventiva que se deberá llevar a cabo?",
+      "a": "Control Arqueológico de Movimientos de Tierra.",
+      "b": "Excavación arqueológica, que podrá estar limitada a una superficie mínima del 25% orientada al conocimiento del potencial arqueológico del yacimiento, en función de cuyos resultados la Consejería de Cultura podrá determinar la continuidad de la actividad arqueológica, bien como excavación arqueológica, bien como control arqueológico de movimientos de tierra.",
+      "c": "Control Arqueológico de Movimientos de Tierra, pudiéndose realizar dicho control en el 50% de la superficie de la zona de intervención.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 7,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR882",
+      "pregunta": "Conforme se expone en el artículo 116 “Condiciones de segregación de parcelas” de la normativa del Plan Especial de Protección y Catálogo del Conjunto Histórico, para edificaciones no catalogadas incluidas en la delimitación del Conjunto Histórico no podrán segregarse parcelas como norma general, con las excepciones que se señalan. Indicar la respuesta correcta:",
+      "a": "Las parcelas pasantes que tengan una superficie superior a 300 m2 y fachada a dos o más calles, podrán segregarse con las siguientes condiciones: Una parcela como máximo por calle a la que de fachada; las parcelas resultantes tendrán un mínimo de seis (6) metros de longitud de fachada; y la superficie mínima de las parcelas resultantes será de cien (100) m²..",
+      "b": "Las parcelas pasantes que tengan una superficie superior a 200 m2 y fachada a dos o más calles, podrán segregarse con las siguientes condiciones: Una parcela como máximo por calle a la que de fachada; las parcelas resultantes tendrán un mínimo de seis (6) metros de longitud de fachada; y la superficie mínima de las parcelas resultantes será de cien (100) m²..",
+      "c": "Las parcelas pasantes que tengan una superficie superior a 300 m2 y fachada a dos o más calles, podrán segregarse con las siguientes condiciones: Una parcela como máximo por calle a la que de fachada; las parcelas resultantes tendrán un mínimo de ocho (8) metros de longitud de fachada; y la superficie mínima de las parcelas resultantes será de ciento veinte (120) m²..",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 8,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR467",
+      "pregunta": "Conforme al artículo 95 del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de Impulso para la sostenibilidad del territorio de Andalucía, los Catálogos tienen por objeto:",
+      "a": "Identificar, inventariar y catalogar los bienes del patrimonio histórico-artístico de un territorio.",
+      "b": "Establecer directrices y recomendaciones para la conservación y protección de los bienes del patrimonio histórico catalogados e inventariados.",
+      "c": "Complementar las determinaciones de los instrumentos de ordenación urbanística general y detallada relativas a la conservación, protección, puesta en valor y mejora de elementos del patrimonio histórico, cultural, urbanístico, arquitectónico, natural o paisajístico.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 9,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR616",
+      "pregunta": "Conforme al artículo 82.6 del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de Impulso para la sostenibilidad del territorio de Andalucía, en los ámbitos de actuaciones de transformación urbanística en suelo rústico, los Planes Parciales de Ordenación, en el marco de los instrumentos de ordenación urbanística general, deberán reservar y gestionar como mínimo dotaciones locales conforme a los siguientes estándares:",
+      "a": "Para el sistema local de espacios libres y zonas verdes más el sistema local de equipamientos comunitarios básicos, en actuaciones de uso global residencial, al menos, 12 m² de suelo por habitante, si la densidad es igual o superior a 100 viviendas por hectárea.",
+      "b": "Para el sistema local de espacios libres y zonas verdes más el sistema local de equipamientos comunitarios básicos, en actuaciones de uso global residencial, al menos, 14 m² de suelo por habitante, si la densidad es igual o superior a 70 viviendas por hectárea y menor a 100 viviendas por hectárea.",
+      "c": "Para el sistema local de espacios libres y zonas verdes más el sistema local de equipamientos comunitarios básicos, en actuaciones de uso global residencial, al menos, 18 m² de suelo por habitante, si la densidad es igual o superior a 40 viviendas por hectárea y menor a 70 viviendas por hectárea.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 10,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR176",
+      "pregunta": "Según el artículo 5.41 Dotación de Aparcamiento del Capítulo 2 Uso residencial del Plan General de Ordenación Urbanística de Utrera, los edificios de vivienda colectiva de nueva planta dispondrán de una plaza de aparcamiento de automóviles por cada cien (100) metros cuadrados construidos, y en todo caso, una plaza por cada vivienda o apartamento. No obstante, están excluidos aquellos edificios de vivienda colectiva que, contando con un número de viviendas inferior a ocho (8), cumplan además alguna de las siguientes condiciones:",
+      "a": "Tener un fondo inferior a doce (12) metros.",
+      "b": "Tener una fachada inferior a diez (10) metros.",
+      "c": "Tener una superficie inferior a doscientos (200) metros cuadrados.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 11,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR274",
+      "pregunta": "Conforme al artículo 94 del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de Impulso para la sostenibilidad del territorio de Andalucía, entre las competencias de los estudios de Detalle, no se encuentra:",
+      "a": "Modificar el número de viviendas establecido por el instrumento de ordenación urbanística detallada.",
+      "b": "Fijar o reajustar las alineaciones y rasantes de cualquier viario, sin que de ello pueda derivarse la reducción de la superficie o el menoscabo de la funcionalidad de la red de espacios libres y zonas verdes o de equipamientos.",
+      "c": "Completar las determinaciones del correspondiente instrumento de ordenación urbanística detallada relativas a la ordenación de los volúmenes, el trazado local del viario secundario y la localización del suelo dotacional.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 12,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR781",
+      "pregunta": "Conforme se establece en el Capítulo II Procedimiento de aprobación de los instrumentos de ordenación urbanística y de los instrumentos complementarios del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de Impulso para la sostenibilidad del territorio de Andalucía, los instrumentos complementarios de la ordenación, una vez aprobados inicialmente, se someterán a información pública por un plazo no inferior a:",
+      "a": "Quince días.",
+      "b": "Un mes.",
+      "c": "Veinte días.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 13,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR755",
+      "pregunta": "Según el artículo 21 de la Ley 7/2021 de 1 de diciembre de Impulso para la sostenibilidad del territorio de Andalucía, son usos ordinarios del suelo rústico:",
+      "a": "Los usos agroindustriales, en todo caso.",
+      "b": "La ejecución de infraestructuras, no previstas en los instrumentos de planeamiento y que necesariamente deban discurrir o localizarse en esta clase de suelo.",
+      "c": "Los usos turísticos.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 14,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR926",
+      "pregunta": "En en artículo 31 del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, se establece como parámetro condicionante de la parcela, para autorizar viviendas unifamiliares aisladas no vinculadas a las actuaciones ordinarias o extraordinarias:",
+      "a": "Tener Una superficie mínima de 3,5 hectáreas y permitir el trazado de un círculo de 100 metros de radio su interior",
+      "b": "Tener una superficie mínima de 3,5 hectáreas y permitir el trazado de un círculo de 50 metros de radio en su interior",
+      "c": "Tener Una superficie mínima de 2,5 hectáreas y permitir el trazado de un círculo de 50 metros de radio en su interior",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 15,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR744",
+      "pregunta": "Conforme al artículo 29 de la Ley 37/2015, de 29 de septiembre, de carreteras, constituye la zona de dominio público de las carreteras:",
+      "a": "Los terrenos ocupados por las propias carreteras del Estado, sus elementos funcionales y una franja de terreno a cada lado de la vía de 8 metros de anchura en autopistas y autovías y de 3 metros en carreteras convencionales, carreteras multicarril y vías de servicio, medidos horizontalmente desde la arista exterior de la explanación y perpendicularmente a dicha arista.",
+      "b": "Está constituida por dos franjas de terreno a ambos lados de las mismas, delimitadas interiormente por el eje de la carretera y exteriormente por dos líneas paralelas a las aristas exteriores de la explanación, a una distancia de 25 metros en autopistas y autovías y de 8 metros en carreteras convencionales y carreteras multicarril, medidos horizontalmente desde las citadas aristas.",
+      "c": "Está formada por una franja de terreno de 8 m. de anchura, medidos desde el borde exterior de la explanación, en todo tipo de vía.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 16,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR005",
+      "pregunta": "¿Qué sujetos tienen la iniciativa para el establecimiento del sistema de actuación, conforme a lo establecido en el artículo 102 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía?",
+      "a": "Sólo las personas propietarias que representen más del cincuenta por ciento de la superficie de la Unidad de Ejecución.",
+      "b": "La persona propietaria única o la totalidad de las personas propietarias, iniciando el expediente de reparcelación y, en su caso, mediante el convenio urbanístico que determine las condiciones y los términos de la ejecución del instrumento de ordenación urbanística; más del cincuenta por ciento de las personas propietarias de la Unidad de Ejecución que se constituirán en Junta de Compensación, salvo en los casos previstos en la ley, o cualquier persona física o jurídica, pública o privada, propietaria o no de suelo, interesada en asumir la actuación urbanizadora como agente urbanizador, instando la pública concurrencia de la actuación urbanizadora.",
+      "c": "La persona propietaria única o la totalidad de las personas propietarias, iniciando el expediente de reparcelación y, en su caso, mediante el convenio urbanístico que determine las condiciones y los términos de la ejecución del instrumento de ordenación urbanística; las personas propietarias que representen más del cincuenta por ciento de la superficie de la unidad de ejecución, que se constituirán en Junta de Compensación, salvo en los casos previstos en la ley, o cualquier persona física o jurídica, pública o privada, propietaria o no de suelo, interesada en asumir la actuación urbanizadora como agente urbanizador, instando la pública concurrencia de la actuación urbanizadora.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 17,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR245",
+      "pregunta": "El art. 36 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, establece que en valoración del suelo rural, los terrenos se tasarán por su:",
+      "a": "Valor por capitalización de la renta anual, pudiendo considerarse la asignación de edificabilidades y usos previstos en una actuación de nueva urbanización.",
+      "b": "Valor de mercado.",
+      "c": "Valor por capitalización de la renta anual real o potencial, la que sea superior, de la explotación según su estado en el momento al que deba entenderse referida la valoración.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 18,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR382",
+      "pregunta": "Conforme al artículo 25.3 del Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, será necesaria nueva autorización previa para la ampliación de actuaciones extraordinarias en suelo rústico cuando:",
+      "a": "Impliquen un incremento de superficie ocupada superior al veinte por ciento sobre la superficie inicialmente aprobada.",
+      "b": "Impliquen un cambio de uso independientemente de la superficie autorizada inicialmente.",
+      "c": "Impliquen un cambio de uso, salvo que la superficie afectada sea inferior al veinte por ciento sobre la superficie inicialmente aprobada.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 19,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR465",
+      "pregunta": "Según el artículo 56 de la Ley 8/2001, de 12 de julio, de Carreteras de Andalucía, ¿puede la Administración titular de la carretera aumentar o disminuir la zona de no edificación de una carretera andaluza?",
+      "a": "Sólo en determinados tramos, para obras necesarias de conservación y mantenimiento.",
+      "b": "Sólo en las variantes o en las carreteras de circunvalación, construidas para eliminar las travesías de poblaciones, en el caso que así se disponga en el planeamiento urbanístico correspondiente",
+      "c": "Sólo en determinados tramos cuando circunstancias especiales así lo aconsejen y previo informe de los municipios en cuyos términos radiquen los referidos tramos.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 20,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR923",
+      "pregunta": "Según el artículo 15 de la Ley 9/2006, de 26 de diciembre, de Servicios Ferroviarios de Andalucía, al zona de protección de las líneas ferroviarias consiste en:",
+      "a": "Una franja de terreno a cada lado de las mismas delimitada, interiormente, por la zona de dominio público y, exteriormente, por dos líneas paralelas situadas a 70 metros de las aristas exteriores de la explanación.",
+      "b": "Los terrenos ocupados por las líneas ferroviarias que formen parte de las Infraestructuras Ferroviarias de Andalucía y una franja de terreno de ocho metros a cada lado de la plataforma, medida en horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación",
+      "c": "Los terrenos ocupados por líneas ferroviarias que formen parte de las Infraestructuras ferroviarias de Andalucía y una franja de diez metros a cada lado de la plataforma, medida desde la arista exterior de la explanación.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 21,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR289",
+      "pregunta": "Según el artículo 29 del Decreto 293/2009, de 7 de julio, que aprueba el reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte de Andalucía, en todas las zonas de estacionamiento de vehículos en las vías o espacios públicos, estén situados en superficie o sean subterráneos, de titularidad pública o privada, sean o no de horario limitado, siempre que se destinen a uso colectivo o concurrencia pública, de manera permanente o provisional, se reservará, como mínimo, una plaza para personas con movilidad reducida por cada:",
+      "a": "Cien plazas o fracción, de manera que cualquier fracción menor de cien siempre requerirá como mínimo una plaza.",
+      "b": "Cincuenta plazas o fracción, de manera que cualquier fracción menor de cincuenta siempre requerirá como mínimo una plaza.",
+      "c": "Cuarenta plazas o fracción, de manera que cualquier fracción menor de cuarenta siempre requerirá como mínimo una plaza.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 22,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR305",
+      "pregunta": "Conforme al apartado III Criterios generales de aplicación del Documento Básico de Seguridad en caso de incendio (CTE DB SI), del Código Técnico de la Edificación, aprobado por Real Decreto 314/2006, de 17 de marzo, a los edificios, establecimientos o zonas de uso sanitario o asistencial de carácter ambulatorio se les debe aplicar las condiciones particulares del uso:",
+      "a": "Hospitalario.",
+      "b": "Pública concurrencia.",
+      "c": "Administrativo.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 23,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR941",
+      "pregunta": "En la tabla 5.1 de la Sección SI 3, del Documento Básico de Seguridad en caso de incendio (CTE DB SI), del Código Técnico de la Edificación, aprobado por Real Decreto 314/2006, de 17 de marzo, se indican las condiciones de protección que deben cumplir las escaleras previstas para evacuación. Para el uso de Aparcamiento:",
+      "a": "Se permiten escaleras no protegidas si son de evacuación ascendente.",
+      "b": "Se permiten las escaleras no protegidas si son de evacuación descendente y siempre que la altura de evacuación de la escalera sea menor o igual a 10 m.",
+      "c": "No se permiten las escaleras de evacuación no protegidas.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 24,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR606",
+      "pregunta": "De acuerdo con el Código Técnico de la Edificación, aprobado por Real Decreto 314/2006, de 17 de marzo, y conforme al punto C2 del anejo C del Documento Básico DB-SEC Seguridad Estructural Cimientos, las perforaciones de diámetros y profundidad variables que permiten reconocer la naturaleza y localización de las diferentes unidades geotécnicas del terreno, así como extraer muestras del mismo y, en su caso realizar ensayos a diferentes profundidades, se denominan:",
+      "a": "Sondeos mecánicos.",
+      "b": "Sondeos dinámicos.",
+      "c": "Sondeo eléctrico vertical.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 25,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR464",
+      "pregunta": "Conforme se establece en el artículo 2.3.3.5 del Documento Básico DB HS Salubridad, sección DB-HS1 Protección frente a la humedad, cuando la cámara quede interrumpida por un forjado o un dintel, debe disponerse un sistema de recogida y evacuación del agua filtrada o condensada en la misma. Para la evacuación debe disponerse uno de los sistemas siguientes:",
+      "a": "Un conjunto de llagas de la primera hilada desprovistas de mortero, separadas 1,5 m como máximo, a lo largo de las cuales se prolonga hasta el exterior el elemento de recogida dispuesto en el fondo de la cámara.",
+      "b": "Un conjunto de aperturas para ventilación separadas 1,5 m. como máximo.",
+      "c": "Una lámina o perfil especial dispuesto a lo largo del fondo de la cámara con inclinación hacia el exterior de tal forma que su borde superior esté situado como mínimo a 10 cm. del fondo y al menos 3 cm. por encima del punto más alto del sistema de evacuación.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 26,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR620",
+      "pregunta": "En virtud del artículo 84.2 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", la entrada en vigor de los instrumentos de ordenación urbanística producirá, de conformidad con su contenido material, los siguientes efectos: a) La declaración en situación de fuera de ordenación de las instalaciones, construcciones, obras y edificaciones erigidas legalmente con anterioridad, que resulten disconformes con la nueva ordenación, en los términos que disponga el instrumento de ordenación de que se trate.",
+      "b": "La declaración de la situación de asimilado a la fuera de ordenación de las instalaciones, construcciones, obras y edificaciones erigidas legalmente con anterioridad, que resulten disconformes con la nueva ordenación, en los términos que disponga el instrumento de ordenación de que se trate.",
+      "c": "La entrada en vigor de los instrumentos de ordenación no supone la obligatoriedad del cumplimiento de sus determinaciones, conforme a su carácter, por todos los sujetos, públicos y privados, siendo válida las reservas de dispensación.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 27,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR326",
+      "pregunta": "De acuerdo a lo establecido en la sección SI 2, en el punto 1, del Documento Básico de Seguridad en caso de incendio (CTE DB SI), del Código Técnico de la Edificación, aprobado por Real Decreto 314/2006, de 17 de marzo, de cara a evitar la propagación exterior de un incendio los elementos verticales separadores de otro edificio deben tener una resistencia al fuego para funcionar como una barrera eficaz de, al menos:",
+      "a": "EI 90.",
+      "b": "EI 120.",
+      "c": "EI 60.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 28,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR309",
+      "pregunta": "De acuerdo con el Código Técnico de la Edificación, Documento Básico de Seguridad de Utilización y Accesibilidad (CTE DB-SU",
+      "a": ", aprobado por Real Decreto 314/2006, de 17 de marzo, conforme a la tabla 1.2 de la sección SUA 1, la Clase exigible a los suelos localizados en zonas exteriores es: a) 1.",
+      "b": "2.",
+      "c": "3.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 29,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR416",
+      "pregunta": "De acuerdo con el Código Técnico de la Edificación, aprobado por Real Decreto 314/2006, de 17 de marzo, y conforme al artículo 6.1.2 del Documento Básico DB-SE-C Seguridad Estructural Cimientos, los muros se distinguen por su concepto estructural, en:",
+      "a": "De gravedad, de contrafuertes, en L, en ménsula, arriostrados, pantalla y flotantes.",
+      "b": "De gravedad, de gravedad aligerados, de contrafuertes, en L o en ménsula, de sótano y realizados por bataches.",
+      "c": "De gravedad, pantalla y flexorresistentes.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 30,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR629",
+      "pregunta": "El artículo 137.2 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", dispone que no requieren licencia previa: a) Los actos no sujetos a declaración responsable o comunicación previa, según el artículo 138.",
+      "b": "Las divisiones, segregaciones y parcelaciones urbanísticas, no contenidas en proyectos de reparcelación",
+      "c": "Las obras que sean objeto de las órdenes de ejecución, ni los actos necesarios para la ejecución de resoluciones administrativas o jurisdiccionales dirigidas al restablecimiento de la legalidad territorial y urbanística.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 31,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR952",
+      "pregunta": "En aplicación del articulo 170 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", es cierto que el procedimiento sancionador se tramitará en el plazo máximo de un año a contar desde la fecha del acuerdo de iniciación, conforme a lo establecido en la normativa reguladora del procedimiento administrativo común y en la de régimen jurídico del sector público y el desarrollo reglamentario de esta Ley. a) No, debido a que en la norma de rango reglamentario que desarrolla esta ley no se hace referencia alguna al procedimiento sancionador.",
+      "b": "Si, siendo la norma de rango reglamentario que regula el procedimiento sancionador al que se refiere ese artículo el Decreto 550/2022, de 29 de noviembre.",
+      "c": "No, debido a que el plazo máximo que estable referido artículo es seis meses.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 32,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR917",
+      "pregunta": "En aplicación del artículo 66 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": "¿Cuál de las siguientes determinaciones no se establece en los planes de ordenación urbana? a) Las alineaciones y rasantes de la red viaria, salvo los terrenos en los que se prevean actuaciones urbanísticas o de transformación urbanística.",
+      "b": "Las directrices para la intervención en la ciudad existente.",
+      "c": "La acción de completar, adaptar o modificar alguna de las determinaciones de la ordenación detallada de aquellas actuaciones urbanísticas que no impliquen modificar el uso o la edificabilidad, ni incrementar el aprovechamiento urbanístico o afectar negativamente a las dotaciones.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 33,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR995",
+      "pregunta": "En aplicación de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", no forman parte del suelo urbano: a) Los núcleos rurales tradicionales legalmente asentados en el medio rural que sirven de soporte a un asentamiento de población singularizado, identificable y diferenciado, siempre que cuenten con acceso rodado y con las infraestructuras y servicios básicos que se determinen reglamentariamente.",
+      "b": "Los terrenos integrados en la malla urbana constituida por una red de viales, dotaciones y parcelas propias del núcleo o asentamiento de población del que forme parte, que estén transformados urbanísticamente por contar con acceso rodado por vía urbana y conexión en red con los servicios básicos de abastecimiento de agua, saneamiento y suministro de energía eléctrica.",
+      "c": "Los terrenos integrados en la malla urbana constituida por una red de viales, dotaciones y parcelas propias del núcleo o asentamiento de población del que forme parte, que estén ocupados por la edificación, al menos, en una tercera parte del espacio apto para ello, de acuerdo con el ámbito que el instrumento de ordenación urbanística detallada establezca.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 34,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR038",
+      "pregunta": "Conforme al artículo 64 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", el plan de ordenación intermunicipal tiene por objeto: a) Establecer la ordenación de áreas concretas integradas por terrenos situados en dos o más términos municipales colindantes, que deban ser objeto de una actuación urbanística conjunta. En todo caso, se limitará a lo estrictamente indispensable para este fin, procurando la mínima incidencia sobre la ordenación establecida en los municipios correspondientes",
+      "b": "Establecer la ordenación de áreas concretas en municipios que tengan una población inferior a 10.000 habitantes, siempre que no sean litorales o formen parte de la aglomeración urbana de un centro regional.",
+      "c": "Establecer la ordenación de áreas concretas integradas por terrenos situados en dos o más términos municipales colindantes, aunque no deban ser objeto de una actuación urbanística conjunta. En todo caso, se limitará a lo estrictamente indispensable para este fin, procurando la mínima incidencia sobre la ordenación establecida en los municipios correspondientes",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 35,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR270",
+      "pregunta": "En virtud de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", para garantizar a la ciudadanía el acceso a la información ¿Debe el Ayuntamiento y la Administración de la Comunidad Autónoma publicar en la sede electrónica de su titularidad al menos la resolución de aprobación definitiva y el instrumento de ordenación urbanística completo? a) No, ya que solo es necesario publicar un extracto de la aprobación inicial del instrumento.",
+      "b": "Sí y en su caso, el estudio ambiental estratégico.",
+      "c": "No, ya que no es necesario publicar el instrumento de ordenación urbanístico completo.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 36,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR953",
+      "pregunta": "Conforme al Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y de salud en las obras de construcción, el promotor estará obligado a que en la fase de redacción del proyecto se elabore un estudio de seguridad y salud en los proyectos de obras en que se den alguno de los supuestos siguientes:",
+      "a": "Que la duración estimada sea superior a 30 días laborables, empleándose en algún momento a más de 20 trabajadores simultáneamente.",
+      "b": "No es el promotor el que está obligado a ello, es el proyectista.",
+      "c": "Que el volumen de mano de obra comprobada, sea inferior a 100.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 37,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR174",
+      "pregunta": "En virtud de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía. (LIST",
+      "a": ", el suelo se clasifica: a) En urbano, no urbanizable y urbanizable.",
+      "b": "En suelo rural o suelo urbanizado.",
+      "c": "En suelo urbano y suelo rústico.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 38,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR070",
+      "pregunta": "En aplicación del Plan Especial de Protección y Catálogo del Conjunto Histórico de Utrera vigente, son obras admitidas con carácter general en inmuebles catalogados:",
+      "a": "En todos los niveles de Catalogación, A, B, C o D, se admiten las obras de conservación, consolidación y restauración, así como aquellas obras de adaptación a la normativa de protección contra incendios y de accesibilidad y supresión de barreras arquitectónicas.",
+      "b": "En algunos niveles de Catalogación, se admiten las obras de conservación, sin que implique consolidación y restauración de los niveles A Y B, así como aquellas obras de adaptación a la normativa de protección contra incendios y de accesibilidad y supresión de barreras arquitectónicas.",
+      "c": "En los edificios en los que la ficha de catálogo proteja específicamente las fachadas, se admite la posibilidad de remodelación y creación de nuevos huecos, solo cuando se justifique por razones de uso, habitabilidad y seguridad.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 39,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR055",
+      "pregunta": "Conforme a lo dispuesto en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", en la edificaciones que tengan declarada la situación de asimilado a la fuera de ordenación podrán autorizarse, a través de las correspondientes licencias: a) Las obras de conservación pero no las de reforma.",
+      "b": "Las obras de conservación y edificación, incluidas las de consolidación que impliquen un incremento de la ocupación y el volumen edificado.",
+      "c": "Los cambios de uso que sean compatibles con la ordenación territorial y urbanística.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 40,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR704",
+      "pregunta": "Conforme a lo dispuesto en el artículo 138 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", son actos sujetos a Declaración Responsable en el ámbito urbanístico: a) Las obras en edificaciones o instalaciones existentes que sean disconformes con la ordenación territorial y urbanística o se encuentren en situación legal de fuera de ordenación, situadas en suelo urbanizado sometido a actuaciones de transformación urbanística, siempre que alteren los parámetros de ocupación y altura y no conlleven incrementos en la edificabilidad o en el número de viviendas.",
+      "b": "La demolición total o parcial de construcciones o edificaciones, siempre que estén sujetas a un régimen de protección por la legislación de patrimonio histórico, por los instrumentos de ordenación territorial o por los instrumentos de ordenación urbanística, o que estén incluidas en el entorno o en el ámbito delimitado de un bien protegido.",
+      "c": "Las obras en edificaciones e instalaciones existentes que sean conformes con la ordenación territorial y urbanística o se encuentren en situación legal de fuera de ordenación, situadas en suelo rústico y que tengan por objeto la mejora de las condiciones de eficiencia energética, la integración de instalaciones de energía renovable o la reducción de su impacto ambiental, siempre que no supongan obras de nueva planta o aumento de la superficie construida.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 41,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR188",
+      "pregunta": "Señale la respuesta correcta en relación a la prescripción de las infracciones y sanciones, establecida en el artículo 169 de la ley 7/2021, de 21 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ". a) Las infracciones graves y muy graves prescriben a los tres años y las leves al año.",
+      "b": "Las sanciones por infracciones graves y muy graves prescriben a los tres años y por infracciones leves al año.",
+      "c": "Las infracciones y sanciones leves prescriben al año, las graves a los dos años y las muy graves a los tres años.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 42,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR445",
+      "pregunta": "Señale cuál de las siguientes afirmaciones, en referencia a los planes especiales, es correcta en aplicación de lo dispuesto en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ": a) Su ámbito o incidencia podrá ser municipal o supralocal, de acuerdo con su objeto y finalidad.",
+      "b": "Su ámbito o incidencia será siempre municipal o supralocal, de acuerdo con su objeto y finalidad.",
+      "c": "Su ámbito o incidencia será siempre municipal o interlocal, de acuerdo con su objeto y finalidad.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 43,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR742",
+      "pregunta": "Conforme a lo dispuesto en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", durante el periodo de información pública, en función de la naturaleza y alcance del instrumento de ordenación urbanística, se practicarán, además, alguno de los siguientes trámites: a) Solicitud de informe a los órganos y entidades administrativas gestores de intereses privados, para que puedan comparecer en el procedimiento y hacer valer las exigencias que deriven de dichos intereses.",
+      "b": "Audiencia a los municipios cercanos en la tramitación de las Ordenanzas Municipales de Edificación y de Urbanización y de las Las Normas Directoras.",
+      "c": "Consulta a las compañías suministradoras, respecto a las infraestructuras y servicios técnicos.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 44,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR906",
+      "pregunta": "En aplicación del artículo 25 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": "¿Las actuaciones de transformación urbanística requieren de la aprobación de una propuesta de delimitación previa? a) Sí, las que se ordenen mediante Plan Parcial de Ordenación, Plan de Reforma Interior o Estudio de Ordenación.",
+      "b": "Sí, siempre.",
+      "c": "Sí, las que se prevean en los instrumentos de ordenación urbanística general o por el Plan de Ordenación Urbana.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 45,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR356",
+      "pregunta": "Señale la respuesta correcta en referencia a la competencia y al procedimiento de otorgamiento de licencia urbanísticas establecido en el artículo 140 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ": a) La Administración estará obligada a dictar resolución expresa en el procedimiento de otorgamiento de licencias, que será notificada en el plazo máximo de tres meses desde que se presente la documentación completa en el registro electrónico municipal. El transcurso del plazo máximo sin haberse notificado resolución expresa legitima a los interesados para entenderla estimada, salvo los supuestos previstos en la legislación estatal. No obstante, podrán adquirirse por silencio administrativo facultades o derechos contrarios a la normativa territorial o urbanística.",
+      "b": "Las licencias urbanísticas son actos reglados de competencia autonómica y municipal.",
+      "c": "La competencia para otorgar las licencias urbanísticas corresponde al órgano municipal que determine la normativa de aplicación en materia de régimen local.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 46,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR885",
+      "pregunta": "En virtud del artículo 9.2 de la ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, son obligaciones del promotor:",
+      "a": "Ejecutar la obra con sujeción al proyecto, a la legislación aplicable y a las instrucciones del director de obra y del director de la ejecución de la obra, a fin de alcanzar la calidad exigida en el proyecto.",
+      "b": "Ostentar sobre el solar la titularidad de un derecho que le faculte para construir en él.",
+      "c": "Estar en posesión de la titulación académica y profesional habilitante de arquitecto, arquitecto técnico, ingeniero o ingeniero técnico, según corresponda, y cumplir las condiciones exigibles para el ejercicio de la profesión.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 47,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR521",
+      "pregunta": "Señale la respuesta correcta en relación con las clases de infracciones urbanísticas que se regulan en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ": a) Son infracciones urbanísticas leves: La realización de actuaciones sin las licencias, aprobaciones u otros actos administrativos necesarios o sin ajustarse a sus términos, sean o no legalizables.",
+      "b": "Son infracciones urbanísticas graves: El incumplimiento de las órdenes de ejecución, salvo que la infracción esté clasificada como leve.",
+      "c": "Son infracciones urbanísticas graves: La realización en contra de la ordenación urbanística de obras de todo género, demoliciones o implantación de instalaciones, salvo que tengan la clasificación de muy graves.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 48,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR499",
+      "pregunta": "Conforme a lo dispuesto en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LIST",
+      "a": ", tras la entrada en vigor de los instrumentos de ordenación urbanística correspondientes ¿Se podrá autorizar la realización de usos y obra de carácter provisional? a) No, nunca.",
+      "b": "Sí, excepcionalmente cuando no estén expresamente prohibidos por la legislación territorial y urbanística o la sectorial y sean compatibles con la ordenación urbanística.",
+      "c": "Sí, cuando tenga como finalidad adelantar la realización de obras o la implantación de usos, cuando no se hayan aprobado con carácter previo el instrumento de ordenación urbanística o la ejecución de obras de urbanización correspondiente.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 49,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR727",
+      "pregunta": "Según la disposición adicional sexta del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, a los efectos de dicha Ley ¿en qué situación se mantendrán los suelos forestales incendiados?",
+      "a": "En la situación de suelo rural destinados al uso forestal durante al menos 30 años, con las excepciones prevista en la Ley de Montes.",
+      "b": "En la situación de suelo rural destinado a uso forestal durante al menos 20 años, con las excepciones prevista en la Ley de Montes.",
+      "c": "En la situación de suelo rural destinado a uso forestal por tiempo indefinido, con las excepciones prevista en la Ley de Montes.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 50,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR693",
+      "pregunta": "Según el artículo 48 del Texto Refundido de la Ley de Suelo y Rehabilitación Urbana aprobado por Real Decreto Legislativo 7/2015, de 30 de octubre, da lugar a derecho de indemnización:",
+      "a": "Las situaciones de fuera de ordenación producidas por los cambios en la ordenación territorial o urbanística.",
+      "b": "La demora injustificada en el otorgamiento de una licencia de obras, siempre que no exista dolo, culpa o negligencia graves imputables al perjudicado.",
+      "c": "Ninguno de los supuestos anteriores da derecho a indemnización.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 51,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR811",
+      "pregunta": "¿Qué ocurre según el Texto Refundido de la Ley de Suelo y Rehabilitación Urbana aprobado por Real Decreto Legislativo 7/2015, de 30 de octubre, si en la trasmisión de un terreno que cuenta con una edificación en fuera de ordenación el vendedor no hace constar dicha circunstancia en el correspondiente título?",
+      "a": "Faculta al adquirente para rescindir el contrato en el plazo de cuatro años y exigir la indemnización que proceda conforme a la legislación civil.",
+      "b": "Faculta al adquirente para rescindir el contrato en el plazo de cuatro años sin que pueda exigir indemnización alguna.",
+      "c": "Transcurrido el primer año, el adquirente no puede ni rescindir el contrato ni exigir indemnización alguna.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 52,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR450",
+      "pregunta": "La formulación de las Normas Directoras para la ordenación urbanística, según la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía corresponde a:",
+      "a": "Cualquier persona, física o jurídica.",
+      "b": "El titular de la Consejería competente en materia de Ordenación del Territorio y Urbanismo.",
+      "c": "El Consejo de Gobierno.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 53,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR601",
+      "pregunta": "Según el artículo 86 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, la adopción de un nuevo modelo de ordenación establecido por el instrumento de ordenación urbanística se entiende como:",
+      "a": "Innovación.",
+      "b": "Modificación.",
+      "c": "Revisión.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 54,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR127",
+      "pregunta": "Según la Disposición Transitoria Primera de la Ley 7/2021, de 1 de diciembre de impulso para la sostenibilidad del territorio de Andalucía (en adelante: LIST",
+      "a": ", los ámbitos de suelo urbano no consolidado del planeamiento general vigente: a) Tendrán el régimen que se establece en la LISTA para la promoción de actuaciones de transformación urbanística delimitadas sobre suelo urbano, o en su caso el de las actuaciones urbanísticas.",
+      "b": "Tendrán el régimen que se establece en la LISTA para la promoción de las actuaciones de transformación urbanística de nueva urbanización.",
+      "c": "Tendrán la consideración de suelo urbano de conformidad con el artículo 13.1.a) de la LISTA.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 55,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR588",
+      "pregunta": "El informe preceptivo que debe emitir la Consejería Competente en materia de Urbanismo en los instrumentos de ordenación urbanística conforme al apartado b) del artículo 75.2 de la Ley 7/2021, de 1 de diciembre de impulso para la sostenibilidad del territorio de Andalucía, habrá de ser emitido en el plazo máximo de:",
+      "a": "6 meses.",
+      "b": "1 mes.",
+      "c": "3 meses.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 56,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR802",
+      "pregunta": "¿En qué caso de los siguientes, el informe preceptivo que debe emitir la Consejería Competente en materia de Urbanismo en los instrumentos de ordenación urbanística, conforme al apartado b) del artículo 75.2 de la Ley 7/2021, de 1 de diciembre de impulso para la sostenibilidad del territorio de Andalucía, resulta vinculante?",
+      "a": "En los Planes Generales de Ordenación Municipal.",
+      "b": "En los Estudios de Ordenación.",
+      "c": "En los Planes de Ordenación Urbana.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 57,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR818",
+      "pregunta": "¿Cuándo es preceptivo elaborar un Avance del instrumento de ordenación urbanística, según la Ley 7/2021, de 1 de diciembre de impulso para la sostenibilidad del territorio de Andalucía?",
+      "a": "En los instrumentos de ordenación urbanística general y en los Planes de Ordenación Urbana.",
+      "b": "Sólo es preceptivo en los instrumentos de ordenación urbanística general.",
+      "c": "En los instrumentos de ordenación urbanística general, y en los restantes instrumentos, cuando éstos deban someterse a evaluación ambiental estratégica.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 58,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR753",
+      "pregunta": "Según la Ley 7/2021, de 1 de diciembre de impulso para la sostenibilidad del territorio de Andalucía, cuando el instrumento de ordenación urbanística deba someterse a evaluación ambiental estratégica ordinaria conforme a la legislación ambiental, el documento de aprobación inicial y el estudio ambiental se someterán a información pública por plazo no inferior a:",
+      "a": "45 días.",
+      "b": "20 días.",
+      "c": "Un mes.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 59,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR432",
+      "pregunta": "La corrección de errores aritméticos, materiales o de hecho en los instrumentos de ordenación urbanística, tendrá la consideración según la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, de:",
+      "a": "Modificación.",
+      "b": "Revisión.",
+      "c": "Ninguna de las anteriores.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 60,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR264",
+      "pregunta": "¿Cuál de los siguientes constituye un referente territorial del Modelo Territorial de Andalucía según el Plan de Ordenación del Territorio de Andalucía?",
+      "a": "El sistema de asentamientos.",
+      "b": "Las actividades económicas de interés supralocal.",
+      "c": "El sistema de ciudades.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 61,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR869",
+      "pregunta": "Cuando una modificación afecte a dotaciones públicas de espacios libres y zonas verdes, se requerirá según el artículo 86 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía:",
+      "a": "Dictamen del Consejo Consultivo de Andalucía.",
+      "b": "Dictamen del Consejo de Estado.",
+      "c": "Dictamen favorable del Consejo Consultivo de Andalucía.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 62,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR690",
+      "pregunta": "Según la Disposición Transitoria Segunda de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (en adelante: LIST",
+      "a": ", los instrumentos de ordenación urbanística se adaptarán a los planes de ordenación del territorio vigentes en el plazo que estos hubieran establecido y, en todo caso, en el plazo máximo de: a) 1 año desde la entrada en vigor de la LISTA.",
+      "b": "3 años desde la entrada en vigor de la LISTA.",
+      "c": "4 años desde la entrada en vigor de la LISTA.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 63,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR035",
+      "pregunta": "Según el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, ¿pueden los Planes Especiales de Adecuación Ambiental y Territorial, delimitar una agrupación de edificaciones irregulares en cualquier clase de suelo?",
+      "a": "No, sólo en suelo rústico.",
+      "b": "Sí es posible, salvo que en el mismo esté prevista una actuación de transformación urbanística y el instrumento que establece la ordenación detallada no esté aprobado definitivamente.",
+      "c": "Sí es posible, salvo que en el mismo esté prevista una actuación de transformación urbanística y el instrumento que establece la ordenación detallada esté aprobado definitivamente.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 64,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR308",
+      "pregunta": "Conforme al artículo 411.6 del Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía ¿cómo puede iniciarse la tramitación del Plan Especial de Adecuación Ambiental y Territorial?",
+      "a": "Solo puede iniciarse de oficio.",
+      "b": "Puede iniciarse de oficio o a instancias de los propietarios que representen más del cincuenta por ciento de los terrenos incluidos en el ámbito.",
+      "c": "Puede iniciarse de oficio o a instancias de los propietarios que representen más del cincuenta por ciento de las edificaciones irregulares incluidas en el ámbito.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 65,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR683",
+      "pregunta": "Según el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, la ejecución y conservación de las obras contempladas en el Plan Especial de Adecuación Ambiental y Territorial, corresponde a los propietarios de las edificaciones irregulares:",
+      "a": "En proporción a la superficie de la parcela en la que esté emplazada la edificación irregular.",
+      "b": "En proporción a la superficie construida que las edificaciones tengan materializada.",
+      "c": "En proporción al aprovechamiento urbanístico que les otorgue el Plan Especial.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 66,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR961",
+      "pregunta": "¿Qué documento de los siguientes constituye un documento complementario del Plan de Ordenación del Territorio de Andalucía?",
+      "a": "La Cartografía de Ordenación.",
+      "b": "El informe de Sostenibilidad.",
+      "c": "El Diagnostico Territorial.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 67,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR603",
+      "pregunta": "Según especifica el Plan de Ordenación del Territorio de Andalucía, ¿cuál será el ámbito de referencia para la formulación de Planes de Ordenación del territorio de ámbito subregional?",
+      "a": "Los Dominios y Unidades Territoriales.",
+      "b": "Las Redes de ciudades medias.",
+      "c": "El Ámbito Regional.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 68,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR986",
+      "pregunta": "¿Qué ocurre, según el artículo 416.4 del Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía, con las edificaciones irregulares que se incorporen a la ordenación urbanística que cuenten con resolución administrativa firme acordando la reposición de la realidad física alterada?",
+      "a": "Si no ha transcurrido el plazo legalmente previsto para su ejecución, en todo caso procederá la ejecución de la medida de reposición de la realidad física alterada.",
+      "b": "Siempre que no haya transcurrido el plazo legalmente previsto para su ejecución, podrá acordarse el cumplimiento por equivalencia de la resolución, siempre que se efectúe el pago de la indemnización procedente y se cumplan los deberes y cargas establecidos en el instrumento de ordenación urbanística.",
+      "c": "Las edificaciones irregulares que estén en plazo para la ejecución de medidas de reposición de la realidad física alterada no podrán ser objeto de incorporación a la ordenación urbanística, sólo pueden ser objeto de los Planes Especiales de Adecuación Ambiental y Territorial.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 69,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR978",
+      "pregunta": "Según la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía y su Reglamento General, los convenios urbanísticos pueden ser en función de su objeto:",
+      "a": "Convenios urbanísticos de planeamiento, convenios urbanísticos de ejecución y convenios de actuaciones territoriales.",
+      "b": "Convenios urbanísticos de planeamiento, convenios urbanísticos de gestión y convenios de actuaciones territoriales.",
+      "c": "Convenios urbanísticos de planeamiento y convenios urbanísticos de gestión.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 70,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR901",
+      "pregunta": "Según lo establecido en el artículo 30 de la Ley 14/2007 del Patrimonio Histórico en Andalucía, la inscripción de bienes inmuebles en el Catálogo General del Patrimonio Histórico Andaluz llevará aparejada:",
+      "a": "La obligación de adecuar el planeamiento urbanístico a las necesidades de protección de tales bienes en el plazo de dos años,",
+      "b": "La obligatoriedad de redactar un Plan Especial, con inclusión de la correspondiente ficha del bien.",
+      "c": "La comunicación expresa al Ayuntamiento en cuyo término radique el bien.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 71,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR568",
+      "pregunta": "¿Cuándo prescriben las infracciones leves en la Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía?",
+      "a": "Al año.",
+      "b": "A los cuatro años.",
+      "c": "A los cinco años.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 72,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR423",
+      "pregunta": "Teniendo en cuenta la Orden de 17 de septiembre de 2010 de la Consejería de Cultura y Deporte de la Junta de Andalucía (BOJA de 01/10/2010), por la que se delega en el Ayuntamiento de Utrera la competencia para autorizar obras y actuaciones en el ámbito del Plan Especial de Protección y Reforma Interior del Conjunto Histórico, ¿quién tendría la competencia para autorizar las obras de demolición que afecten a inmuebles situados en el entorno de un Bien de Interés Cultural (BIC)?",
+      "a": "El Alcalde o Concejal en quien delegue.",
+      "b": "La Consejería competente en materia de Patrimonio Histórico.",
+      "c": "La Comisión Local de Patrimonio Histórico de la Ciudad de Utrera.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 73,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR844",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en su artículo 106, relativo a las garantías provisionales, ¿qué ocurre con la garantía provisional en los contratos de obras?",
+      "a": "Se exige obligatoriamente en todos los contratos de obras, con independencia de su cuantía.",
+      "b": "Se encuentra suprimida con carácter general, pudiendo imponerse excepcionalmente si el órgano de contratación lo justifica en el expediente.",
+      "c": "Su exigencia depende únicamente de que el contrato esté sujeto a regulación armonizada (SARA).",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 74,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR286",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en su artículo 205, relativo a las modificaciones no previstas en los pliegos, ¿qué límite establece la LCSP para el conjunto de modificaciones de un contrato de obras no previstas en el pliego de cláusulas administrativas particulares?",
+      "a": "Un máximo de forma aislada o conjunta del 20% del precio base de licitación más el IVA, y únicamente por razones técnicas justificadas.",
+      "b": "No existe límite porcentual, siendo suficiente la justificación técnica y económica en el expediente.",
+      "c": "Un máximo de forma aislada o conjunta del 50% del precio inicial, siempre que concurran causas sobrevenidas y debidamente tasadas en la Ley.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 75,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR052",
+      "pregunta": "Según el artículo 12.5.2 de las normas urbanísticas del PGOU de Utrera, no se autorizarán parcelaciones rústicas por debajo de la unidad mínima de cultivo y de:",
+      "a": "Diez mil (10.000) metros cuadrados en regadío, y veinticinco mil (25.000) en secano.",
+      "b": "Dos mil quinientos (2.500) metros cuadrados en regadío, y veinticinco mil (25.000) en secano.",
+      "c": "Dos mil quinientos (2.500) metros cuadrados en regadío, y treinta y cinco mil (35.000) en secano.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 76,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR074",
+      "pregunta": "Conforme al artículo 234 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuándo puede acordarse la contratación conjunta de la redacción del proyecto y de la ejecución de las obras?",
+      "a": "Cuando el contratista lo solicite por razones de eficiencia en la ejecución.",
+      "b": "Únicamente en supuestos excepcionales, debidamente justificados en el expediente: cuando concurran motivos de orden técnico que obliguen a vincular al empresario a los estudios de la obra, o cuando se trate de obras de dimensión excepcional o con dificultades técnicas singulares que requieran soluciones aportadas con medios y capacidad técnica propias de las empresas.",
+      "c": "Siempre que la cuantía no supere los umbrales de los contratos sujetos a regulación armonizada (SARA).",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 77,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR483",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en su artículo 235, relativo a la supervisión de proyectos de obras, ¿qué requisito establece la citada Ley respecto a los proyectos de obras cuyo presupuesto de ejecución material supere los 500.000 euros, IVA excluido?",
+      "a": "Los órganos de contratación podrán solicitar un informe de las correspondientes oficinas o unidades de supervisión de los proyectos encargadas de verificar que se han tenido en cuenta las disposiciones generales de carácter legal o reglamentario así como la normativa técnica que resulten de aplicación para cada tipo de proyecto.",
+      "b": "Quedan exentos de supervisión siempre que el director facultativo del proyecto disponga de habilitación profesional suficiente.",
+      "c": "Los órganos de contratación deberán solicitar un informe de las correspondientes oficinas o unidades de supervisión de los proyectos encargadas de verificar que se han tenido en cuenta las disposiciones generales de carácter legal o reglamentario así como la normativa técnica que resulten de aplicación para cada tipo de proyecto.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 78,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR527",
+      "pregunta": "Conforme al artículo 153 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál es la regla general sobre el plazo de formalización de los contratos públicos?",
+      "a": "La formalización se realizará: En todos los contratos no antes de 15 días naturales desde la notificación y dentro de los 5 días naturales siguientes tras requerimiento del órgano de contratación.",
+      "b": "La formalización se realizará: en los contratos susceptibles de recurso especial, no antes de 15 días hábiles desde la notificación y dentro de los 5 días hábiles siguientes tras requerimiento del órgano de contratación si no hay recurso o se levanta la suspensión; y en los contratos no susceptibles de recurso especial, dentro de los 15 días hábiles siguientes a la notificación de la adjudicación.",
+      "c": "La formalización se realizará: Sin excepciones, no antes de 15 días hábiles desde la notificación y dentro de los 5 días hábiles siguientes tras requerimiento del órgano de contratación.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 79,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR054",
+      "pregunta": "Conforme al artículo 118 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, relativo a los contratos menores, ¿qué documentación mínima debe integrar el expediente de un contrato menor de obras?",
+      "a": "Exclusivamente el informe del órgano de contratación justificando la necesidad, la aprobación del gasto, la factura correspondiente, y en el caso de obras, sin necesidad de presupuesto; exigiéndose proyecto técnico únicamente cuando lo imponga la normativa sectoria.",
+      "b": "El informe del órgano de contratación justificando la necesidad, la aprobación del gasto, la factura correspondiente, y en el caso de obras, el presupuesto; exigiéndose proyecto técnico únicamente cuando lo imponga la normativa sectorial, y debiendo recabarse informe de las oficinas o unidades de supervisión a que se refiere el artículo 235 cuando el trabajo afecte a la estabilidad, seguridad o estanqueidad de la obra.",
+      "c": "Siempre un proyecto técnico visado, la aprobación del gasto y la factura, con independencia de la entidad de la obra, además el informe del órgano de contratación justificando la necesidad, la aprobación del gasto, la factura correspondiente.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 80,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR935",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, indique la afirmación correcta respecto a la contratación menor:",
+      "a": "Está permitido dividir un proyecto de obras en contratos menores siempre que cada uno sea inferior a 40.000 euros.",
+      "b": "El fraccionamiento solo está prohibido en contratos de suministros y servicios, no en obras.",
+      "c": "El fraccionamiento del objeto contractual para eludir los límites del contrato menor está prohibido, con independencia de que se trate de contratos de obras, suministros o servicios.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 81,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR490",
+      "pregunta": "Conforme al artículo 159 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿puede utilizarse el procedimiento abierto simplificado abreviado (PAS",
+      "a": "en un contrato de obras? a) No, nunca está permitido en contratos de obras.",
+      "b": "Sí, únicamente cuando el valor estimado sea inferior a 80.000 euros, el contrato no esté sujeto a regulación armonizada y el único criterio de adjudicación sea el precio.",
+      "c": "Sí, en cualquier contrato de obras de cuantía inferior a 2.000.000 euros, siempre que se motive la urgencia.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 82,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR409",
+      "pregunta": "Conforme al artículo 231 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, respecto a la aprobación del proyecto de obras, señale la afirmación correcta:",
+      "a": "La aprobación del proyecto es facultativa y queda a discreción del órgano de contratación.",
+      "b": "La aprobación del proyecto es obligatoria y corresponde al órgano de contratación, salvo que una norma jurídica la atribuya expresamente a otro órgano.",
+      "c": "La aprobación del proyecto es facultativa si el proyecto está visado por el colegio correspondiente.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 83,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR470",
+      "pregunta": "Conforme al artículo 237 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos de obras, ¿cuándo comienza a computarse el plazo de ejecución fijado en el contrato?",
+      "a": "Desde la formalización del contrato.",
+      "b": "Desde la publicación del anuncio de adjudicación en la Plataforma de Contratación del Sector Público.",
+      "c": "Desde la comprobación del replanteo.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 84,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR915",
+      "pregunta": "Conforme a los artículos 204 y 205 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué sucede si una modificación necesaria no prevista en pliegos supera el 50% del precio inicial del contrato?",
+      "a": "Puede aprobarse por acuerdo del Pleno municipal.",
+      "b": "Debe procederse a la resolución del contrato y a la celebración de un nuevo expediente de contratación.",
+      "c": "Se suspende el contrato hasta aprobar la modificación.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 85,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR973",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos de servicios para la elaboración de proyectos de obras, ¿qué diferencia fundamental existe entre la firma o visado del proyecto por el proyectista y la supervisión del proyecto por la Administración?",
+      "a": "La firma o visado acredita la autoría y responsabilidad profesional del proyectista, mientras que la supervisión comprueba su integridad y adecuación normativa antes de aprobarlo.",
+      "b": "La supervisión exime de la obligación de que el proyecto esté firmado y, en su caso, visado por técnico competente.",
+      "c": "La firma o visado garantiza la viabilidad económica, mientras que la supervisión solo revisa la existencia de planos y presupuesto.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 86,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR341",
+      "pregunta": "Conforme al artículo 160 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué caracteriza al procedimiento restringido en los contratos de obras?",
+      "a": "Que únicamente pueden presentar proposiciones los empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación.",
+      "b": "Que se aplica automáticamente cuando la cuantía del contrato supere los 500.000 euros.",
+      "c": "Que puede acordarse cuando lo solicite el Interventor municipal.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 87,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR169",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué sucede si no puede levantarse el acta de comprobación del replanteo dentro del plazo de un mes desde la formalización del contrato de obras, sin causa justificada?",
+      "a": "El contrato se resuelve automáticamente y el contratista solo tendrá derecho a una indemnización del 2% del precio de adjudicación, IVA excluido.",
+      "b": "El contrato queda en suspensión, con derecho del contratista a reclamar daños y perjuicios efectivamente sufridos.",
+      "c": "El plazo de ejecución comienza igualmente a contar desde la fecha de formalización, aunque no se haya realizado el replanteo.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 88,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR745",
+      "pregunta": "Conforme al artículo 245 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de las siguientes constituye una causa específica de resolución de los contratos de obras?",
+      "a": "La suspensión de la iniciación de las obras por plazo superior a cuatro meses.",
+      "b": "La falta de publicación del contrato en la Plataforma de Contratación del Sector Público.",
+      "c": "El incumplimiento de las obligaciones tributarias del contratista con la Hacienda estatal.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 89,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR477",
+      "pregunta": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué efecto produce la suspensión de un contrato de obras acordada por la Administración?",
+      "a": "El contrato queda automáticamente resuelto sin derecho a indemnización para el contratista.",
+      "b": "Debe levantarse acta de suspensión; el contratista tendrá derecho a ser indemnizado por los daños y perjuicios efectivamente sufridos, y si la suspensión se prolonga más de ocho meses podrá instar la resolución del contrato.",
+      "c": "El plazo de ejecución se mantiene corriendo, pero se compensará al contratista con una prórroga posterior.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 90,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR374",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 4. Concepto de interesado, en su apartado 1. Se consideran interesados en el procedimiento administrativo:",
+      "a": "Aquellos cuyos intereses directos, legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento y haya recaído resolución definitiva.",
+      "b": "Aquellos cuyos intereses directos, legítimos, individuales o colectivos, no puedan resultar afectados por la resolución, salvo que se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "c": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 91,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR649",
+      "pregunta": "Conforme al artículo 240.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué efecto produce la aprobación de las certificaciones de obra?",
+      "a": "Tienen carácter de pagos a cuenta, sujetos a las rectificaciones y variaciones que se produzcan en la medición final y sin suponer en forma alguna, aprobación y recepción de las obras que comprenden.",
+      "b": "Constituyen la aceptación definitiva de las unidades de obra certificadas, equivalentes al acta de recepción.",
+      "c": "Implican la liquidación provisional del contrato de obras, pendiente solo de la liquidación final.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 92,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR119",
+      "pregunta": "Conforme al artículo 243.5 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué prevé la citada Ley respecto a la recepción parcial de las obras?",
+      "a": "No está permitida bajo ninguna circunstancia.",
+      "b": "Se admite únicamente cuando el contratista lo solicite para facilitar el cobro de certificaciones.",
+      "c": "Podrán ser objeto de recepción parcial aquellas partes de obra susceptibles de ser ejecutadas por fases que puedan ser entregadas al uso público, según lo establecido en el contrato.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 93,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR867",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 3. Capacidad de obrar. A los efectos previstos en esta Ley, tendrán capacidad de obrar ante las Administraciones Públicas:",
+      "a": "Las personas físicas o jurídicas que ostenten capacidad jurídica y de obrar con arreglo a las normas civiles.",
+      "b": "Las personas físicas o jurídicas que ostenten capacidad jurídica y de obrar con arreglo a las normas administrativas.",
+      "c": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 94,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR204",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 5. Representación, en su apartado 5:",
+      "a": "El órgano competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento.",
+      "b": "La administración competente para la gestión del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento.",
+      "c": "La administración competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento recogidos en documento electrónico que desacredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 95,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR976",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 9. Sistemas de identificación de los interesados en el procedimiento, en su apartado 3. En relación con los sistemas de identificación previstos en la letra c) del apartado anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE:",
+      "a": "En territorio español.",
+      "b": "En territorio europeo.",
+      "c": "En espacio Schengen.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 96,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR124",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 14. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas, en su apartado 2 letra c):",
+      "a": "Quienes ejerzan una actividad profesional para la que se requiera o no colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional. En todo caso, dentro de este colectivo no se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.",
+      "b": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional. En todo caso, dentro de este colectivo se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.",
+      "c": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional. En todo caso, dentro de este colectivo no se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 97,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR131",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 20. Responsabilidad de la tramitación, en su apartado 1. Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación y adoptarán las medidas oportunas para:",
+      "a": "Remover los obstáculos que faciliten, o coadyuben el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda normalidad en la tramitación de procedimientos administrativos.",
+      "b": "Remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, instruyendo lo necesario para evitar y eliminar toda normalidad en la tramitación de procedimientos.",
+      "c": "Remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 98,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR383",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas en el artículo 21 en su apartado 6 establece que el personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver:",
+      "a": "No son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo. El incumplimiento de dicha obligación no dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.",
+      "b": "Son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo. El incumplimiento de dicha obligación no dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable y la obligación de resolver fuera de plazo.",
+      "c": "Son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo. El incumplimiento de dicha obligación dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 99,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR212",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el Artículo 112. Objeto y clases, dispone en su apartado 1. Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley; añadiendo el párrafo 2:",
+      "a": "La oposición a los restantes actos de trámite podrá alegarse por los interesados para su consideración en la resolución que ponga fin al procedimiento.",
+      "b": "La oposición a los restantes actos de trámite podrá recurrirse por los interesados para su consideración en la resolución que ponga fin al procedimiento.",
+      "c": "La oposición a los restantes actos de trámite podrá comunicarse por los interesados para su consideración en la resolución que ponga fin al procedimiento.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 100,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR773",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone en el Artículo 5. Representación, en su apartado 1:",
+      "a": "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con aquél las actuaciones administrativas, salvo manifestación expresa en contra del interesado.",
+      "b": "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.",
+      "c": "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con ése las actuaciones administrativas, salvo manifestación expresa en contra del interesado.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 101,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR501",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el Artículo 117. Suspensión de la ejecución, dispone en su apartado 1. La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado; añadiendo el apartado 3:",
+      "a": "La ejecución del acto impugnado no se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto.",
+      "b": "La ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto.",
+      "c": "La ejecución del acto impugnado no se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto, pero pretende hacerlo aún fuera de plazo.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 102,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR702",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el Artículo 123. Objeto y naturaleza, dispone en su apartado 1. Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo; añadiendo el apartado 2:",
+      "a": "Se podrá interponer recurso contencioso-administrativo sin que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.",
+      "b": "No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.",
+      "c": "No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido el desistimiento del recurso de reposición interpuesto.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 103,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR258",
+      "pregunta": "La Constitución Española de 1978 en su Artículo 135 dispone en el apartado 4. Los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado:",
+      "a": "Apreciadas por la mayoría absoluta de los miembros del Congreso y del Senado.",
+      "b": "Apreciadas por la mayoría absoluta de los miembros de las Cortes Generales.",
+      "c": "Apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 104,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR404",
+      "pregunta": "La Constitución Española de 1978 en su Artículo 166 dispone que la iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87, por lo que:",
+      "a": "La iniciativa legislativa corresponde a las Cortes Generales, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.",
+      "b": "La iniciativa legislativa corresponde a Congreso, al Parlamento Europeo y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.",
+      "c": "La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 105,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR189",
+      "pregunta": "La Constitución Española de 1978 en su Artículo 10 dispone en el apartado 1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social; añadiéndose en el apartado 2:",
+      "a": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Carta Europea de los Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "b": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Fundamentales y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "c": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 106,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR439",
+      "pregunta": "Regula la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía, en el Artículo 60. Régimen local, en su apartado 1. Corresponde a la Comunidad Autónoma la competencia exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y el principio de autonomía local, incluye:",
+      "a": "El régimen de los órganos regulatorios de la organización de los entes locales.",
+      "b": "El régimen de los órganos autonómicos de la organización de los entes locales.",
+      "c": "El régimen de los órganos complementarios de la organización de los entes locales.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 107,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR339",
+      "pregunta": "Regula la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía, en el Artículo 56. Vivienda, urbanismo, ordenación del territorio y obras públicas, en su apartado 1. Corresponde a la Comunidad Autónoma la competencia exclusiva en materia de vivienda, que incluye en todo caso:",
+      "a": "La planificación urbanística, la ordenación, la gestión, la inspección y el control de la vivienda; el establecimiento de prioridades y objetivos de la actividad de fomento de las Administraciones Públicas de Andalucía en materia de vivienda y la adopción de las medidas necesarias para su alcance; la promoción pública de viviendas.",
+      "b": "La planificación, la ordenación, la gestión urbanística, la inspección y el control de la vivienda; el establecimiento de prioridades y objetivos de la actividad de fomento de las Administraciones Públicas de Andalucía en materia de vivienda y la adopción de las medidas necesarias para su alcance; la promoción pública de viviendas.",
+      "c": "La planificación, la ordenación, la gestión, la inspección y el control de la vivienda; el establecimiento de prioridades y objetivos de la actividad de fomento de las Administraciones Públicas de Andalucía en materia de vivienda y la adopción de las medidas necesarias para su alcance; la promoción pública de viviendas.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 108,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR506",
+      "pregunta": "Regula la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía, en el Artículo 56. Vivienda, urbanismo, ordenación del territorio y obras públicas, en su apartado 1. Corresponde a la Comunidad Autónoma la competencia exclusiva en materia de vivienda, que incluye en todo caso:",
+      "a": "Las normas técnicas, la inspección y el control sobre la calidad de la construcción; el control de condiciones de infraestructuras y de normas técnicas de habitabilidad de las viviendas; la innovación tecnológica y la sostenibilidad aplicable a las viviendas; y la normativa sobre conservación y mantenimiento de las viviendas de protección oficial y su aplicación.",
+      "b": "Las normas técnicas, la inspección, disciplina y el control sobre la calidad de la construcción; el control de condiciones de infraestructuras y de normas técnicas de habitabilidad de las viviendas; la innovación tecnológica y la sostenibilidad aplicable a las viviendas; y la normativa sobre conservación y mantenimiento de las viviendas y su aplicación a las de protección oficial.",
+      "c": "Las normas técnicas, la inspección y el control sobre la calidad de la construcción; el control de condiciones de infraestructuras y de normas técnicas de habitabilidad de las viviendas; la innovación tecnológica y la sostenibilidad aplicable a las viviendas; y la normativa sobre conservación y mantenimiento de las viviendas y su aplicación.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 109,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR048",
+      "pregunta": "El principio de atribución, que rige la delimitación de las competencias de la Unión Europea, se consagra de forma explícita en el artículo 5, apartado 1, del Tratado de la Unión Europea TUE. El Tratado Funcionamiento de la Unión Europea TFUE precisa el ámbito de aplicación de las competencias de la Unión clasificándolas en tres categorías:",
+      "a": "Competencias exclusivas (artículo 3), competencias compartidas (artículo 4) y competencias delegadas (artículo 6), que permiten a la Unión adoptar medidas para apoyar o completar las políticas de los Estados miembros.",
+      "b": "Competencias exclusivas (artículo 3), competencias compartidas (artículo 4) y competencias de fomento (artículo 6), que permiten a la Unión adoptar medidas para apoyar o completar las políticas de los Estados miembros.",
+      "c": "Competencias exclusivas (artículo 3), competencias compartidas (artículo 4) y competencias de apoyo (artículo 6), que permiten a la Unión adoptar medidas para apoyar o completar las políticas de los Estados miembros.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 110,
+      "origen": "utrera_2024_PRIMER-EJERCICIO-ARQUITECTURA_2",
+      "fid": "UTR319",
+      "pregunta": "Se configuran los principios presupuestarios de la Entidades Locales en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, disponiéndose en el Artículo 172. Especialidad y limitación de los créditos, (Principio de especialidad cuantitativ",
+      "a": ", en cuyo apartado 2 establece: a) Los créditos autorizados tienen carácter orientativo y no vinculante. Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.",
+      "b": "Los créditos autorizados tienen carácter limitativo y vinculante. Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.",
+      "c": "Los créditos autorizados tienen carácter limitativo y no vinculante. Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 1,
+      "pregunta": "Corresponde a la Comunidad Autónoma la competencia exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y el principio de autonomía local, incluye:",
+      "a": "La competencia en materia de derecho de reversión en las expropiaciones urbanísticas, en el marco de la legislación estatal.",
+      "b": "Los recursos y aprovechamientos hidráulicos, canales y regadíos, cuando las aguas transcurran por más de una Comunidad Autónoma.",
+      "c": "El régimen de los bienes de dominio público, comunales y patrimoniales y las modalidades de prestación de los servicios públicos.",
+      "origen": "granada",
+      "fid": "GRA556",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 2,
+      "pregunta": "Según el artículo 140 de la Constitución Española, los Alcaldes serán elegidos:",
+      "a": "Por los Concejales o por los vecinos.",
+      "b": "Por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+      "c": "Exclusivamente por los concejales.",
+      "origen": "granada",
+      "fid": "GRA957",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 3,
+      "pregunta": "En los municipios de gran población, corresponde a la Junta de Gobierno Local:",
+      "a": "La aprobación y modificación de los reglamentos de naturaleza orgánica.",
+      "b": "La aprobación y modificación de las ordenanzas y reglamentos municipales.",
+      "c": "La aprobación del proyecto de presupuesto.",
+      "origen": "granada",
+      "fid": "GRA264",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 4,
+      "pregunta": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo en el que debe notificarse la resolución expresa, este será:",
+      "a": "De tres meses.",
+      "b": "De séis meses.",
+      "c": "Máximo de un mes.",
+      "origen": "granada",
+      "fid": "GRA286",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 5,
+      "pregunta": "Conforme a lo dispuesto al artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo común de las Administraciones Públicas, indique cuál de las siguientes afirmaciones es la correcta:",
+      "a": "Salvo disposición expresa en contrario, los informes serán facultativos y vinculantes.",
+      "b": "El informe emitido fuera de plazo deberá ser tenido en cuenta obligatoriamente al adoptar la correspondiente resolución.",
+      "c": "Los informes serán emitidos a través de medios electrónicos y de acuerdo con los requisitos que señala el artículo 26 en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.",
+      "origen": "granada",
+      "fid": "GRA950",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 6,
+      "pregunta": "El Consejo de la Unión Europea representa:",
+      "a": "A los ciudadanos de los Estados de la Unión Europea y es elegido directamente por ellos.",
+      "b": "A los Gobiernos de los Estados miembros.",
+      "c": "Los intereses comunes de la Unión y es su principal órgano ejecutivo",
+      "origen": "granada",
+      "fid": "GRA789",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 7,
+      "pregunta": "Aprobada inicialmente una Ordenanza Local, en el supuesto de que no se hubiesen formulado reclamación o sugerencia durante el plazo de 30 días de información pública y audiencia, el acuerdo:",
+      "a": "Hasta entonces provisional se entenderá definitivamente adoptado.",
+      "b": "Deberá aprobarse definitivamente mediante un nuevo acuerdo de Pleno.",
+      "c": "En los municipios de Gran Población podrá aprobarse directamente mediante un nuevo acuerdo de Junta de Gobierno Local.",
+      "origen": "granada",
+      "fid": "GRA091",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 8,
+      "pregunta": "Para la válida constitución de la Junta de Gobierno Local se requiere:",
+      "a": "La asistencia de la mayoría absoluta de sus componentes. Si no existiera quórum, se constituirá en segunda convocatoria, una hora después de la señalada para la primera, siendo suficiente la asistencia de la tercera parte de sus miembros y en todo caso, un número no inferior a tres.",
+      "b": "La mayoría absoluta de los componentes, ya sean titulares o suplentes, en primera convocatoria y un mínimo de tres miembros en segunda convocatoria dos horas más tarde.",
+      "c": "Con asistencia de un tercio del mínimo legal de miembros del mismo, que nunca podrá ser inferior a tres.",
+      "origen": "granada",
+      "fid": "GRA390",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 9,
+      "pregunta": "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto, la plantilla, que deberá comprender todos los puestos de trabajo reservados a:",
+      "a": "Funcionarios de carrera exclusivamente.",
+      "b": "Funcionarios y personal laboral excluyendo al personal eventual.",
+      "c": "Funcionarios, personal laboral y eventual.",
+      "origen": "granada",
+      "fid": "GRA990",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 10,
+      "pregunta": "En los municipios de gran población, las competencias como órgano de contratación respecto de los contratos de concesión de obras, cuando su valor estimado no supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de seis millones de euros, corresponden:",
+      "a": "Al Alcalde.",
+      "b": "Al Pleno del Ayuntamiento.",
+      "c": "A la Junta de Gobierno Local.",
+      "origen": "granada",
+      "fid": "GRA450",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 11,
+      "pregunta": "En el supuesto de prórroga del Presupuesto Municipal al iniciarse el ejercicio económico sin que hubiese entrado en vigor el Presupuesto correspondiente, indique cuál de las siguientes afirmaciones es la correcta.",
+      "a": "No deberá considerarse automáticamente prorrogado el presupuesto del ejercicio anterior, resultando preciso un acuerdo expreso por parte del Pleno en los municipios de Gran Población.",
+      "b": "La prórroga no afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior.",
+      "c": "La prórroga afectará a los créditos que estén financiados con crédito u otros ingresos específicos o afectados.",
+      "origen": "granada",
+      "fid": "GRA089",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 12,
+      "pregunta": "El concepto de la calidad en la Administración Pública se define como",
+      "a": "La capacidad de una entidad pública para prestar servicios que satisfagan las necesidades y expectativas de los ciudadanos, al menor coste, y en el menor tiempo posible.",
+      "b": "La capacidad de una entidad pública para emplear las nuevas tecnologías de la información y de la comunicación, para hacer más accesibles y rápidos sus servicios a los ciudadanos.",
+      "c": "Ninguna de las anteriores es correcta.",
+      "origen": "granada",
+      "fid": "GRA903",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 13,
+      "pregunta": "De acuerdo con lo establecido por la Ley 9/2017 de Contratos del Sector Público, se considerarán obras de rehabilitación:",
+      "a": "Aquellas que tienen por objeto reparar una construcción conservando su estética, respetando su valor histórico y manteniendo su funcionalidad.",
+      "b": "Aquellas que tienen por objeto reparar una construcción conservando su estética, respetando su valor histórico y dotándola de una nueva funcionalidad que sea compatible con los elementos y valores originales del inmueble.",
+      "c": "Las necesarias para enmendar un menoscabo producido en un bien inmueble por causas fortuitas o accidentales.",
+      "origen": "granada",
+      "fid": "GRA235",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 14,
+      "pregunta": "En el cálculo del valor estimado de los contratos deberá tenerse en cuenta:",
+      "a": "Cualquier forma de opción eventual excepto las eventuales prórrogas del contrato.",
+      "b": "Los costes derivados de la aplicación de las normativas laborales vigentes, salvo el beneficio industrial.",
+      "c": "Las eventuales prórrogas del contrato.",
+      "origen": "granada",
+      "fid": "GRA546",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 15,
+      "pregunta": "Cuando las modificaciones del contrato de obras supongan la introducción de unidades de obras no previstas en el proyecto o cuyas características difieran de las fijadas en este, y no sea necesario realizar una nueva licitación, los precios aplicables a las mismas serán fijados por la Administración, previa audiencia del contratista:",
+      "a": "Por plazo mínimo de tres días hábiles.",
+      "b": "Por plazo máximo de tres días.",
+      "c": "Por plazo de cinco días hábiles.",
+      "origen": "granada",
+      "fid": "GRA430",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 16,
+      "pregunta": "En el contrato de Obras, estas se ejecutarán con estricta sujeción a las estipulaciones contenidas en el pliego de cláusulas administrativas particulares y al proyecto que sirve de base al contrato y conforme a las instrucciones que en interpretación técnica de este diere al contratista la Dirección facultativa de las obras. Cuando las instrucciones fueren de carácter verbal:",
+      "a": "Podrán ser obviadas por el contratista.",
+      "b": "Serán inmediatamente vinculantes.",
+      "c": "Deberán ser ratificadas por escrito en el más breve plazo posible, para que sean vinculantes para las partes.",
+      "origen": "granada",
+      "fid": "GRA160",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 17,
+      "pregunta": "Según se recoge en la Ley 9/2017 de Contratos del Sector Público, serán admitidos en el sistema dinámico de adquisición:",
+      "a": "Todos los solicitantes, cumplan o no los criterios de selección.",
+      "b": "Todos los solicitantes que cumplan los criterios de selección, pudiéndose limitar el número de candidatos admisibles en el sistema.",
+      "c": "Todos los solicitantes que cumplan los criterios de selección, sin que pueda limitarse el número de candidatos admisibles en el sistema.",
+      "origen": "granada",
+      "fid": "GRA271",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 18,
+      "pregunta": "En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración:",
+      "a": "Deberá adoptarse obligatoriamente en el mismo sentido de la desestimación.",
+      "b": "Sin vinculación alguna con el sentido del silencio.",
+      "c": "En este caso, de emitir resolución expresa la Administración, deberá emitirse en sentido estimatorio para el interesado.",
+      "origen": "granada",
+      "fid": "GRA952",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 19,
+      "pregunta": "Indique cuál de las siguientes afirmaciones es la correcta, de acuerdo con la Ley 39/2015 de Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "a": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento.",
+      "b": "Deberá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución.",
+      "c": "La caducidad producirá por sí sola la prescripción de las acciones del particular.",
+      "origen": "granada",
+      "fid": "GRA585",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 20,
+      "pregunta": "La adquisición por parte de un municipio de gran población de un programa de ordenador desarrollado a medida para la recaudación del Impuesto de vehículos de tracción mecánica, de conformidad con la Ley 9/2017 de Contratos del Sector Público, se considerará como un contrato de:",
+      "a": "Suministro.",
+      "b": "Servicio.",
+      "c": "Obras.",
+      "origen": "granada",
+      "fid": "GRA071",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 21,
+      "pregunta": "De acuerdo con la Orden ECO/805/2003, de 27 de marzo, ¿cuáles son los cuatro métodos técnicos de valoración utilizables para obtener los valores de mercado, hipotecario y de reemplazamiento?",
+      "a": "Métodos de coste, de compensación, de comparación y residual .",
+      "b": "Métodos de coste, de comparación, de actualización de rentas y residual",
+      "c": "Métodos de cooperación, de sustitución, Grönholm y matricial.",
+      "origen": "granada",
+      "fid": "GRA702",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 22,
+      "pregunta": "En qué supuesto es aplicable el procedimiento de cálculo estático del método residual de valoración, según la Orden ECO/805/2003, de 27 de marzo.",
+      "a": "Terrenos urbanos o urbanizables, estén o no edificados.",
+      "b": "Edificios en proyecto, construcción o rehabilitación, incluso en el caso de que las obras estén paralizadas.",
+      "c": "Solares e inmuebles en rehabilitación en los que se pueda comenzar la edificación o rehabilitación en un plazo no superior a un año.",
+      "origen": "granada",
+      "fid": "GRA748",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 23,
+      "pregunta": "Según la Ley de Impulso para la Sostenibilidad del Territorio de Andalucía, ¿cuál es el límite del contenido normal del deber de conservación en los casos de inejecución injustificada de las obras ordenadas?",
+      "a": "60% del coste de reposición de la construcción.",
+      "b": "75% del coste de reposición de la construcción.",
+      "c": "90% del coste de reposición de la construcción.",
+      "origen": "granada",
+      "fid": "GRA402",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 24,
+      "pregunta": "Según la Orden ECO/805/2003, de 27 de marzo, ¿cuál de los siguientes NO ES un principio a considerar en las valoraciones inmobiliarias?",
+      "a": "Principio de probabilidad.",
+      "b": "Principio de congruencia.",
+      "c": "Principio de anticipación.",
+      "origen": "granada",
+      "fid": "GRA931",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 25,
+      "pregunta": "De acuerdo con la Orden ECO/805/2003 de 27 de marzo ¿Qué pasos han de seguirse para el cálculo del valor residual según el procedimiento dinámico del método residual de valoraciones inmobiliarias?",
+      "a": "Estimación de costes de construcción y gastos, estimación del valor en venta, establecimiento del margen de beneficio del promotor y aplicación de la fórmula de cálculo.",
+      "b": "Estimación de los flujos de caja, estimación del valor de reversión, elección del tipo de actualización y aplicación de la fórmula de cálculo.",
+      "c": "Estimación de los flujos de caja, elección del tipo de actualización y aplicación de la fórmula de cálculo.",
+      "origen": "granada",
+      "fid": "GRA807",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 26,
+      "pregunta": "¿Qué tipos de depreciación contempla la Orden ECO/805/2003, de 27 de marzo?",
+      "a": "Funcional y física.",
+      "b": "Física y química.",
+      "c": "Física e inminente.",
+      "origen": "granada",
+      "fid": "GRA836",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 27,
+      "pregunta": "¿En qué tipos se clasifica el patrimonio de las Administraciones Públicas, según la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas?",
+      "a": "Bienes demaniales, bienes patrimoniales y bienes semovientes.",
+      "b": "Bienes demaniales y bienes patrimoniales.",
+      "c": "Bienes patrimoniales y bienes financieros.",
+      "origen": "granada",
+      "fid": "GRA629",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 28,
+      "pregunta": "Según la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, ¿qué facultades y prerrogativas se disponen en la defensa del patrimonio público?",
+      "a": "Investigación de bienes y derechos, deslinde, recuperación de oficio y desahucio administrativo.",
+      "b": "Inventario patrimonial, deslinde, recuperación de oficio y desahucio administrativo.",
+      "c": "Medidas cautelares, desahucio administrativo y ocupación directa.",
+      "origen": "granada",
+      "fid": "GRA077",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 29,
+      "pregunta": "¿Quién ostenta la competencia para la aprobación del inventario de bienes locales, según el Reglamento de Bienes de las Entidades Locales?",
+      "a": "El Pleno de la Corporación local.",
+      "b": "El Secretario Municipal.",
+      "c": "La Junta de Gobierno Local.",
+      "origen": "granada",
+      "fid": "GRA684",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 30,
+      "pregunta": "¿Qué factores aumentan la posibilidad de aparición de aluminosis en estructuras construidas con cemento aluminoso?",
+      "a": "Escasez de armadura a cortante en estructuras horizontales.",
+      "b": "Alto nivel de humedad ambiental y presencia de agentes químicos.",
+      "c": "Alta probabilidad de aceleración sísmica.",
+      "origen": "granada",
+      "fid": "GRA353",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 31,
+      "pregunta": "¿Qué es la “pudrición parda”?",
+      "a": "Afección por xilófagos en un elemento estructural de madera",
+      "b": "Un tipo de patología en elementos de madera ocasionada por hongos.",
+      "c": "Personaje de ficción de Marvel.",
+      "origen": "granada",
+      "fid": "GRA714",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 32,
+      "pregunta": "En los inmuebles sujetos al régimen de propiedad horizontal en Granada, ¿quién debe presentar el Informe de Evaluación del Edificio según la ordenanza local vigente?",
+      "a": "La comunidad de propietarios o la agrupación de comunidades de propietarios.",
+      "b": "La comunidad de propietarios o la agrupación de más del 50% de los comuneros.",
+      "c": "Cada propietario por separado.",
+      "origen": "granada",
+      "fid": "GRA944",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 33,
+      "pregunta": "Según el Código Técnico de la Edificación, ¿de qué documento debe formar parte obligatoriamente el Plan de Control de Calidad?",
+      "a": "Proyecto básico.",
+      "b": "Proyecto de ejecución.",
+      "c": "Estudio de seguridad y salud.",
+      "origen": "granada",
+      "fid": "GRA870",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 34,
+      "pregunta": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿a partir de qué importe de presupuesto base de licitación se debe solicitar informe de supervisión con carácter previo a la aprobación del proyecto?",
+      "a": "Trescientos mil euros (IVA incluido)",
+      "b": "Trescientos mil euros (IVA excluido)",
+      "c": "Quinientos mil euros (IVA excluido)",
+      "origen": "granada",
+      "fid": "GRA934",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 35,
+      "pregunta": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué tipo de obras pueden ejecutarse de manera directa por la Administración Pública?",
+      "a": "Restauración de bienes patrimoniales catalogados.",
+      "b": "Obras de conservación y mantenimiento definidas en artículo 232.5 de la citada Ley.",
+      "c": "Cualquier tipo de obra.",
+      "origen": "granada",
+      "fid": "GRA508",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 36,
+      "pregunta": "Según la Ley de Ordenación de la Edificación, la dirección de obra debe ostentarla un arquitecto para el caso de edificaciones de los siguientes usos:",
+      "a": "Aeronáutico, sanitario, religioso, residencial, docente y cultural.",
+      "b": "Administrativo, sanitario, religioso, residencial, docente y cultural.",
+      "c": "Administrativo, sanitario, religioso, residencial, comercial y cultural.",
+      "origen": "granada",
+      "fid": "GRA434",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 37,
+      "pregunta": "Según el RD 390/2021, de 1 de junio, ¿qué edificios están exentos de someterse a la obligación de certificación de la eficiencia energética?",
+      "a": "Edificios independientes de superficie útil total inferior a 50 m2.",
+      "b": "Lugares de culto, de usos religiosos y similares.",
+      "c": "Edificios pertenecientes u ocupados por una Administración Pública.",
+      "origen": "granada",
+      "fid": "GRA050",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 38,
+      "pregunta": "Según el RD 390/2021, de 1 de junio, ¿a qué administración corresponde el control de los certificados de eficiencia energética?",
+      "a": "Administración local.",
+      "b": "Administración autonómica.",
+      "c": "Administración estatal.",
+      "origen": "granada",
+      "fid": "GRA728",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 39,
+      "pregunta": "Según el Plan de Contratación Pública Ecológica 2018-2025, ¿qué porcentaje mínimo de residuos no peligrosos ha de valorizarse en las obras de construcción de oficinas de la Administración General del Estado?",
+      "a": "50%",
+      "b": "60%",
+      "c": "70%",
+      "origen": "granada",
+      "fid": "GRA169",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 40,
+      "pregunta": "Según la Ley de Ordenación de la Edificación, ¿quién debe responder frente a daños materiales por vicios o defectos de ejecución que afecten a elementos de terminación o acabado de las obras dentro del plazo de un año?",
+      "a": "Constructor/a.",
+      "b": "Director/a de obra.",
+      "c": "Director/a de ejecución.",
+      "origen": "granada",
+      "fid": "GRA986",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 41,
+      "pregunta": "Según el artículo 227 del Decreto 550/2022, Reglamento general de la Ley de Impulso para la Sostenibilidad del Territorio de Andalucía, ¿qué debe incluirse en la relación de propietarios y descripción de bienes y derechos en el sistema de expropiación?",
+      "a": "Únicamente la identificación catastral de los bienes afectados",
+      "b": "La relación de los propietarios, la descripción detallada de los bienes y derechos afectados, y la certificación registral acreditativa.",
+      "c": "La relación de bienes expropiables, sin necesidad de identificar a los propietarios específicos ni describir los derechos afectados",
+      "origen": "granada",
+      "fid": "GRA474",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 42,
+      "pregunta": "Según la Ley 7/2021, de 1 de diciembre, de Impulso para la sostenibilidad del territorio de Andalucía¿Cuál de las siguientes actuaciones no se podrá desarrollar a través de la ejecución asistemática?",
+      "a": "Actuaciones de reforma interior en las que no sea factible la delimitación de unidades de ejecución",
+      "b": "Actuaciones urbanísticas para mejorar o completar la urbanización cuando requieran actividad de gestión",
+      "c": "En suelo rústico común, la realización de las actuaciones de nueva urbanización",
+      "origen": "granada",
+      "fid": "GRA012",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 43,
+      "pregunta": "Las edificaciones irregulares respecto a las que no se puedan adoptar medidas de protección de la legalidad urbanística por haber transcurrido el plazo para su ejercicio que estén ubicadas en suelos con riesgos ciertos:",
+      "a": "No podrán ser declaradas en situación de asimilada a fuera de ordenación",
+      "b": "Podrán ser declaradas en situación de asimilada a fuera de ordenación siempre que se hubieran adoptado las medidas exigidas por la Administración competente para evitar dichos riesgos.",
+      "c": "Podrán ser declaradas en situación de asimilada a fuera de ordenación siempre que se hubieran adoptado las medidas exigidas por el Ayuntamiento para evitar dichos riesgos",
+      "origen": "granada",
+      "fid": "GRA811",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 44,
+      "pregunta": "De acuerdo con el artículo 320 del Código Penal, ¿qué constituye un delito de prevaricación urbanística cometido por funcionarios públicos?",
+      "a": "La omisión de medidas de inspección en construcciones ilegales sin que exista resolución administrativa expresa",
+      "b": "Haya informado favorablemente instrumentos de planeamiento, proyectos de urbanización, parcelación, reparcelación, construcción o edificación o la concesión de licencias contrarias a las normas de ordenación territorial o urbanísticas vigentes",
+      "c": "Retrasar deliberadamente la aprobación de un plan urbanístico por motivos políticos sin emitir una resolución injusta",
+      "origen": "granada",
+      "fid": "GRA631",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 45,
+      "pregunta": "¿Cuál de las siguientes actuaciones se considera infracción urbanística muy grave según el artículo 378 del Decreto 550/2022, por el que se aprueba el Reglamento General de la Ley 7/2021 Ley de Impulso para la Sostenibilidad del Territorio de Andalucía?",
+      "a": "El incumplimiento de las órdenes de ejecución con peligro para la seguridad o la salud de las personas",
+      "b": "La prestación de servicios por las empresas suministradoras con incumplimiento de los actos administrativos que les ordenen su cese",
+      "c": "La expedición por profesionales o entidades urbanísticas certificadoras de informes, certificados o documentos similares con inexactitudes, falsedades u omisiones sustanciales para su traslado a la Administración",
+      "origen": "granada",
+      "fid": "GRA358",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 46,
+      "pregunta": "Según el Real Decreto 314/2006, de 17 de marzo, para conservarse en buen estado un edificio municipal se tiene que llevar un adecuado mantenimiento. Esto supondrá la realización entre otras de las siguientes acciones:",
+      "a": "Redactar un Plan de Mantenimiento del Edificio y sus instalaciones",
+      "b": "Realizar las inspecciones reglamentariamente establecidas y conservar su correspondiente documentación; y documentar a lo largo de la vida útil del edificio todas las intervenciones, ya sean de reparación, reforma o rehabilitación realizadas sobre este, consignándolas en el Libro del Edificio",
+      "c": "Cada cierto periodo de tiempo llevar a cabo un plan de reforma y modernización del edificio, encargando a técnico competente",
+      "origen": "granada",
+      "fid": "GRA854",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 47,
+      "pregunta": "Según determina el Real Decreto 1000/2010 sobre visado colegial obligatorio, es obligatorio obtener visado colegial sobre los trabajos profesionales siguientes:",
+      "a": "Proyecto de ejecución de edificación y certificado final de obra que, en su caso, deban ser aportados en los procedimientos administrativos de legalización de obras de edificación, de acuerdo con la normativa urbanística aplicable",
+      "b": "Proyecto de demolición de edificaciones que requiera el uso de explosivos",
+      "c": "Proyecto de ejecución de edificación para obras con carácter de intervención parcial en edificaciones catalogadas que no afecten a los elementos o partes objeto de protección",
+      "origen": "granada",
+      "fid": "GRA283",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 48,
+      "pregunta": "De acuerdo con el Código Técnico de la Edificación, documento básico de seguridad estructural (CTE DB-SE), ¿A qué se denomina capacidad portante de un edificio?",
+      "a": "La aptitud de un edificio para asegurar, con la fiabilidad requerida, la estabilidad del conjunto y la resistencia necesaria, durante un tiempo máximo de 25 años",
+      "b": "La aptitud de asegurar el funcionamiento de la obra, el confort de los usuarios y de mantener el aspecto visual",
+      "c": "La aptitud de un edificio para asegurar, con la fiabilidad requerida, la estabilidad del conjunto y la resistencia necesaria, durante un tiempo determinado, denominado periodo de servicio",
+      "origen": "granada",
+      "fid": "GRA674",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 49,
+      "pregunta": "Según el Código Técnico de la Edificación, Documento Básico, Seguridad en caso de incendio, (CTE DB SI), apartado 3 del SI 3 Evacuación de ocupantes, el recorrido máximo de evacuación:",
+      "a": "Podrá aumentarse un 25% cuando exista una instalación automática de extinción de incendios",
+      "b": "No podrán aumentarse en ningún caso",
+      "c": "Podrá aumentarse un 30% cuando se disponga de instalación de hidrantes exteriores, excepto en uso Hospitalario",
+      "origen": "granada",
+      "fid": "GRA595",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 50,
+      "pregunta": "Según establece el documento básico de seguridad de utilización y accesibilidad DB SUA, Sección SUA1 “Seguridad frente al riesgo de caídas”, serán condiciones de las escaleras de uso general:",
+      "a": "En tramos rectos, la huella medirá 28 cm como mínimo.",
+      "b": "La altura máxima que puede salvar un tramo es 2,50 metros en todos los casos.",
+      "c": "La contrahuella será de 20 cm, como máximo, y la huella de 22 cm, como mínimo.",
+      "origen": "granada",
+      "fid": "GRA653",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 51,
+      "pregunta": "Según la Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados, se entiende por rampas vinculadas a un itinerario peatonal accesible, con la excepción de aquellos que forman parte de un punto de cruce con el itinerario vehicular:",
+      "a": "Los planos inclinados con pendiente superior al 6%",
+      "b": "Los planos inclinados con pendiente superior al 4%",
+      "c": "Los planos inclinados con pendiente inferior al 4% y pendiente transversal superior al 2%.",
+      "origen": "granada",
+      "fid": "GRA954",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 52,
+      "pregunta": "De acuerdo con el Código Técnico de la Edificación (CTE), documento básico Ahorro de energía (DB HE), Introducción, ¿cuáles son los criterios de aplicación en edificios existentes?",
+      "a": "No empeoramiento, flexibilidad y reparación de daños",
+      "b": "Eficiencia, sostenibilidad y reparación de daños",
+      "c": "No empeoramiento, eficiencia y reparación de daños",
+      "origen": "granada",
+      "fid": "GRA003",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 53,
+      "pregunta": "Según el Código Técnico de la Edificación (CTE), documento básico de Protección frente al ruido (DB-HR), en su ámbito de aplicación excluye a los edificios destinados a uso:",
+      "a": "Las salas de conferencias cuyo volumen sea inferior a 350 m³.",
+      "b": "Hospitalario.",
+      "c": "Espectáculos.",
+      "origen": "granada",
+      "fid": "GRA247",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 54,
+      "pregunta": "Según el Documento Básico HS Salubridad del Código Técnico de la Edificación (CTE), Sección HS 3 Calidad del Aire Interior, se contemplan tres tipos de sistema de ventilación para los trasteros, que son:",
+      "a": "natural, híbrido o mecánico",
+      "b": "natural, forzado o híbrido",
+      "c": "forzado, mecánico o atmosférico",
+      "origen": "granada",
+      "fid": "GRA853",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 55,
+      "pregunta": "Durante la ejecución de obras de edificación, según se establece en el RD 1627/1997 sobre disposiciones mínimas de seguridad y salud en obras de construcción, ¿De quién es la responsabilidad de que los primeros auxilios se presten en todo momento por personal con la suficiente formación para ello?",
+      "a": "Del coordinador de Seguridad y Salud",
+      "b": "Del empresario",
+      "c": "De la Dirección Técnica",
+      "origen": "granada",
+      "fid": "GRA845",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 56,
+      "pregunta": "En base al R.D. 1627/1997, de 24 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud en las obras de construcción, según el artículo 13.2, cuando se trate de obras de las Administraciones Públicas, el libro de incidencias será facilitado por:",
+      "a": "La Oficina de Supervisión de Proyectos u órgano equivalente.",
+      "b": "El Colegio Profesional al que pertenezca el técnico coordinador.",
+      "c": "La Dirección Facultativa a través del Colegio Profesional correspondiente.",
+      "origen": "granada",
+      "fid": "GRA257",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 57,
+      "pregunta": "Conforme a lo preceptuado en el artículo 4.1.a del Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción y demolición, el productor de residuos de construcción y demolición deberá cumplir, entre otras, la obligación de:",
+      "a": "Contratar con una empresa homologada para el tratamiento de los residuos.",
+      "b": "Redactar un proyecto independiente por técnico especialista en gestión de residuos de demolición con el contenido mínimo establecido en el citado artículo 4.1.",
+      "c": "Incluir en el proyecto de ejecución de la obra un estudio de gestión de residuos de construcción y demolición con el contenido mínimo establecido en el citado artículo 4.1.",
+      "origen": "granada",
+      "fid": "GRA246",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 58,
+      "pregunta": "Según el Decreto 91/2020 por el que se aprueba el Plan Vive en Andalucía, de vivienda, rehabilitación y regeneración urbana de Andalucía 2020-2030, el precio de referencia se calcula mediante el resultado de multiplicar:",
+      "a": "Superficie útil de la vivienda protegida, módulo ponderado, coeficiente territorial y coeficiente según la categoría",
+      "b": "Superficie útil de la vivienda protegida, módulo básico, coeficiente territorial y coeficiente según la categoría",
+      "c": "Superficie construida de la vivienda protegida, módulo ponderado, coeficiente territorial y coeficiente según la categoría",
+      "origen": "granada",
+      "fid": "GRA644",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 59,
+      "pregunta": "La Ley 10/2022, de 14 de junio, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, modifica la Ley 38/1999, de Ordenación de la edificación introduciendo una nueva disposición de adicional sobre:",
+      "a": "El cumplimiento del principio de no causar daño significativo en el medio ambiente en las intervenciones que se realicen en los edificios que se encuentren financiadas con cargo a fondos de la Unión Europea o a través del Plan de Recuperación, Transformación y Resiliencia de España",
+      "b": "La competencia para la dirección de ejecución de obras de los graduados en Ingeniería de la Edificación",
+      "c": "Los requisitos en viviendas con los que se consigue una mejora del consumo de energía primaria, mediante la reducción en al menos un treinta por ciento el indicador de consumo de energía primaria no renovable, o bien, mediante una mejora de la calificación energética para obtener clase energética “A” o “B”.",
+      "origen": "granada",
+      "fid": "GRA236",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 60,
+      "pregunta": "Para la redacción de un proyecto de edificación en Andalucía habrá de tenerse en cuenta para el cumplimiento de la accesibilidad en la edificación:",
+      "a": "Exclusivamente, el Decreto 293/2009, de 7 de julio, por el que se aprueba el reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte en Andalucía.",
+      "b": "El Decreto 293/2009, de 7 de julio, por el que se aprueba el reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte en Andalucía y el Documento Básico DB SUA, del Código Técnico de la Edificación, cumpliendo las condiciones más restrictivas de ambas.",
+      "c": "Exclusivamente el Documento Básico DB SUA, del Código Técnico de la Edificación por tratarse de un proyecto de edificación.",
+      "origen": "granada",
+      "fid": "GRA497",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 61,
+      "pregunta": "El contenido de un Reglamento municipal:",
+      "a": "Podrá ser vulnerado por una resolución administrativa de carácter particular, si es adoptada por un órgano municipal de igual o superior jerarquía al que dictó el Reglamento",
+      "b": "Puede ser derogado mediante Ley aprobada por el Pleno municipal, de acuerdo con el principio de jerarquía normativa",
+      "c": "No debe recoger preceptos opuestos a las leyes.",
+      "origen": "granada",
+      "fid": "GRA604",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 62,
+      "pregunta": "El acto administrativo ha de ser motivado cuando:",
+      "a": "Los actos se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+      "b": "Los acuerdos de aceptación de pruebas propuestas por los interesados.",
+      "c": "Los actos que se dicten en el ejercicio de potestades regladas, y los que deban serlo en virtud de disposición legal o reglamentaria expresa.",
+      "origen": "granada",
+      "fid": "GRA366",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 63,
+      "pregunta": "De acuerdo con la legislación vigente, ¿a quién corresponde en Andalucía la competencia exclusiva en materia de ordenación del territorio?",
+      "a": "Al Estado",
+      "b": "A las Diputaciones Provinciales",
+      "c": "A la Comunidad autónoma de Andalucía.",
+      "origen": "granada",
+      "fid": "GRA792",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 64,
+      "pregunta": "De acuerdo con la Ley 7/2021 de 1 de diciembre de Impulso a la sostenibilidad el Territorio de Andalucía, las directrices son:",
+      "a": "Determinaciones vinculantes de aplicación directa e inmediata.",
+      "b": "Determinaciones vinculantes en cuanto a sus fines.",
+      "c": "Determinaciones de carácter indicativo.",
+      "origen": "granada",
+      "fid": "GRA964",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 65,
+      "pregunta": "¿Qué clases de suelo se establecen en la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA)?",
+      "a": "Urbano, urbanizable y no urbanizable.",
+      "b": "Urbano y rústico.",
+      "c": "Urbano consolidado y urbano no consolidado.",
+      "origen": "granada",
+      "fid": "GRA895",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 66,
+      "pregunta": "Según la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA), ¿en qué clase de suelo se implantan las Actuaciones de mejora urbana?",
+      "a": "En suelo urbano.",
+      "b": "En suelo urbanizable.",
+      "c": "En suelo rústico.",
+      "origen": "granada",
+      "fid": "GRA359",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 67,
+      "pregunta": "De acuerdo con la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía y su Reglamento General Decreto 550/2022, ¿cuál de las siguientes actuaciones tiene incidencia en la ordenación del territorio?",
+      "a": "Actuación de transformación urbanística de nueva urbanización en suelo rústico común.",
+      "b": "Toda actuación ordinaria en suelo rústico especialmente protegido por legislación sectorial.",
+      "c": "Actuación extraordinaria en suelo rústico protegido por legislación sectorial o preservado por ordenación territorial.",
+      "origen": "granada",
+      "fid": "GRA368",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 68,
+      "pregunta": "¿Cuáles de los siguientes son instrumentos de ordenación general en la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA)?",
+      "a": "El Plan General de Ordenación Urbanística, el Plan de Ordenación intermunicipal y el Plan de sectorización.",
+      "b": "El Plan General de Ordenación municipal, el Plan de Ordenación intermunicipal y el Plan Básico de Ordenación municipal.",
+      "c": "El Plan Parcial de ordenación, el Plan Especial y el Estudio de Detalle.",
+      "origen": "granada",
+      "fid": "GRA385",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 69,
+      "pregunta": "En la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA), ¿cuáles son los niveles de la ordenación urbanística?",
+      "a": "Planeamiento general y planeamiento de desarrollo.",
+      "b": "Ordenación estructural y ordenación pormenorizada.",
+      "c": "Ordenación general y ordenación detallada.",
+      "origen": "granada",
+      "fid": "GRA364",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 70,
+      "pregunta": "¿A quién corresponde, según la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA), la aprobación de los Planes Generales de Ordenación Municipal?",
+      "a": "A la Consejería competente en materia de ordenación del territorio y urbanismo de la Junta de Andalucía.",
+      "b": "Al municipio.",
+      "c": "Al Ministerio de Vivienda y Agenda Urbana.",
+      "origen": "granada",
+      "fid": "GRA060",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 71,
+      "pregunta": "¿En qué casos, según la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA), es vinculante el informe de la Consejería competente en materia de ordenación urbanística de la Junta de Andalucía?",
+      "a": "En todos los instrumentos de ordenación urbanística.",
+      "b": "En los instrumentos de ordenación urbanística general.",
+      "c": "En los Planes de Reforma interior.",
+      "origen": "granada",
+      "fid": "GRA591",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 72,
+      "pregunta": "De acuerdo con lo determinado por la Normativa del Plan de Ordenación del Territorio de la Aglomeración Urbana de Granada (POTAUG), ¿establece este instrumento de ordenación la clasificación del suelo?",
+      "a": "Sí, con carácter de Norma.",
+      "b": "No, porque dicha competencia corresponde al Planeamiento urbanístico general.",
+      "c": "Sólo para el suelo rústico protegido por ordenación territorial.",
+      "origen": "granada",
+      "fid": "GRA913",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 73,
+      "pregunta": "¿Qué orden de prelación establece la Normativa del Plan General de Ordenación Urbanística de Granada (PGOU) para la interpretación de sus determinaciones?",
+      "a": "El sentido propio de la literatura prevalece sobre los planos.",
+      "b": "La documentación gráfica prevalece sobre la documentación escrita.",
+      "c": "Memoria económica, Normativa y cartografía.",
+      "origen": "granada",
+      "fid": "GRA707",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 74,
+      "pregunta": "¿Qué clases de usos del suelo establece el Plan General de Ordenación Urbanística de Granada (PGOU) atendiendo a su grado de determinación?",
+      "a": "Dominantes, compatibles y complementarios.",
+      "b": "Globales y pormenorizados.",
+      "c": "Obligatorios, tolerados y prohibidos.",
+      "origen": "granada",
+      "fid": "GRA033",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 75,
+      "pregunta": "¿Es necesario tramitar un estudio de detalle para edificar en una parcela en suelo urbano a la que el Plan General de Ordenación Urbanística de Granada asigna la calificación Residencial plurifamiliar en bloque abierto?",
+      "a": "Nunca, porque está clasificada como suelo urbano.",
+      "b": "Siempre, para definir las alineaciones.",
+      "c": "Sólo si tiene una superficie mayor de 5000 m2.",
+      "origen": "granada",
+      "fid": "GRA918",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 76,
+      "pregunta": "¿Qué instrumentos de ordenación NO están sometidos, según la Ley 7/2007 de Gestión Integral de la Calidad Ambiental (LGICA), a Evaluación ambiental estratégica?",
+      "a": "Los Estudios de detalle y restantes instrumentos complementarios.",
+      "b": "Los Planes Generales de Ordenación Municipal.",
+      "c": "Los Planes Parciales de ordenación.",
+      "origen": "granada",
+      "fid": "GRA485",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 77,
+      "pregunta": "¿Qué sistema de coordenadas es el adecuado para trabajar con datos geoespaciales en Granada (España)?",
+      "a": "WGS 84 _[EPSG:4326]",
+      "b": "ETRS89 / UTM zona 30 N [EPSG:25830]",
+      "c": "ED50 / UTM zona 30N [EPSG:23030]",
+      "origen": "granada",
+      "fid": "GRA181",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 78,
+      "pregunta": "De acuerdo con la Ley 7/2021 de Impulso a las Sostenibilidad del Territorio de Andalucía (LISTA), forman parte de los principios generales de ordenación:",
+      "a": "Los principios de igualdad de género, de igualdad de oportunidades y de accesibilidad universal.",
+      "b": "La viabilidad social, la viabilidad ambiental y paisajística y la viabilidad económica.",
+      "c": "La urbanización del suelo rústico de manera sostenible y justificada.",
+      "origen": "granada",
+      "fid": "GRA936",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 79,
+      "pregunta": "¿Cuáles de las siguientes son fases del proyecto BIM?",
+      "a": "Cimentación, estructura y albañilería.",
+      "b": "Planificación, diseño, construcción y mantenimiento del edificio.",
+      "c": "Planeamiento, gestión y ejecución.",
+      "origen": "granada",
+      "fid": "GRA744",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 80,
+      "pregunta": "En relación con los derechos fundamentales que se reconocen y protegen en el artículo 20 de la Constitución Española de 1978 no está el derecho:",
+      "a": "A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.",
+      "b": "A la producción y creación literaria, artística, científica y técnica.",
+      "c": "A la educación.",
+      "origen": "granada",
+      "fid": "GRA699",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 81,
+      "pregunta": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública podrá ser limitado cuando suponga un perjuicio para:",
+      "a": "La seguridad nacional, la defensa, las relaciones exteriores, así como el secreto profesional y la propiedad intelectual e industrial.",
+      "b": "La seguridad pública y la protección del medio ambiente.",
+      "c": "En ambos casos.",
+      "origen": "granada",
+      "fid": "GRA335",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 82,
+      "pregunta": "De conformidad con lo dispuesto en el artículo 6 de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de los derechos digitales, se entiende por consentimiento del afectado:",
+      "a": "Toda manifestación de voluntad libre, confidencial, e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.",
+      "b": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.",
+      "c": "Las dos son correctas.",
+      "origen": "granada",
+      "fid": "GRA473",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 83,
+      "pregunta": "El artículo 1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres establece que:",
+      "a": "Las personas son iguales en dignidad humana, e iguales en deberes.",
+      "b": "Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes.",
+      "c": "Las personas son iguales ante la ley.",
+      "origen": "granada",
+      "fid": "GRA113",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 84,
+      "pregunta": "Se consideran conjuntos urbanos de interés en el ámbito del Plan General de Ordenación Urbanística de Granada:",
+      "a": "Los barrios del Albaicín y del Sacromonte.",
+      "b": "Las urbanizaciones Casería de Montijo y Osorio Morales.",
+      "c": "Las dos respuestas son válidas.",
+      "origen": "granada",
+      "fid": "GRA865",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 85,
+      "pregunta": "La normativa del Plan Especial de Protección y Catálogo del Albaicín establece para los inmuebles catalogados los siguientes niveles de protección:",
+      "a": "Total, integral, estructural y tipológica.",
+      "b": "Monumental, estructural y ambiental.",
+      "c": "Integral y arquitectónica.",
+      "origen": "granada",
+      "fid": "GRA717",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 86,
+      "pregunta": "El nivel de “protección arquitectónica” comprende los edificios y conjuntos urbanos que por su valor arquitectónico y su correcta disposición a la trama de la ciudad se protegen con el fin de preservar sus características de integración ambiental en el entorno urbano. Esta es una definición contenida en:",
+      "a": "El Plan Especial de Protección y Catálogo del Área Centro de Granada.",
+      "b": "El Plan Especial de Protección y Catálogo de la Alhambra y Alijares.",
+      "c": "El Plan Especial de Protección y Catálogo del Albaicín.",
+      "origen": "granada",
+      "fid": "GRA164",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 87,
+      "pregunta": "Según el Plan Especial de Protección y Catálogo del Área Centro de Granada, los usos del suelo, atendiendo a su grado de implantación, pueden ser:",
+      "a": "Dominantes o característicos y complementarios.",
+      "b": "Compatibles o permitidos.",
+      "c": "Dominantes o característicos, compatibles o permitidos, complementarios y prohibidos.",
+      "origen": "granada",
+      "fid": "GRA479",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 88,
+      "pregunta": "La servidumbre es un gravamen impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño. Las servidumbres pueden ser:",
+      "a": "Continuas.",
+      "b": "Continuas o discontinuas, aparentes o no aparentes.",
+      "c": "Continuas o discontinuas y aparentes.",
+      "origen": "granada",
+      "fid": "GRA715",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 89,
+      "pregunta": "A los efectos de la Ordenanza municipal de autorizaciones urbanísticas y procedimientos comunicados del Ayuntamiento de Granada se distinguen los siguientes tipos de Declaración Responsable (DR):",
+      "a": "Declaración Responsable de obra, Tipos, 1, 2 y 3.",
+      "b": "Declaración Responsable de obra, Declaración Responsable de ocupación /utilización y Declaración Responsable de cambio de uso.",
+      "c": "Declaración Responsable de obra y Declaración Responsable de ocupación /utilización.",
+      "origen": "granada",
+      "fid": "GRA140",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 90,
+      "pregunta": "Los Catálogos son instrumentos complementarios de la ordenación urbanística y podrán formar parte:",
+      "a": "De los instrumentos de ordenación urbanística general, de los Planes de Ordenación Urbana y de los Planes Especiales o tramitarse de manera independiente.",
+      "b": "De los instrumentos de ordenación urbanística general, de los Planes de Ordenación Urbana y de los Planes Especiales y no pueden tramitarse de manera independiente.",
+      "c": "De los Estudios de Detalle.",
+      "origen": "granada",
+      "fid": "GRA002",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 91,
+      "pregunta": "La Ley que regula el Patrimonio Histórico en la Comunidad Autónoma de Andalucía es:",
+      "a": "La Ley 14/2017, de 26 de noviembre, del Patrimonio Histórico Artístico de Andalucía.",
+      "b": "La Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía.",
+      "c": "La Ley 8/2023, de 30 de marzo, del Patrimonio Cultural de Andalucía.",
+      "origen": "granada",
+      "fid": "GRA393",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 92,
+      "pregunta": "El Catálogo General del Patrimonio Histórico Andaluz comprende:",
+      "a": "Los Bienes de Interés Cultural y los bienes de catalogación general.",
+      "b": "Los Bienes de Interés Cultural, los bienes de catalogación general y los incluidos en el Inventario General de Bienes Muebles del Patrimonio Histórico Español.",
+      "c": "Sólo los Bienes de Interés Cultural.",
+      "origen": "granada",
+      "fid": "GRA590",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 93,
+      "pregunta": "La inscripción de un Bien de Interés Cultural en el Catálogo General del Patrimonio Histórico Andaluz debe llevar aparejado, siempre que resulte necesario:",
+      "a": "El establecimiento de las instrucciones particulares que concreten, para cada bien y su entorno, la forma en que deben materializarse las obligaciones generales previstas en esta Ley para las personas propietarias, titulares de derechos o simples poseedoras de bienes catalogados.",
+      "b": "El establecimiento de las instrucciones particulares que concreten, para cada bien, la forma en que deben materializarse las obligaciones generales previstas en esta Ley para las personas propietarias, titulares de derechos o simples poseedoras de bienes catalogados.",
+      "c": "La elaboración de un Proyecto de conservación.",
+      "origen": "granada",
+      "fid": "GRA182",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 94,
+      "pregunta": "Será necesario obtener autorización de la Consejería competente en materia de patrimonio histórico, con carácter previo a las restantes licencias o autorizaciones que fueran pertinentes:",
+      "a": "Para realizar todo tipo de obras en Bienes de Interés Cultural incluidos en el Catálogo General del Patrimonio Histórico Andaluz o en su entorno.",
+      "b": "Para realizar todo tipo de obras en Bienes de Interés Cultural, en su entorno, y en bienes de catalogación general incluidos en el Catálogo General del Patrimonio Histórico Andaluz.",
+      "c": "Para realizar todo tipo de obras en inmuebles incluidos en los Catálogos de los Planes Especiales de Protección.",
+      "origen": "granada",
+      "fid": "GRA582",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 95,
+      "pregunta": "La Ley de Ordenación de la Edificación establece como requisitos básicos de seguridad en la edificación :",
+      "a": "Los de seguridad estructural y de seguridad en caso de incendio.",
+      "b": "Los de seguridad de utilización.",
+      "c": "Las dos respuestas son correctas.",
+      "origen": "granada",
+      "fid": "GRA426",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 96,
+      "pregunta": "El Decreto 293/2009, de 7 de julio, por el que se aprueba el reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte en Andalucía establece como ayudas técnicas para salvar desniveles:",
+      "a": "Plataformas salvaescaleras.",
+      "b": "Plataformas elevadoras verticales.",
+      "c": "Las dos respuestas son válidas.",
+      "origen": "granada",
+      "fid": "GRA123",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 97,
+      "pregunta": "Entre las condiciones que deben cumplir las rampas fijas de comunicación entre áreas y dependencias de uso público según el Decreto 293/2009, de 7 de julio, sobre las normas de accesibilidad en Andalucía, están las siguientes:",
+      "a": "La anchura libre mínima de la rampa será de 1,20 metros sin descontar el espacio ocupado por los pasamanos, siempre que éstos no sobresalgan más de 10 centímetros del paramento o barandilla. La anchura de la rampa estará libre de obstáculos.",
+      "b": "La anchura libre mínima de la rampa será de 1,20 metros sin descontar el espacio ocupado por los pasamanos, siempre que éstos no sobresalgan más de 12 centímetros del paramento o barandilla. La anchura de la rampa estará libre de obstáculos.",
+      "c": "La anchura libre mínima de la rampa será de 1,50 metros y estará libre de obstáculos.",
+      "origen": "granada",
+      "fid": "GRA340",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 98,
+      "pregunta": "Son Documentos Internacionales para la protección y conservación del patrimonio arquitectónico:",
+      "a": "La Carta del Restauro de Roma de 1972.",
+      "b": "La Carta de Amsterdam de 1964.",
+      "c": "La Carta de Venecia de 1975.",
+      "origen": "granada",
+      "fid": "GRA400",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 99,
+      "pregunta": "A los efectos de lo dispuesto en la Ley 9/2022, de 14 de junio, de Calidad de la Arquitectura se entiende por arquitectura:",
+      "a": "El arte y la técnica de idear, diseñar, proyectar, construir, rehabilitar, transformar y conservar edificios y espacios públicos para el desenvolvimiento de las actividades humanas, junto con la dirección y ejecución de las obras correspondientes.",
+      "b": "El arte y la técnica de proyectar y construir edificios y espacios públicos para el desenvolvimiento de las actividades humanas, junto con la dirección y ejecución de las obras correspondientes.",
+      "c": "El arte y la técnica de diseñar, proyectar, construir, rehabilitar, transformar y conservar edificios y espacios públicos para el desenvolvimiento de las actividades humanas, junto con la dirección de las obras correspondientes.",
+      "origen": "granada",
+      "fid": "GRA624",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 100,
+      "pregunta": "Conforme a lo previsto en el art. 47.1 del RDL 7/2015 de 30 de octubre por el que se aprueba el TR de la Ley del Suelo y Rehabilitación Urbana, si se alterara el uso que motivó una expropiación de suelo en virtud de modificación o revisión del instrumento de ordenación territorial o urbanística , procede la reversión salvo que concurran una serie de circunstancias. ¿ En cual de las siguientes situaciones NO procede la reversión?",
+      "a": "Que el uso dotacional público que hubiera motivado la expropiación hubiera sido efectivamente implantado y mantenido durante ocho años, o bien que el nuevo uso asignado al suelo sea igualmente dotacional público",
+      "b": "Haberse producido la expropiación para la formación o ampliación de una patrimonio público de suelo, aunque el nuevo uso no sea compatible con los fines de este",
+      "c": "Haberse producido la expropiación para la ejecución de una actuación de urbanización",
+      "origen": "granada",
+      "fid": "GRA029",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 101,
+      "pregunta": "Según el Reglamento de la LISTA, ¿cuál es plazo máximo para resolver el procedimiento y notificar la resolución de la declaración de situación legal de ruina urbanística?",
+      "a": "Un mes desde la fecha del acuerdo de iniciación.",
+      "b": "Tres meses desde la fecha del acuerdo de iniciación.",
+      "c": "Seis meses desde la fecha del acuerdo de iniciación.",
+      "origen": "granada",
+      "fid": "GRA444",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 102,
+      "pregunta": "Según el Código Técnico de la Edificación, Documento Básico, Seguridad en caso de incendio, (CTE DB SI), ¿en cuál de los siguientes espacios puede ubicarse una zona refugio?",
+      "a": "En una escalera protegida o especialmente protegida, vestíbulo de una escalera especialmente protegida o pasillo protegido.",
+      "b": "Exclusivamente en un vestíbulo de independencia de una escalera especialmente protegida",
+      "c": "A una distancia máxima de 2 m a alguna salida de planta",
+      "origen": "granada",
+      "fid": "GRA254",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 103,
+      "pregunta": "¿Qué categorías contempla la Ley 7/2021 de Impulso a la Sostenibilidad del Territorio de Andalucía (LISTA) dentro del suelo rústico?",
+      "a": "Suelo rústico sectorizado y suelo rústico no sectorizado.",
+      "b": "Suelo rústico consolidado y suelo rústico no consolidado.",
+      "c": "Suelo rústico protegido, suelo rústico preservado y suelo rústico común.",
+      "origen": "granada",
+      "fid": "GRA136",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 104,
+      "pregunta": "A efectos de la votación correspondiente en un Pleno municipal, un concejal que se hubiera ausentado del Salón de Sesiones una vez iniciada la deliberación de un asunto y no estuviese presente en el momento de la votación, se entenderá que el sentido de su voto será:",
+      "a": "Afirmativo.",
+      "b": "Negativo.",
+      "c": "Se entenderá que se abstiene.",
+      "origen": "granada",
+      "fid": "GRA398",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 105,
+      "pregunta": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
+      "a": "Todas las personas tienen derecho a acceder a la información pública en los términos previstos en el artículo 105.b de la Constitución Española desarrollados por ésta.",
+      "b": "Únicamente las personas mayores de edad y españolas tiene derecho a acceder a la información pública.",
+      "c": "Solo tendrán derecho a acceder a la información pública los interesados.",
+      "origen": "granada",
+      "fid": "GRA613",
+      "RESPUESTA": "a"
     }
   ]
 }

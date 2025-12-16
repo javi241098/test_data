@@ -5049,6 +5049,1007 @@
       "origen": "granada",
       "fid": "GRA613",
       "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "De conformidad con el art. 167 del Título X de la Constitución Española de 1978, los proyectos de reforma constitucional deberán ser aprobados por:",
+      "a": "Por mayoría de 2/3 del Senado.",
+      "b": "Por mayoría de 3/5 del Congreso.",
+      "c": "Por una mayoría de 2/3 de cada una de las Cámaras.",
+      "d": "Por una mayoría de 2/3 de cada una de las Cámaras.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN105",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "El art. 21 de la Constitución Española de 1978 establece lo siguiente:",
+      "a": "Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho necesitará de autorización previa.",
+      "b": "Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará de autorización previa.",
+      "c": "Se reconoce el derecho de asociación. El ejercicio de este derecho no necesitará de autorización previa.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN916",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el art. 152 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, el Congreso está formado por 350 diputados, distribuidos de la siguiente forma:",
+      "a": "A cada provincia le corresponde un mínimo inicial de un Diputado. Los doscientos noventa y ocho Diputados restantes se distribuyen entre las provincias en proporción a su población.",
+      "b": "A cada provincia le corresponde un mínimo inicial de dos Diputados. Los doscientos cuarenta y seis Diputados restantes se distribuyen entre las provincias en proporción a su población.",
+      "c": "A cada provincia le corresponde un mínimo inicial de dos Diputados. Las poblaciones de Ceuta y Melilla están representadas cada una de ellas por un Diputado. Los doscientos cuarenta y ocho Diputados restantes se distribuyen entre las provincias en proporción a su población.",
+      "d": "Según el art. 149 de la Constitución Española de 1978, señala la que NO es competencia exclusiva del Estado:",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN822",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el art. 149 de la Constitución Española de 1978, señala la que NO es competencia exclusiva del Estado:",
+      "a": "Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.",
+      "b": "Administración de Justicia.",
+      "c": "Fomento y coordinación general de la investigación científica y técnica.",
+      "d": "La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN989",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "Según el art. 22 de la Ley de Bases de Régimen Local, corresponde al Pleno municipal en los Ayuntamientos, y a la Asamblea vecinal en el régimen de Concejo Abierto, las siguientes atribuciones cuyo ejercicio puede ser delegado en el Alcalde y en la Junta de Gobierno Local:",
+      "a": "La aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes y demás instrumentos de ordenación previstos en la legislación urbanística, así como los convenios que tengan por objeto la alteración de cualesquiera de dichos instrumentos.",
+      "b": "El ejercicio de acciones judiciales y administrativas y la defensa de la corporación en materias de competencia plenaria.",
+      "c": "La declaración de lesividad de los actos del Ayuntamiento.",
+      "d": "La aprobación de los proyectos de obras y servicios cuando sea competente para su contratación o concesión, y cuando aún no estén previstos en los presupuestos.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN817",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el art. 143 de nuestra Constitución, ¿a quién corresponde la iniciativa del proceso autonómico?:",
+      "a": "A todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya mayoría de censo electoral represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+      "b": "A todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las tres quintas partes de los municipios cuya mayoría de censo electoral represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+      "c": "A todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya mayoría de censo demográfico represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+      "d": "A todas las Diputaciones interesadas o al órgano interinsular correspondiente y a tres quintas partes de los municipios cuya mayoría de censo demográfico represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN447",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "¿Qué tipo de competencia le corresponde a la Comunidad Autónoma de Andalucía en materia de urbanismo según el Estatuto de Autonomía?",
+      "a": "Compartida, en el marco de la legislación estatal.",
+      "b": "Exclusiva.",
+      "c": "Ejecutiva.",
+      "d": "Delegada.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN027",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según establece el art. 3 de la Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía, los asuntos en que haya dictaminado el Consejo Consultivo:",
+      "a": "No podrán ser remitidos ulteriormente para informe a ningún órgano u organismo de la Comunidad Autónoma de Andalucía.",
+      "b": "Podrán ser remitidos ulteriormente para informe a la Consejería competente por razón de la materia.",
+      "c": "Excepcionalmente, podrán ser remitidos a otros órganos de la Administración de la Junta de Andalucía.",
+      "d": "Ninguna de las anteriores es cierta.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN550",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según establece el art. 21 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, los órganos de la dicha Administración se crean, modifican y suprimen:",
+      "a": "Por Orden de la Consejería a la que están adscritos.",
+      "b": "Por Decreto del Consejo de Gobierno.",
+      "c": "Por Decreto Legislativo.",
+      "d": "Por Decreto Ley.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN549",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el art. 13.1 del Tratado de la Unión Europea, las instituciones de la Unión son:",
+      "a": "El Parlamento Europeo, el Consejo Europeo, la Comisión Europea, el Tribunal de Justicia de la Unión Europea y el Banco Central Europeo.",
+      "b": "El Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea.",
+      "c": "El Consejo Europeo, el Consejo, la Comisión Europea, el Tribunal de Justicia de la Unión Europea y el Banco Central Europeo.",
+      "d": "El Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión Europea, el Tribunal de Justicia de la Unión Europea, el Banco Central Europeo y el Tribunal de Cuentas.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN251",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEl art. 118.5 del Estatuto de Autonomía de Andalucía indica que será exigible la responsabilidad civil en que hubiera incurrido el Presidente de la Junta de Andalucía con ocasión del ejercicio de su cargo ante:",
+      "a": "La Sala de lo Penal del Tribunal Supremo.",
+      "b": "La Sala de lo Penal del Tribunal Superior de Justicia de Andalucía.",
+      "c": "La Sala Tercera, de lo Contencioso-Administrativo, del Tribunal Supremo.",
+      "d": "Las Salas de lo Contencioso Administrativo del Tribunal Superior de Justicia de Andalucía.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN602",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el art. 17.10 de la Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía, en los expedientes tramitados por la Administración de la Comunidad Autónoma, será consultado preceptivamente dicho Consejo Consultivo en las reclamaciones administractivas de indemnización por daños y perjuicios de cuantía superior a:",
+      "a": "50.000 euros.",
+      "b": "60.000 euros.",
+      "c": "80.000 euros.",
+      "d": "100.000 euros.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN400",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tA efectos de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se entiende por presupuesto base de licitación:",
+      "a": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, excluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+      "b": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+      "c": "El importe máximo que éste puede alcanzar, sin incluir el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+      "d": "El precio cierto ofertado por el contratista.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN609",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el art. 69 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, podrán contratar con el sector público las uniones de empresarios que se constituyan temporalmente al efecto:",
+      "a": "Debiendo estar formalizada su constitución en escritura pública antes de que termine el plazo de presentación de ofertas.",
+      "b": "Debiendo estar formalizada su constitución en escritura pública antes de\tla adjudicación del contrato.",
+      "c": "Debiendo estar formalizada su constitución en escritura pública antes del anuncio de licitación del contrato.",
+      "d": "Sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN160",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tAtendiendo a lo previsto en el art. 21 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, están sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a las siguientes cantidades:",
+      "a": "140.000 euros, cuando se trate de contratos adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+      "b": "140.000 euros cuando los contratos hayan de adjudicarse por entidades del sector público distintas a la Administración General del Estado, sus Organismos Autónomos o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+      "c": "750.000 euros, cuando se trate de contratos que tengan por objeto los servicios sociales.",
+      "d": "Los contratos de suministro en ningún caso están sujetos a regulación armonizada.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN999",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún el art. 72.6 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la duración de la prohibición para contratar será la prevista en la sentencia penal firme que la declare. En defecto de declaración expresa en la sentencia, la duración no podrá exceder de:",
+      "a": "Dos años desde la fecha de la condena por sentencia firme.",
+      "b": "Tres años desde la fecha de la condena por sentencia firme.",
+      "c": "Cuatro años desde la fecha de la condena por sentencia firme.",
+      "d": "Cinco años desde la fecha de la condena por sentencia firme.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN226",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSegún dispone el art. 15 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el acuerdo de creación y las normas de funcionamiento de los órganos colegiados deberán ser publicados en el Boletín o Diario Oficial de la Administración Pública en que se integran:",
+      "a": "Cuando dicten resoluciones que tengan efectos jurídicos frente a terceros.",
+      "b": "Cuando se les atribuyan competencias para la emisión de informes facultativos.",
+      "c": "Cuando estén compuestos por representantes de distintas administraciones públicas.",
+      "d": "Cuando se trate de órganos interdepartamentales.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN279",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe acuerdo con lo dispuesto en el art. 47.4 de la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía, en materia de responsabilidad patrimonial corresponde a la Junta de Andalucía:",
+      "a": "Competencia exclusiva para determinar el procedimiento y establecer los supuestos que pueden originar responsabilidad con relación a las reclamaciones dirigidas a ella, de acuerdo con el sistema general de responsabilidad de todas las Administraciones Públicas.",
+      "b": "Competencia ejecutiva para establecer los supuestos que pueden originar responsabilidad con relación a las reclamaciones dirigidas a ella, de acuerdo con el sistema general de responsabilidad de todas las Administraciones Públicas.",
+      "c": "Competencia compartida para establecer los supuestos que pueden originar responsabilidad con relación a las reclamaciones dirigidas a ella, de acuerdo con el sistema general de responsabilidad de todas las Administraciones Públicas.",
+      "d": "Ninguna de las anteriores es correcta.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN776",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 2 del Decreto 141/2006, de 18 de julio, por el que se ordena la actividad cartográfica en la Comunidad Autónoma de Andalucía establece como Cartografía temática:",
+      "a": "La realizada a partir de información contenida en cartografía básica mediante procesos de generalización, reducción, selección o simplificación.",
+      "b": "La realizada tomando como referencia geométrica otra cartografía básica o derivada, con un contenido relativo a la distribución geográfica de un fenómeno específico.",
+      "c": "La obtenida por procesos directos de observación y medición de la superficie terrestre, sirviendo de base y referencia para su uso generalizado como representación gráfica del territorio.",
+      "d": "La utilizada para mostrar las características estructurales de una determinada distribución geográfica.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN947",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tUn Web Map Service (WMS) es un servicio web desarrollado por el Open Geospatial Consortium que permite:",
+      "a": "La descarga de elementos geográficos de forma asíncrona.",
+      "b": "Obtener y editar entidades geográficas y sus atributos orientado a capas de tipo vectorial.",
+      "c": "Obtener y editar entidades geográficas y sus atributos orientado a capas de tipo raster.",
+      "d": "Obtener mapas georeferenciados en formato imagen.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN551",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tLa Estrategia del Paisaje de Andalucía, aprobada mediante Acuerdo de 6 de marzo de 2010 del Consejo de Gobierno, reconoce las siguientes categorías que agrupan los paisajes andaluces:",
+      "a": "Campiñas, Serranías, Marismas, Litoral y Áreas Urbanas.",
+      "b": "Serranías, Valles, Marismas, Subdesiertos esteparios, Litoral y Áreas Urbanas.",
+      "c": "Serranías, Vegas y valles, Litoral, Subdesiertos esteparios y áreas muy degradas.",
+      "d": "Serranías, Campiñas, Altiplanos y subdesiertos esteparios, Valles, vegas y marismas, Ciudades y áreas muy alteradas y Litoral.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN340",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSegún la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, ¿que instrumento de planificación tiene por objeto la dinamización de las estructuras socioeconómicas de los municipios incluidos en los parques naturales salvaguardando la estabilidad ecológica medioambiental de los mismos?:",
+      "a": "El Plan de Ordenación de los Recursos Naturales.",
+      "b": "El Plan Rector de Uso y gestión.",
+      "c": "El Plan de Desarrollo Integral.",
+      "d": "El Programa de Desarrollo Rural.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN470",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn aplicación de las determinaciones para la protección del litoral establecidas por la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad territorio de Andalucía, los terrenos incluidos en la zona de servidumbre de protección del dominio público marítimo terrestre deben tener la siguiente consideración por los instrumentos de ordenación urbanística:",
+      "a": "Ser clasificados como suelo no urbanizable de especial protección por la planificación sectorial.",
+      "b": "Ser clasificados como suelo rústico preservado por la planificación urbanística.",
+      "c": "Ser clasificados como suelo rústico o destinarlos a sistema general de espacios libres.",
+      "d": "Ser destinados a sistema general o local de espacios libres cuando se incluyan en actuaciones de nueva urbanización y carezcan de ordenación detallada.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN967",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\t¿Cuál de los siguientes ámbitos territoriales NO pertenece a la red de ciudades medias en el marco del sistema de ciudades definido por el Plan de Ordenación del Territorio de Andalucía, aprobado mediante el Decreto 206/2006, de 28 de noviembre?:",
+      "a": "Sierra de Cádiz.",
+      "b": "Sureste Árido-Almanzora.",
+      "c": "La Janda.",
+      "d": "Valle del Guadiato-Los Pedroches.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN668",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSegún el art. 40 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, están sometidos a evaluación ambiental estratégica ordinaria los siguientes instrumentos de ordenación urbanística:",
+      "a": "Los planes especiales que desarrollen actuaciones propuestas por los instrumentos de ordenación territorial.",
+      "b": "Los planes especiales que establezcan la ordenación detallada de los sistemas generales portuarios y aeroportuarios.",
+      "c": "Los programas coordinados para la gestión territorial.",
+      "d": "Los planes especiales que establezcan determinaciones complementarias para mejorar el medio ambiente y el paisaje, así como para implementar medidas contra el cambio climático en ámbitos definidos sobre cualquier clase de suelo.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN523",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, son espacios naturales protegidos con figuras de ámbito autonómico:",
+      "a": "Parques Nacionales, Parques Naturales y Reservas Naturales.",
+      "b": "Parques Naturales, Reservas Naturales, Lugares de Interés Comunitario y Zona Especialmente Protegida de Importancia para el Mediterráneo.",
+      "c": "Parques Periurbanos, Monumentos Naturales, Reservas Naturales y Parajes Naturales.",
+      "d": "Parajes\tnaturales,\tMonumentos\tNaturales,\tReservas\tNaturales,\tParques\tNaturales\ty Geoparques.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN955",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSon procedimientos de prevención y control ambiental en el marco de lo establecido por la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental:",
+      "a": "Autorización ambiental unificada, autorización ambiental integrada, calificación ambiental y estudio de impacto ambiental.",
+      "b": "Declaración ambiental estratégica, informe ambiental estratégico, evaluación de impacto ambiental y calificación ambiental.",
+      "c": "Evaluación ambiental estratégica, autorización ambiental unificada, autorización ambiental integrada y calificación ambiental.",
+      "d": "Calificación ambiental, evaluación ambiental estratégica y estudio de impacto ambiental.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN218",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún lo establecido en el Anexo I, Categorías de actuaciones sometidas a los instrumentos de prevención y control ambiental, de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, los campamentos permanentes para tiendas de campaña en suelo rústico con superficie superior a 1 hectárea y capacidad mínima de 500 huéspedes, están sometidos al siguiente procedimiento de prevención y control ambiental:",
+      "a": "Autorización ambiental integrada.",
+      "b": "Autorización ambiental unificada con procedimiento abreviado.",
+      "c": "Calificación ambiental.",
+      "d": "Autorización ambiental unificada.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN362",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 46 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad territorio de Andalucía, las actuaciones propuestas por los planes de ordenación del territorio podrán desarrollarse mediante:",
+      "a": "Planes con incidencia en la ordenación del territorio.",
+      "b": "Planes de desarrollo sostenible.",
+      "c": "Proyectos de Actuación Autonómicos.",
+      "d": "Programas coordinados para la gestión territorial.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN200",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 50 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad territorio de Andalucía, la Declaración de Interés Autonómico de una actuación por el Consejo de Gobierno legitima directamente su desarrollo y ejecución, y, en consecuencia:",
+      "a": "Afectará y comprenderá todas las obras correspondientes a las actuaciones objeto de la declaración.",
+      "b": "Sus determinaciones vinculan directamente a los instrumentos de ordenación urbanística de los municipios afectados y quedan directamente incorporados a los mismos.",
+      "c": "Conlleva la tramitación paralela de la modificación de los instrumentos de ordenación territorial cuando sus determinaciones supongan una alteración de dichos planes.",
+      "d": "Llevará implícita, en todo caso, la declaración de la utilidad pública y la necesidad de urgente ocupación a los efectos de la expropiación forzosa de los bienes y adquisición de derechos necesarios para la ejecución de la actuación y para su conexión a las redes generales.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN929",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 49 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad territorio de Andalucía, corresponde acordar la formulación de los Planes con Incidencia en la Ordenación del territorio:",
+      "a": "Al Consejo de Gobierno.",
+      "b": "A la persona titular de la Consejería competente en materia de Ordenación del Territorio.",
+      "c": "A la Comisión Delegada de Asuntos Económicos.",
+      "d": "A la persona titular de la Consejería competente en la materia objeto de planificación.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN271",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 44 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad territorio de Andalucía, NO forman parte del contenido de los planes de ordenación del territorio de ámbito subregional:",
+      "a": "La indicación del inventario de los dominios públicos y sus servidumbres del ámbito.",
+      "b": "Previsiones y directrices de localización de viviendas protegidas en el ámbito.",
+      "c": "Previsiones y directrices para la localización de las grandes superficies minoristas.",
+      "d": "Definición de un sistema de indicadores gestión, sostenibilidad y resultado.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN171",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 14 de la Orden de 29 de octubre de 2021, sobre cierre del ejercicio presupuestario de 2021 y apertura del ejercicio presupuestario de 2022:",
+      "a": "En los remanentes de créditos relativos a los Fondos de la Unión Europea, corresponde la propuesta de su incorporación a la Dirección General de Fondos Europeos, con anterioridad al cierre del ejercicio presupuestario.",
+      "b": "En los remanentes de créditos relativos a los Fondos de la Unión Europea, corresponde la propuesta de su incorporación a la Dirección General de Presupuestos de la Consejería de Hacienda y Financiación Europea, una vez cerrado el ejercicio presupuestario.",
+      "c": "En los remanentes de créditos relativos a proyectos financiados por el Fondo de Compensación Interterritorial, corresponde la propuesta de su incorporación a la Dirección General de Análisis, Planificación y Política Económica, una vez cerrado el ejercicio presupuestario.",
+      "d": "En los remanentes de créditos relativos a los Fondos de la Unión Europea, corresponde la propuesta de su incorporación a la Dirección General de Fondos Europeos, previo informe de la Secretaría General de Fondos Europeos del Ministerio de Hacienda y Función Pública.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN799",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo que tiene la Administración para dictar resolución expresa en los procedimientos administrativos es:",
+      "a": "El fijado por la norma reguladora del correspondiente procedimiento que no podrá ser superior a cinco meses.",
+      "b": "Tres meses en todos los procedimientos.",
+      "c": "Tres meses en los casos que la norma reguladora del procedimiento no fije plazo máximo.",
+      "d": "Seis meses en los procedimientos iniciados a solicitud del interesado.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN747",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el Título V, relativo a la revisión de los actos en vía administrativa, de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra los actos firmes en vía administrativa NO procede interponer:",
+      "a": "Recurso potestativo de reposición.",
+      "b": "Recurso extraordinario de revisión.",
+      "c": "Recurso de alzada.",
+      "d": "Recurso contencioso-administrativo.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN962",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el art. 245 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, NO es causa de resolución del contrato de obras:",
+      "a": "El desistimiento.",
+      "b": "La demora injustificada en la comprobación del replanteo.",
+      "c": "La suspensión de la iniciación de las obras por plazo superior a tres meses desde la firma del acta de comprobación del replanteo.",
+      "d": "La suspensión de las obras por plazo superior a ocho meses por parte de la Administración.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN401",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSegún el art. 47 del Decreto Legislativo 1/2010, de 2 de marzo, por el que se aprueba el texto refundido de la Ley General de Hacienda Pública de la Junta de Andalucía, corresponde a la persona titular de la Consejería competente en la materia de hacienda las siguientes modificaciones presupuestarias:",
+      "a": "Autorizar las transferencias entre créditos de operaciones financieras, independientemente de su cuantía y destino.",
+      "b": "Autorizar ampliaciones de crédito hasta una suma igual a las obligaciones cuyo reconocimiento sea preceptivo.",
+      "c": "Autorizar las generaciones de créditos en los estados de gastos siempre que no excedan de",
+      "d": "Autorizar las transferencias de créditos destinadas a modificar las dotaciones de los fondos carentes de personalidad jurídica.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN793",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el art. 86 y 88 del Decreto Legislativo 1/2010, de 2 de marzo, por el que se aprueba el texto refundido de la Ley General de Hacienda Pública de la Junta de Andalucía, la función de control previo de la actividad financiera corresponde a:",
+      "a": "La Dirección General de Presupuestos de la Consejera competente en materia de hacienda.",
+      "b": "La Comisión delegada de asuntos Económicos.",
+      "c": "La Cámara de Cuentas.",
+      "d": "La Intervención General.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN634",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEn virtud de lo establecido en el Título II de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, son Fondos de Convergencia Autonómica, creados con aportación de recursos del Estado con los objetivos de aproximar las Comunidades Autónomas en términos de financiación por habitante ajustado y de favorecer el equilibrio económico territorial, contribuyendo a la igualdad y la equidad:",
+      "a": "Los Fondos de Competitividad y de Cooperación.",
+      "b": "El Fondo de Suficiencia Global.",
+      "c": "Los Fondos de Compensación Interterritorial.",
+      "d": "El Fondo de Garantía de Servicios Públicos Fundamentales.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN798",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tLa Ley 18/2003, de 29 de diciembre, de Medidas Fiscales y Administrativas, establece los siguientes tributos propios en la Comunidad Autónoma de Andalucía:",
+      "a": "Tasas por tramitación de expedientes administrativos.",
+      "b": "Impuesto sobre los vertidos al dominio público hidráulico.",
+      "c": "Impuesto sobre la gestión de residuos inertes y peligrosos.",
+      "d": "Impuesto sobre vertidos a las aguas litorales.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN456",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tLa Estrategia de impulso del sector TIC Andalucía 2020, aprobado mediante Acuerdo del Consejo de Gobierno de 16 de mayo de 2017, constituye el instrumento de la Junta de Andalucía para incrementar la competitividad del sector de las Tecnologías de la Información y la Comunicación de Andalucía y tiene como marco político los siguientes instrumentos de planificación europeo y estatal.",
+      "a": "Estrategia Europa 2020.",
+      "b": "Programa Operativo Feader.",
+      "c": "Plan Anual de Política de Empleo 2022.",
+      "d": "Estrategia Española de Economía Circular y Planes de Acción.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN790",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\t¿En qué provincia andaluza se encuentran los restos de la ciudad romana de Munigua, elevada al estatus de Municipio en tiempos del emperador Vespasiano (siglo I d.C) como Municipium Flavium Muniguense?",
+      "a": "Provincia de Málaga.",
+      "b": "Provincia de Córdoba.",
+      "c": "Provincia de Cádiz.",
+      "d": "Provincia de Sevilla.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN294",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tSi se visita el enclave arqueológico de Turóbriga, en el municipio de Aroche (Huelva), se pueden contemplar los restos de:",
+      "a": "Un poblado turdetano del siglo III a.C.",
+      "b": "Un castro celta del siglo III a.C.",
+      "c": "Una ciudad hispanorromana fundada a mediados del siglo I d.C.",
+      "d": "Dólmenes de época neolítica y de la Edad del Cobre.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN053",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDurante la época del califato omeya de Córdoba, se produjeron sucesivas ampliaciones de la Mezquita de Córdoba. A finales del siglo X se produjo la última de estas ampliaciones. ¿Qué gobernante ordenó dicha ampliación?",
+      "a": "Almanzor.",
+      "b": "Abderraman II.",
+      "c": "Abderraman III.",
+      "d": "Hisham III.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN103",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\t¿Cuál de los siguientes bienes andaluces NO forman parte del Patrimonio Mundial de la UNESCO?",
+      "a": "La ciudad califal de Medina Azahara (Córdoba).",
+      "b": "Sitio de los Dólmenes de Antequera (Málaga).",
+      "c": "Conjuntos Monumentales Renacentistas de Úbeda y Baeza (Jaén).",
+      "d": "Catedral y Centro Histórico de Cádiz.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN778",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\t¿En cuál de estos monumentos representativos del periodo renacentista en Andalucía participó activamente el arquitecto Andrés de Vandelvira?",
+      "a": "Santa Iglesia Catedral Metropolitana Basílica de la Encarnación de Granada.",
+      "b": "Sacra Capilla del Salvador en Úbeda (Jaén).",
+      "c": "Palacio de Carlos V en la Alhambra de Granada.",
+      "d": "Casa Lonja de Sevilla.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN135",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl lenguaje del movimiento moderno se introdujo en las ciudades andaluzas a través de las tipologías que albergaban los nuevos usos sociales, entre ellas los cines. Un importante ejemplo de dichas tipologías es el Cine Torcal de Antequera (1933-1934), muy influido por la estética del art decó. ¿Qué arquitecto es el autor de dicho edificio?",
+      "a": "José Galnares Segastizábal.",
+      "b": "Antonio Sánchez Esteve.",
+      "c": "Luis Gutiérrez Soto.",
+      "d": "Guillermo Langle Rubio.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN132",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl Instituto Nacional de Colonización desarrolló durante los años 1940 a 1970 una serie de poblados de colonización en Andalucía. Para su diseño, dicho órgano contó con una serie de jóvenes arquitectos, que introdujeron el lenguaje racionalista en unas tipologías derivadas de la arquitectura popular, generando una interesante síntesis entre tradición y modernidad. Son ejemplos de ello los poblados de “Miraelrío” en Vilches (Jaén) y “La Vereda” en Peñaflor (Sevilla), ambos proyectados por:",
+      "a": "Alejandro de la Sota Martínez.",
+      "b": "Luis Gutiérrez Soto.",
+      "c": "Antonio Fernández Alba.",
+      "d": "José Luis Fernández del Amo.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN343",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tUna de las actuaciones relevantes que desarrolló la administración de la Comunidad Autónoma de Andalucía a partir del año 1982, fue dotarse de inmuebles con destino a implantar sus sedes administrativas, entre ellos el edificio “Torretriana”, donde se ubican las sedes de varias consejerías. ¿Quién fue el autor de dicho edificio?",
+      "a": "Guillermo Vázquez Consuegra.",
+      "b": "Juan Navarro Baldeweg.",
+      "c": "Julio Cano Lasso.",
+      "d": "Francisco Javier Sáenz de Oiza.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN402",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\t¿Quiénes son los autores de la rehabilitación del Gran Teatro Falla de Cádiz, promovida por la Junta de Andalucía en el marco del programa de rehabilitación de teatros públicos en Andalucía y finalizada en 1989?",
+      "a": "Antonio Cruz Villalón y Antonio Ortiz García.",
+      "b": "José Antonio Carbajal Navarro y Rafael Otero González.",
+      "c": "Juan Ruesga Navarro y Guadalupe Patón Contreras.",
+      "d": "Víctor Pérez Escolano y Antonio González Cordón.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN424",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tConforme establece el art. 2 del Decreto 20/2010, de 2 de febrero, por el que se regula la Comisión de Impacto de Género en los Presupuestos de la Comunidad Autónoma de Andalucía, es una sus funciones:",
+      "a": "Emitir el informe de evaluación de impacto de género sobre el anteproyecto de Ley del Presupuesto de la Comunidad Autónoma de cada ejercicio.",
+      "b": "Emitir el informe de evaluación de impacto de género sobre el proyecto de Ley del Presupuesto de la Comunidad Autónoma de cada ejercicio.",
+      "c": "Emitir el informe de evaluación de impacto de género sobre la Ley del Presupuesto de la Comunidad Autónoma de cada ejercicio.",
+      "d": "Comprobar que se ha emitido por el órgano directivo correspondiente, el informe de evaluación de impacto de género sobre el proyecto de Ley del Presupuesto de la Comunidad Autónoma de cada ejercicio.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN900",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tSegún establece el art. 8 de la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género:",
+      "a": "La Consejería competente en materia de violencia de género elaborará anualmente un Plan de medidas de prevención y protección contra la violencia de género en Andalucía.",
+      "b": "El Consejo de Gobierno aprobará cada cinco años un Plan integral de sensibilización y prevención contra la violencia de género en Andalucía.",
+      "c": "El Parlamento aprobará el Plan anual de prevención y protección integral contra la violencia de género en Andalucía.",
+      "d": "La Consejería competente en materia de igualdad ejecutará el Plan estatal anual de protección integral contra la violencia de género.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN868",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún se establece en el art. 60 de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio en Andalucía, los Catálogos se integran:",
+      "a": "Entre los instrumentos de ordenación urbanística detallada.",
+      "b": "Entre los instrumentos de ordenación urbanística general.",
+      "c": "Entre los instrumentos de desarrollo del planeamiento general.",
+      "d": "Entre los instrumentos complementarios de ordenación urbanística.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN404",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tLa Carta internacional para la conservación de las ciudades históricas es la:",
+      "a": "Carta de Cracovia del año 2000.",
+      "b": "Carta del Restauro del año 1932.",
+      "c": "Carta de Toledo del año 1986.",
+      "d": "Carta de Nizhny Tagil del año 2003.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN877",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEn virtud del art. 9.4 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, la obra de un autor vivo:",
+      "a": "Podrá ser declarada siempre Bien de Interés Cultural mediante Real Decreto del Ministerio con competencia en materia de patrimonio histórico, previo informe favorable del Consejo de Estado.",
+      "b": "No podrá declararse Bien de Interés Cultural, salvo si existe autorización expresa de su propietario o media su adquisición por la Administración.",
+      "c": "No podrá ser declarada en ningún caso Bien de Interés Cultural.",
+      "d": "No podrá declararse Bien de Interés Cultural, salvo si existe peligro de su exportación fuera del territorio nacional.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN209",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEn virtud del art. 14 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, los bienes inmuebles integrados en el Patrimonio Histórico Español pueden ser declarados, entre otros, como:",
+      "a": "Lugares de Interés Industrial.",
+      "b": "Zonas Patrimoniales.",
+      "c": "Zonas Arqueológicas.",
+      "d": "Lugares de Interés Etnológico.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN449",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\t¿A qué administración compete la declaración como BIC de un bien ubicado en Andalucía, adscrito a servicios públicos gestionados por la Administración del Estado o que formen parte del Patrimonio Nacional, según el art. 6.b de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español?",
+      "a": "A la Consejería competente en materia de patrimonio histórico de la Comunidad Autónoma, previa audiencia a la Administración del Estado.",
+      "b": "Al Consejo de Gobierno de la Comunidad Autónoma, previa audiencia a la Administración del Estado.",
+      "c": "A la Administración del Estado.",
+      "d": "A la Consejería de Hacienda de la Comunidad Autónoma.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN697",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tSeñálese, de las siguientes, la afirmación correcta en su totalidad. En virtud del art. 7 de la Ley 14/2007, de noviembre, del Patrimonio Histórico de Andalucía, el Catálogo General del Patrimonio Histórico de Andaluz, comprende:",
+      "a": "Los Bienes de Interés Cultural, los bienes de catalogación general y los incluidos en el Inventario General de Bienes Muebles del Patrimonio Histórico Español.",
+      "b": "Los Bienes de Interés Cultural, los bienes de catalogación general y los incluidos en el Inventario de Bienes Reconocidos del Patrimonio Histórico Andaluz.",
+      "c": "Los bienes de catalogación general y los incluidos en el Inventario de Bienes Reconocidos del Patrimonio Histórico Andaluz.",
+      "d": "Los bienes inscritos en el Catálogo General del Patrimonio Histórico de Andaluz con carácter específico, y los incluidos en el mismo con carácter genérico.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN845",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEn virtud del art. 30 de la Ley 14/2007, de noviembre, del Patrimonio Histórico de Andalucía, deberán incluir el contenido de protección establecido en el artículo 31 los planes urbanísticos que afecten a:",
+      "a": "Monumentos.",
+      "b": "Sitios Históricos.",
+      "c": "Jardines Históricos.",
+      "d": "Zonas Arqueológicas.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN863",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tSegún el art. 11 de la Ley 14/2007, de noviembre, del Patrimonio Histórico de Andalucía, la inscripción del bien deberá llevar aparejado el establecimiento de las instrucciones particulares, que concreten para el bien y su entorno la forma en que deben materializarse las obligaciones generales previstas en dicha Ley, en los casos de:",
+      "a": "La inscripción de un bien de catalogación general en el Catálogo General de Patrimonio Histórico Andaluz.",
+      "b": "La inscripción con carácter específico de un bien en el Catálogo General de Patrimonio Histórico Andaluz.",
+      "c": "La inscripción de un Bien de Interés Cultural en el Catálogo General de Patrimonio Histórico Andaluz.",
+      "d": "La inscripción de un bien en el Inventario de Bienes Reconocidos del Patrimonio Histórico Andaluz.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN768",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tAprobados definitivamente los planes con contenido de protección contemplados en el art. 30 de la Ley 14/2007, de noviembre, del Patrimonio Histórico de Andalucía, en virtud del art. 40 de la citada Ley, los municipios afectados podrán solicitar la delegación de competencias para autorizar directamente las obras que desarrollen o ejecuten el planeamiento urbanístico aprobado y que afecten a:",
+      "a": "Sitios Históricos.",
+      "b": "Sitios Históricos.",
+      "c": "Jardines Históricos.",
+      "d": "Zonas Arqueológicas.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN180",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 6 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas establece los principios relativos a los bienes y derechos de dominio público, entre los que NO se encuentran:",
+      "a": "Inalienabilidad, inembargabilidad e imprescriptibilidad.",
+      "b": "Adecuación y suficiencia de los bienes para servir al uso general o al servicio público a que estén destinados.",
+      "c": "El destino preferente de vial, dotación o equipamiento público.",
+      "d": "Dedicación preferente al uso común frente a su uso privativo.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN958",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 90 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, establece que los funcionarios de carrera se hallarán en alguna de las situaciones citadas en el artículo, entre la que se encuentra la suspensión de funciones. La suspensión determinará la pérdida del puesto de trabajo cuando exceda de:",
+      "a": "3 meses.",
+      "b": "6 meses.",
+      "c": "1 año.",
+      "d": "2 años.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN389",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 60 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que la ordenación urbanística se llevará a cabo mediante los siguientes instrumentos de ordenación urbanística general:",
+      "a": "El Plan General de Ordenación Urbanística, el Plan de Ordenación Intermunicipal y el Plan de Sectorización.",
+      "b": "El Plan General de Ordenación Municipal, el Plan de Ordenación Intermunicipal y el Plan Básico de Ordenación Municipal.",
+      "c": "El Plan General de Ordenación Municipal, el Plan de Ordenación Intermunicipal, el Plan Básico de Ordenación Municipal y el Plan de Ordenación Urbana.",
+      "d": "El Plan General de Ordenación Municipal, el Plan de Ordenación Intermunicipal, el Plan Básico de Ordenación Municipal y el Plan de Ordenación Urbana, cuando en este último caso, abarque la totalidad del suelo urbano.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN043",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 60 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que la ordenación urbanística se llevará a cabo mediante los siguientes instrumentos de ordenación urbanística detallada:",
+      "a": "Los Planes Parciales de Ordenación, los Planes Especiales de Reforma Interior y los Estudios de Detalle.",
+      "b": "Los Planes de Ordenación Urbana, los Planes Parciales de Ordenación, los Estudios de Ordenación, los Planes Especiales de Reforma Interior y restantes Planes Especiales.",
+      "c": "Los Planes de Ordenación Urbana, los Planes Parciales de Ordenación, los Planes de Reforma Interior, los Estudios de Ordenación y los Planes Especiales.",
+      "d": "Los Planes de Ordenación Urbana, los Planes Parciales de Ordenación, los Planes de Reforma Interior, los Estudios de Ordenación, los Planes Especiales y los Estudios de Detalle.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN583",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 5 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que podrán tener el carácter de Normas, Directrices o Recomendaciones las determinaciones de los siguientes instrumentos de ordenación:",
+      "a": "Exclusivamente, en los instrumentos de ordenación territorial.",
+      "b": "En los instrumentos de ordenación territorial y urbanística.",
+      "c": "En los instrumentos de ordenación territorial y en los instrumentos de ordenación urbanística general, pero no en los instrumentos de ordenación detallada.",
+      "d": "El planeamiento territorial y urbanístico.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN794",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 67 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que los Planes Parciales de Ordenación tienen por objeto delimitar y establecer la ordenación detallada y la programación de:",
+      "a": "Actuaciones sobre vacíos en suelo urbano y de nueva urbanización en suelo urbanizable sectorizado.",
+      "b": "Actuaciones sobre vacíos en suelo urbano y de nueva urbanización en suelo rústico.",
+      "c": "Actuaciones de nueva urbanización en suelo urbano y rústico.",
+      "d": "Actuaciones de nueva urbanización en suelo rústico.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN836",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEl art. 69 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que los Estudios de Ordenación tienen por objeto la delimitación, ordenación detallada y la programación de:",
+      "a": "Actuaciones sobre suelo urbano no consolidado.",
+      "b": "Actuaciones urbanísticas sobre suelo urbano no consolidado.",
+      "c": "Actuaciones de mejora urbana en suelo urbano.",
+      "d": "Actuaciones de mejora urbana y reforma interior en suelo urbano.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN298",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl artículo 88 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que la ejecución de las actuaciones de transformación urbanística o actuaciones urbanísticas, se desarrollarán por ejecución sistemática o asistemática:",
+      "a": "Las actuaciones de nueva urbanización.",
+      "b": "Las actuaciones de reforma interior.",
+      "c": "Las actuaciones mejora urbana.",
+      "d": "Las actuaciones urbanísticas.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN802",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 7 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, incluye entre las actuaciones de urbanización:",
+      "a": "Las actuaciones de nueva urbanización, las actuaciones que tengan por objeto reformar o renovar la urbanización y las actuaciones de dotación.",
+      "b": "Las actuaciones de nueva urbanización, las actuaciones de mejora urbana y las actuaciones de reforma interior.",
+      "c": "Las actuaciones de nueva urbanización, las actuaciones que tengan por objeto reformar o renovar la urbanización y las actuaciones de dotación cuando comprendan obras de urbanización.",
+      "d": "Las actuaciones de nueva urbanización y las actuaciones que tengan por objeto reformar o renovar la urbanización.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN670",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEl art. 21.1 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, establece que todo el suelo se encuentra en las siguientes situaciones básicas:",
+      "a": "De suelo rural o de suelo urbanizado.",
+      "b": "De suelo rural, de suelo rural previsto su transformación urbanística o suelo urbanizado.",
+      "c": "De suelo rústico o suelo urbano.",
+      "d": "De suelo rústico, de suelo rústico delimitado para una actuación de nueva urbanización o suelo urbano.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN138",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 13 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que conforman el suelo urbano los terrenos que, estando integrados en la malla urbana, cumplan entre otros supuestos el siguiente:",
+      "a": "Los que están transformados urbanísticamente por contar con acceso rodado por vía urbana y conexión en red con los servicios básicos de abastecimiento de agua, saneamiento y suministro de energía eléctrica.",
+      "b": "Los que el Plan General de Ordenación Municipal o el Plan Básico de Ordenación Municipal, clasifiquen como suelo urbano.",
+      "c": "Los que el Plan General de Ordenación Urbanística clasifiquen como suelo urbano.",
+      "d": "Los que no tengan la clasificación de suelo rústico.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN806",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 13 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que la condición de solar se extingue:",
+      "a": "Por la aprobación definitiva de un instrumento de ordenación urbanística detallada.",
+      "b": "Por la entrada en vigor de un instrumento de ordenación urbanística detallada.",
+      "c": "Por la inadecuación sobrevenida de su urbanización o por su integración en actuaciones de transformación urbanística.",
+      "d": "Por la inadecuación sobrevenida de su urbanización o por su integración en actuaciones de transformación urbanística o actuaciones urbanísticas.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN368",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tLos art. 21 y 22 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, regulan las actuaciones ordinarias y extraordinarias en suelo rústico. En relación a dichas actuaciones, diga cuales de las siguientes afirmaciones NO es cierta:",
+      "a": "Las actuaciones ordinarias requieren licencia urbanística municipal.",
+      "b": "Las actuaciones ordinarias incluyen las edificaciones destinadas a uso residencial.",
+      "c": "Las actuaciones extraordinarias no podrán autorizar viviendas unifamiliares aisladas.",
+      "d": "Las actuaciones extraordinarias requieren de una autorización previa a la licencia municipal.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN472",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 38.6 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, establece que la declaración ambiental estratégica de un plan o programa, tiene la naturaleza de:",
+      "a": "Informe facultativo.",
+      "b": "Informe preceptivo.",
+      "c": "Informe preceptivo y vinculante.",
+      "d": "Informe preceptivo y determinante.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN546",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEl art. 62 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que, en caso de discrepancia entre los distintos documentos que deben incorporar los instrumentos de ordenación urbanística, prevalecerá:",
+      "a": "La Memoria de Ordenación.",
+      "b": "La Normativa Urbanística.",
+      "c": "La Cartografía de Ordenación.",
+      "d": "La Memoria Económica.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN489",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 75 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que corresponde a los municipios las competencias relativas a la tramitación y aprobación de los siguientes instrumentos de ordenación urbanística:",
+      "a": "Los Planes Generales de Ordenación Municipal, los Planes de Ordenación Intermunicipal y los Planes Básicos de Ordenación Municipal.",
+      "b": "Todos los instrumentos de ordenación urbanística, excepto los Planes de Ordenación Intermunicipal.",
+      "c": "Todos los instrumentos de ordenación urbanística, excepto los Planes de Ordenación Intermunicipal y los Planes Especiales que tengan incidencia supralocal.",
+      "d": "Todos los instrumentos de ordenación urbanística, excepto los Planes de Ordenación Intermunicipal, los Planes Especiales que tengan incidencia supralocal y las Normas Directoras.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN620",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tEl art. 78 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece que durante la tramitación de los instrumentos de ordenación urbanística, se podrá acordar la suspensión del otorgamiento de toda clase de aprobaciones, autorizaciones y licencias urbanísticas, cuyo plazo no podrá ser superior desde el acuerdo de aprobación inicial a:",
+      "a": "1 año.",
+      "b": "2 años.",
+      "c": "3 años.",
+      "d": "4 años.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN394",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 138.6 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece los actos sujetos a comunicación previa, entre la que NO se incluye:",
+      "a": "Los cambios de titularidad de las licencias y declaraciones responsables.",
+      "b": "El inicio de obras.",
+      "c": "La terminación de las obras.",
+      "d": "Las prórrogas del plazo para el inicio y terminación de las obras con licencia o declaración responsable en vigor.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN100",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tEl art. 153 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece el siguiente plazo para restablecer la legalidad territorial y urbanística:",
+      "a": "4 años.",
+      "b": "6 años.",
+      "c": "8 años.",
+      "d": "10 años.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN023",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 161 de la Ley de 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, establece como infracción urbanística muy grave:",
+      "a": "Las actuaciones que perjudiquen los espacios o bienes preservados por la ordenación urbanística, por la existencia de riesgos o por sus valores naturales o paisajísticos.",
+      "b": "La expedición por profesionales o entidades urbanísticas certificadoras de informes, certificados o documentos similares con inexactitudes, falsedades u omisiones sustanciales para su traslado a la Administración.",
+      "c": "La realización de actuaciones sin licencias, aprobaciones u otros actos administrativos necesarios o sin ajustarse a sus términos, sean o no legalizables.",
+      "d": "La ejecución de acometidas de suministros básicos sin autorización.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN931",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 36 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, establece que en valoración del suelo rural, los terrenos se tasarán por su:",
+      "a": "Valor catastral.",
+      "b": "Valor de mercado.",
+      "c": "Valor por capitalización de la renta anual.",
+      "d": "Valor por capitalización de la renta anual, pudiendo considerarse la asignación de edificabilidades y usos previstos en una actuación de nueva urbanización.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN303",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tLa Ley 11/2021, de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal (…), establece que servirá como base imponible de los Impuestos sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (ITP y AJD) y sobre Sucesiones y Donaciones (ISD):",
+      "a": "El valor catastral.",
+      "b": "El valor de mercado.",
+      "c": "El valor de capitalización.",
+      "d": "El valor de referencia.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN396",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tLa Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía, tiene por objeto garantizar, en el ámbito de la Comunidad Autónoma de Andalucía, el derecho constitucional y estatutario a una vivienda digna y adecuada, del que son titulares:",
+      "a": "Las personas físicas o jurídicas con vecindad administrativa en cualquier territorio del estado español en las condiciones establecidas en la misma.",
+      "b": "Las personas físicas o jurídicas con vecindad administrativa en la Comunidad Autónoma de Andalucía en las condiciones establecidas en la misma.",
+      "c": "Las personas físicas con vecindad administrativa en la Comunidad Autónoma de Andalucía en las condiciones establecidas en la misma.",
+      "d": "Las personas físicas con vecindad administrativa en cualquier territorio del estado español en las condiciones establecidas en la misma.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN437",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 3 de la La Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía, las viviendas que se construyan en Andalucía tendrán que ser viviendas dignas y adecuadas, debiendo incorporar:",
+      "a": "Parámetros de sostenibilidad y eficiencia.",
+      "b": "Sistemas constructivos recogidos en el Código Técnico de la Edificación.",
+      "c": "Análisis de ciclo de vida de los materiales que se utilicen en su construcción.",
+      "d": "Sistemas constructivos que garanticen una vida útil de 75 años.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN287",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tEl art. 4 del Decreto 91/2020, de 30 de junio, por el que se regula el Plan Vive en Andalucía, de vivienda, rehabilitación y regeneración urbana de Andalucía 2020-2030, determina que la administración de la Junta de Andalucía desarrollará su política pública en materia de vivienda mediante la aplicación efectiva varios principios rectores, entre los que se encuentran:",
+      "a": "La transparencia, austeridad y eficacia.",
+      "b": "La equidad, transversalidad y complementariedad.",
+      "c": "La promoción y concertación social.",
+      "d": "La eficiencia y eficacia.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN943",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tEl art. 16 de la Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía, determina que están obligados a crear y a mantener los Registros Públicos Municipales de Demandantes de Vivienda Protegida, de manera permanente:",
+      "a": "La Junta de Andalucía.",
+      "b": "Las Diputaciones Provinciales.",
+      "c": "Los Ayuntamientos.",
+      "d": "La Junta de Andalucía en coordinación con los Ayuntamientos.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN175",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 1 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, cuando las Administraciones públicas y los organismos y entidades sujetos a la legislación de contratos de las Administraciones públicas actúen como agentes del proceso de la edificación se regirán por lo dispuesto:",
+      "a": "En la legislación de contratos de las Administraciones públicas y en lo no contemplado en la misma por lo que se establezca en el clausulado de los contratos suscritos.",
+      "b": "En las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+      "c": "En la legislación de contratos de las Administraciones públicas y en lo no contemplado en la misma por las disposiciones de la Ley 38/1999, de 5 de noviembre, a excepción de lo dispuesto sobre garantías de suscripción obligatoria.",
+      "d": "En la legislación de contratos de las Administraciones públicas y en lo no contemplado en la misma por lo dispuesto en las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, a excepción de lo dispuesto sobre garantías de suscripción obligatoria.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN651",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 6 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, la recepción de la obra es el acto formal por el cual:",
+      "a": "El constructor, una vez concluida ésta, hace entrega de la misma al promotor y es aceptada por éste.",
+      "b": "La dirección facultativa, una vez concluida ésta, hace entrega de la certificación final al promotor y es aceptada por éste.",
+      "c": "El promotor, una vez concluida ésta, abona al constructor la liquidación final.",
+      "d": "La dirección facultativa certifica el final de la ejecución de las obras, de acuerdo al proyecto técnico redactado.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN589",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 9 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, entre las obligaciones del promotor se encuentra:",
+      "a": "Disponer de la clasificación necesaria de acuerdo al tipo de obra que se realiza.",
+      "b": "Resolver las contingencias que se produzcan en la obra.",
+      "c": "Ejecutar la obra con sujeción al proyecto, a la legislación aplicable y a las instrucciones del director de obra y del director de la ejecución de la obra, a fin de alcanzar la calidad exigida en el proyecto.",
+      "d": "Ostentar sobre el solar la titularidad de un derecho que le faculte para construir en él.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN001",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 13 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se entiende que una “obra” es:",
+      "a": "El resultado de un conjunto de trabajos de construcción, destinado a cumplir por sí mismo una función técnica, que tenga por objeto un bien.",
+      "b": "El resultado de un conjunto de trabajos de carácter técnico, destinado a cumplir por sí mismo una función habitacional o dotacional.",
+      "c": "El resultado de un conjunto de trabajos de carácter técnico, que tienen por objeto la creación o modificación de un bien inmueble.",
+      "d": "El resultado de un conjunto de trabajos de construcción o de ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN380",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 35 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos deberán incluir:",
+      "a": "El precio unitario.",
+      "b": "El precio estimado o el modo de determinarlo.",
+      "c": "El precio cierto o el modo de determinarlo.",
+      "d": "El precio global.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN959",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 62 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos de obra las facultades del responsable del contrato serán ejercidas por:",
+      "a": "Una persona designada por el órgano de contratación.",
+      "b": "El director facultativo.",
+      "c": "Una persona designada por el adjudicatario.",
+      "d": "El técnico redactor del proyecto.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN008",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 118 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se consideran contratos menores:",
+      "a": "Los contratos de valor cierto inferior a 40.000 euros (IVA incluido), cuando se trate de contratos de obras, o a 15.000 euros (IVA incluido), cuando se trate de contratos de suministro o de servicios.",
+      "b": "Los contratos de valor estimado inferior a 50.000 euros (IVA incluido), cuando se trate de contratos de obras, o a 18.000 euros (IVA incluido), cuando se trate de contratos de suministro o de servicios.",
+      "c": "Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+      "d": "Los contratos de valor estimado inferior a 50.000 euros, cuando se trate de contratos de obras, o a 18.000 euros, cuando se trate de contratos de suministro o de servicios.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN969",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 122 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los Pliegos de Cláusulas Administrativas Particulares deberán aprobarse:",
+      "a": "Tras la autorización del gasto y siempre antes de la licitación del contrato.",
+      "b": "Previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+      "c": "Conjuntamente con la autorización del gasto.",
+      "d": "Con licitación del contrato.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN432",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 160 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento restringido:",
+      "a": "Solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación.",
+      "b": "Todos los empresarios que acrediten la solvencia requerida podrán presentar solicitudes y proposiciones.",
+      "c": "Solo podrán presentar solicitudes aquellos empresarios que sean seleccionados, en atención a su solvencia, por el órgano de contratación.",
+      "d": "Solo los empresarios que sean seleccionados, en atención a su solvencia, por el órgano de contratación podrán presentar solicitudes y proposiciones.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN285",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 183 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son concursos de proyectos los procedimientos encaminados a la obtención:",
+      "a": "La calidad de la arquitectura.",
+      "b": "Equipos técnicos cualificados.",
+      "c": "Ideas arquitectónicas que permitan el posterior desarrollo de proyectos.",
+      "d": "Planos o proyectos.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN227",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 231 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la adjudicación de un contrato de obras requerirá la previa:",
+      "a": "Elaboración, supervisión y aprobación del correspondiente proyecto.",
+      "b": "Elaboración, supervisión, aprobación y replanteo del correspondiente proyecto.",
+      "c": "Elaboración y supervisión del correspondiente proyecto.",
+      "d": "Elaboración, supervisión, aprobación, replanteo y acta de inicio del correspondiente proyecto.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN166",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": ".\tDe acuerdo al art. 235 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los proyectos de presupuesto base de licitación inferior a 500.000 euros, IVA excluido, el informe de supervisión tendrá:",
+      "a": "Carácter facultativo, emitiéndose a criterio del órgano de contratación.",
+      "b": "Carácter facultativo, salvo que se trate de obras con afección a sectores económicos estratégicos.",
+      "c": "En todo caso, carácter preceptivo.",
+      "d": "Carácter facultativo, salvo que se trate de obras que afecten a la estabilidad, seguridad o estanqueidad de la obra en cuyo caso el informe de supervisión será preceptivo.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN274",
+      "RESPUESTA": "d"
+    },
+    {
+      "pregunta": "0.\tDe acuerdo al art. 242 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, cuando se considere necesaria una modificación del proyecto y se cumplan los requisitos que a tal efecto regula dicha Ley, se solicitará al órgano de contratación la autorización del inicio del correspondiente expediente, por parte del:",
+      "a": "Director facultativo de la obra.",
+      "b": "Contratista.",
+      "c": "Promotor.",
+      "d": "Director de la ejecución de la obra.",
+      "origen": "JUNTA_2019_2021",
+      "fid": "JUN534",
+      "RESPUESTA": "a"
     }
+  
   ]
 }

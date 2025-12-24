@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quiz por Tema</title>
     <style>
+        :root {
+            /* Colores por defecto (blanco para modo examen) */
+            --color-correct: rgba(255, 255, 255, 1);
+            --color-wrong: rgba(255, 255, 255, 1);
+        }
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -32,11 +38,13 @@
             border-radius: 6px;
             margin-bottom: 12px;
             cursor: pointer;
+            transition: background 0.3s ease;
         }
-        .option.correct { background: rgba(255, 255, 255, 1); }
-        .option.wrong { background: rgba(255, 255, 255, 1); }
+        
+        /* Uso de variables para poder cambiarlas con JS */
+        .option.correct { background: var(--color-correct); }
+        .option.wrong { background: var(--color-wrong); }
 
-        /* Contenedor de estadísticas invisible por defecto */
         #stats-container {
             font-size: 12px;
             margin-top: 5px;
@@ -54,6 +62,7 @@
             justify-content: space-between;
             gap: 5px;
             margin-top: 20px;
+            flex-wrap: wrap; /* Para que no se amontonen en móviles */
         }
         button {
             padding: 10px 12px;
@@ -62,6 +71,8 @@
             cursor: pointer;
             border-radius: 6px;
             font-size: 13px;
+            flex: 1; /* Distribuye espacio equitativo */
+            min-width: fit-content;
         }
         #temaSelect {
             width: 100%;
@@ -98,6 +109,7 @@
             <button id="btnAtras">Atrás</button>
             <button id="btnMenu">Reiniciar Tema</button>
             <button id="btnRevelar">Mostrar Puntuación</button>
+            <button id="btnResultados">Mostrar Resultados</button>
             <button id="btnSiguiente">Siguiente</button>
         </div>
 
@@ -158,11 +170,12 @@
             const temaTexto = (tema === "TODOS") ? "Todas las preguntas" : tema;
             document.getElementById("temaActual").textContent = temaTexto ? `Tema: ${temaTexto}` : "";
             
-            // Resetear estado del botón y visibilidad
-            const stats = document.getElementById("stats-container");
-            const btn = document.getElementById("btnRevelar");
-            stats.style.color = "white";
-            btn.textContent = "Mostrar Puntuación";
+            // Resetear visibilidad de puntos y colores
+            document.getElementById("stats-container").style.color = "white";
+            document.getElementById("btnRevelar").textContent = "Mostrar Puntuación";
+            document.getElementById("btnResultados").textContent = "Mostrar Resultados";
+            document.documentElement.style.setProperty('--color-correct', 'rgba(255, 255, 255, 1)');
+            document.documentElement.style.setProperty('--color-wrong', 'rgba(255, 255, 255, 1)');
 
             if (!tema) {
                 preguntasFiltradas = [];
@@ -280,7 +293,9 @@
             puntuacionDiv.textContent = `Puntuación: ${notaFinal}`;
         }
 
-        // --- Lógica del botón Toggle ---
+        // --- BOTONES ---
+
+        // Revelar Puntuación
         document.getElementById("btnRevelar").onclick = function() {
             const stats = document.getElementById("stats-container");
             if (this.textContent === "Mostrar Puntuación") {
@@ -289,6 +304,19 @@
             } else {
                 stats.style.color = "white";
                 this.textContent = "Mostrar Puntuación";
+            }
+        };
+
+        // Revelar Resultados (Colores)
+        document.getElementById("btnResultados").onclick = function() {
+            if (this.textContent === "Mostrar Resultados") {
+                document.documentElement.style.setProperty('--color-correct', 'rgba(0, 200, 0, 0.3)');
+                document.documentElement.style.setProperty('--color-wrong', 'rgba(200, 0, 0, 0.3)');
+                this.textContent = "Ocultar Resultados";
+            } else {
+                document.documentElement.style.setProperty('--color-correct', 'rgba(255, 255, 255, 1)');
+                document.documentElement.style.setProperty('--color-wrong', 'rgba(255, 255, 255, 1)');
+                this.textContent = "Mostrar Resultados";
             }
         };
 

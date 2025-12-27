@@ -274,23 +274,30 @@
         function actualizarContador() {
             const contadorDiv = document.getElementById("contadorPuntos");
             const puntuacionDiv = document.getElementById("puntuacionMatematica");
-            
+    
             if (preguntasFiltradas.length === 0) {
                 contadorDiv.textContent = "";
                 puntuacionDiv.textContent = "";
-                return;
-            }
-            
+            return;
+                }
+    
             const aciertos = preguntasFiltradas.filter(p => p.seleccionado && p.seleccionado === p.RESPUESTA).length;
             const respondidas = preguntasFiltradas.filter(p => p.seleccionado).length;
             const errores = respondidas - aciertos;
-            const pt = preguntasFiltradas.length;
 
-            const calculo = (aciertos - (errores / 4)) * (50 / pt);
-            const notaFinal = Math.max(0, calculo).toFixed(3);
+            // --- NUEVOS AJUSTES SEGÚN TUS BASES ---
+            const V = 1.2; // Valor de cada acierto
+            const calculo = V * (aciertos - (errores / 3));
+            const notaFinal = Math.max(0, calculo).toFixed(2);
+            // ---------------------------------------
 
-            contadorDiv.textContent = `${aciertos} de ${respondidas} acertadas`;
-            puntuacionDiv.textContent = `Puntuación: ${notaFinal}`;
+            const superado = notaFinal >= 36 ? " APTO" : " NO APTO";
+
+            contadorDiv.textContent = `Puntuación: ${notaFinal} / 90.00 Status: ${superado}`;
+            
+            
+            // Cambiar color del texto según si aprueba o no (opcional)
+            puntuacionDiv.style.color = notaFinal >= 36 ? "#00bb00" : "#ff4444";
         }
 
         // --- BOTONES ---

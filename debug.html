@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz por Tema</title>
+    <style>
+        :root {
+            /* Colores por defecto (blanco para modo examen) */
+            --color-correct: rgba(255, 255, 255, 1);
+            --color-wrong: rgba(255, 255, 255, 1);
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #ffffff;
+            color: #000000;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .question-info {
+            font-size: 10px;
+            text-align: right;
+            margin-bottom: 10px;
+        }
+        .question {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .option {
+            border: 1px solid #f2f2f2;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        
+        /* Uso de variables para poder cambiarlas con JS */
+        .option.correct { background: var(--color-correct); }
+        .option.wrong { background: var(--color-wrong); }
+
+        #stats-container {
+            font-size: 12px;
+            margin-top: 5px;
+            text-align: left;
+            color: white; 
+            transition: color 0.2s ease;
+        }
+        .puntuacion-destacada {
+            font-weight: bold;
+            margin-top: 2px;
+        }
+
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+            gap: 5px;
+            margin-top: 20px;
+            flex-wrap: wrap; /* Para que no se amontonen en móviles */
+        }
+        button {
+            padding: 10px 12px;
+            background: transparent;
+            border: 1px solid #f2f2f2;
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 13px;
+            flex: 1; /* Distribuye espacio equitativo */
+            min-width: fit-content;
+        }
+        #temaSelect {
+            width: 100%;
+            padding: 12px;
+            margin-top: 20px;
+            border-radius: 6px;
+            border: 1px solid #f2f2f2;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        #btnDonar {
+            width: 100%;
+            padding: 12px;
+            background: #f0f0f0;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="temaActual" class="question-info"></div>
+
+        <div id="pregunta" class="question">Cargando preguntas...</div>
+        <div id="opciones"></div>
+        
+        <div id="stats-container">
+            <div id="contadorPuntos"></div>
+            <div id="puntuacionMatematica" class="puntuacion-destacada"></div>
+        </div>
+
+        <div class="buttons">
+            <button id="btnAtras">Atrás</button>
+            <button id="btnMenu">Reiniciar Tema</button>
+            <button id="btnRevelar">Mostrar Puntuación</button>
+            <button id="btnResultados">Mostrar Resultados</button>
+            <button id="btnSiguiente">Siguiente</button>
+        </div>
+
+        <select id="temaSelect">
+            <option value="">Selecciona un tema...</option>
+        </select>
+        
+        <button id="btnDonar">Donar</button>
+    </div>
+
+    <script>
+        let todasLasPreguntas = [];
+        let preguntasFiltradas = [];
+        let index = 0;
+        let opcionesMostradas = []; 
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        async function cargarPreguntas() {
+            const url = "https://raw.githubusercontent.com/javi241098/test_data/refs/heads/main/debug.json";
+            try {
+                const res = await fetch(url);
+                const data = await res.json();
+                todasLasPreguntas = data.preguntas || data; 
+                cargarTemas();
+            } catch (error) {
+                console.error("Error al cargar las preguntas:", error);
+                document.getElementById("pregunta").textContent = "Error al cargar las preguntas.";
+            }
+        }
+
+        function cargarTemas() {
+            const select = document.getElementById("temaSelect");
+            const opcionTodas = document.createElement("option");
+            opcionTodas.value = "TODOS";
+            opcionTodas.textContent = "Todas las preguntas (Examen 75)";
+            select.appendChild(opcionTodas);
+
+            const temasUnicos = [...new Set(todasLasPreguntas.map(p => p.origen))].sort();
+            temasUnicos.forEach(t => {
+                const op = document.createElement("option");
+                op.value = t;
+                op.textContent = t;
+                select.appendChild(op);
+            });
+
+            select.onchange = iniciarQuizPorTema;
+            document.getElementById("pregunta").textContent = "Selecciona un tema para empezar.";
+        }
+
+        function iniciarQuizPorTema() {
+            const tema = document.getElementById("temaSelect").value;
+            const temaTexto = (tema === "TODOS") ? "Todas las preguntas" : tema;
+            document.getElementById("temaActual").textContent = temaTexto ? `Tema: ${temaTexto}` : "";
+            
+            // Resetear visibilidad de puntos y colores
+            document.getElementById("stats-container").style.color = "white";
+            document.getElementById("btnRevelar").textContent = "Mostrar Puntuación";
+            document.getElementById("btnResultados").textContent = "Mostrar Resultados";
+            document.documentElement.style.setProperty('--color-correct', 'rgba(255, 255, 255, 1)');
+            document.documentElement.style.setProperty('--color-wrong', 'rgba(255, 255, 255, 1)');
+
+            if (!tema) {
+                preguntasFiltradas = [];
+                document.getElementById("pregunta").textContent = "Selecciona un tema.";
+                document.getElementById("opciones").innerHTML = "";
+                actualizarContador();
+                return;
+            }
+
+            let poolPreguntas = [];
+            if (tema === "TODOS") {
+                poolPreguntas = todasLasPreguntas.map(p => ({ ...p }));
+            } else {
+                poolPreguntas = todasLasPreguntas.filter(p => p.origen === tema).map(p => ({ ...p }));
+            }
+
+            shuffleArray(poolPreguntas);
+            preguntasFiltradas = poolPreguntas.slice(0, 75);
+            index = 0;
+
+            if (preguntasFiltradas.length > 0) {
+                mostrarPregunta();
+            } else {
+                document.getElementById("pregunta").textContent = "No hay preguntas disponibles.";
+                document.getElementById("opciones").innerHTML = "";
+            }
+            actualizarContador();
+        }
+
+        function barajarOpciones() {
+            const p = preguntasFiltradas[index];
+            opcionesMostradas = [
+                { letra: "a", texto: p.a },
+                { letra: "b", texto: p.b },
+                { letra: "c", texto: p.c },
+                { letra: "d", texto: p.d },
+            ];
+            if (!p.opcionesOrden) {
+                shuffleArray(opcionesMostradas);
+                p.opcionesOrden = opcionesMostradas; 
+            } else {
+                opcionesMostradas = p.opcionesOrden;
+            }
+        }
+
+        function mostrarPregunta() {
+            if (preguntasFiltradas.length === 0) return;
+            const p = preguntasFiltradas[index];
+            document.getElementById("pregunta").textContent =
+                `Pregunta ${index + 1} de ${preguntasFiltradas.length}: ${p.pregunta}`;
+
+            barajarOpciones();
+            const div = document.getElementById("opciones");
+            div.innerHTML = "";
+
+            opcionesMostradas.forEach(op => {
+                const btn = document.createElement("div");
+                btn.className = "option";
+                btn.textContent = op.texto;
+                btn.dataset.letra = op.letra;
+                btn.onclick = () => seleccionarRespuesta(op.letra);
+                div.appendChild(btn);
+            });
+
+            if (p.seleccionado) {
+                seleccionarRespuesta(p.seleccionado, true);
+                deshabilitarOpciones();
+            }
+            actualizarContador();
+        }
+
+        function deshabilitarOpciones() {
+            document.querySelectorAll('.option').forEach(el => {
+                el.style.pointerEvents = 'none';
+            });
+        }
+
+        function seleccionarRespuesta(letraSeleccionada, esRegreso = false) {
+            if (!esRegreso && preguntasFiltradas[index].seleccionado) return;
+            if (!esRegreso) {
+                preguntasFiltradas[index].seleccionado = letraSeleccionada;
+            }
+            const correcta = preguntasFiltradas[index].RESPUESTA; 
+            document.querySelectorAll('.option').forEach(el => {
+                const op = el.dataset.letra; 
+                if (op === correcta) {
+                    el.classList.add("correct");
+                } else if (op === letraSeleccionada) {
+                    el.classList.add("wrong");
+                }
+            });
+            deshabilitarOpciones();
+            actualizarContador();
+        }
+
+        function actualizarContador() {
+            const contadorDiv = document.getElementById("contadorPuntos");
+            const puntuacionDiv = document.getElementById("puntuacionMatematica");
+    
+            if (preguntasFiltradas.length === 0) {
+                contadorDiv.textContent = "";
+                puntuacionDiv.textContent = "";
+            return;
+                }
+    
+            const aciertos = preguntasFiltradas.filter(p => p.seleccionado && p.seleccionado === p.RESPUESTA).length;
+            const respondidas = preguntasFiltradas.filter(p => p.seleccionado).length;
+            const errores = respondidas - aciertos;
+
+            // --- NUEVOS AJUSTES SEGÚN TUS BASES ---
+            const V = 1.2; // Valor de cada acierto
+            const calculo = V * (aciertos - (errores / 3));
+            const notaFinal = Math.max(0, calculo).toFixed(2);
+            // ---------------------------------------
+
+            
+
+            contadorDiv.textContent = `${aciertos} aciertos, ${errores} errores de ${respondidas} respondidas; Puntuación: ${notaFinal} / 90.00 `;
+            
+            
+            // Cambiar color del texto según si aprueba o no (opcional)
+            puntuacionDiv.style.color = notaFinal >= 36 ? "#00bb00" : "#ff4444";
+        }
+
+        // --- BOTONES ---
+
+        // Revelar Puntuación
+        document.getElementById("btnRevelar").onclick = function() {
+            const stats = document.getElementById("stats-container");
+            if (this.textContent === "Mostrar Puntuación") {
+                stats.style.color = "#666";
+                this.textContent = "Ocultar Puntuación";
+            } else {
+                stats.style.color = "white";
+                this.textContent = "Mostrar Puntuación";
+            }
+        };
+
+        // Revelar Resultados (Colores)
+        document.getElementById("btnResultados").onclick = function() {
+            if (this.textContent === "Mostrar Resultados") {
+                document.documentElement.style.setProperty('--color-correct', 'rgba(0, 200, 0, 0.3)');
+                document.documentElement.style.setProperty('--color-wrong', 'rgba(200, 0, 0, 0.3)');
+                this.textContent = "Ocultar Resultados";
+            } else {
+                document.documentElement.style.setProperty('--color-correct', 'rgba(255, 255, 255, 1)');
+                document.documentElement.style.setProperty('--color-wrong', 'rgba(255, 255, 255, 1)');
+                this.textContent = "Mostrar Resultados";
+            }
+        };
+
+        document.getElementById("btnSiguiente").onclick = () => {
+            if (index < preguntasFiltradas.length - 1) {
+                index++;
+                mostrarPregunta();
+            } else if (index === preguntasFiltradas.length - 1 && preguntasFiltradas.length > 0) {
+                alert("¡Examen Terminado!");
+            }
+        };
+
+        document.getElementById("btnAtras").onclick = () => {
+            if (index > 0) {
+                index--;
+                mostrarPregunta();
+            }
+        };
+
+        document.getElementById("btnMenu").onclick = () => {
+            iniciarQuizPorTema();
+        };
+
+        cargarPreguntas();
+    </script>
+</body>
+</html>

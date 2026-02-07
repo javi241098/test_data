@@ -1,0 +1,304 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Según el artículo 22, las actuaciones en suelo rústico deberán ser compatibles con la ordenación. A estos efectos, ¿qué usos y actuaciones se consideran compatibles?",
+      "a": "Aquellos que estén expresamente permitidos en la legislación sectorial.",
+      "b": "Los usos y actuaciones que no estén expresamente prohibidos.",
+      "c": "Únicamente los usos ordinarios y extraordinarios detallados en la Ley.",
+      "d": "Aquellos que cuenten con informe favorable de la Administración.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_01",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 23.3, para preservar las características del hábitat rural diseminado, los instrumentos de ordenación no podrán proponer una ordenación que suponga una densidad superior a:",
+      "a": "Cuatro viviendas por hectárea.",
+      "b": "Dos viviendas por hectárea.",
+      "c": "Tres viviendas por hectárea.",
+      "d": "Cinco viviendas por hectárea.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_02",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 24.2.c), induce a la formación de un nuevo asentamiento la agrupación de edificaciones cuando, en un círculo de 200 metros de radio, existan al menos:",
+      "a": "Cinco edificaciones o construcciones de uso residencial, industrial o terciario.",
+      "b": "Diez edificaciones o construcciones de uso exclusivamente residencial.",
+      "c": "Seis edificaciones o construcciones de uso residencial, industrial o terciario.",
+      "d": "Ocho edificaciones o construcciones de cualquier uso.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_03",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "En relación con la agrupación de edificaciones del artículo 24.2.c), ¿computan las instalaciones desmontables de uso ganadero y agrícola?",
+      "a": "Sí, siempre que superen los 10 metros cuadrados.",
+      "b": "No, tales como invernaderos, umbráculos, mangas o pajares.",
+      "c": "Sí, en todo caso.",
+      "d": "Solo si tienen una altura superior a cuatro metros.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_04",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 24.2.f), se presumirá que ocurre el trazado de viarios propios de zonas urbanas y suburbanas no previstos cuando:",
+      "a": "Se abran o amplíen caminos con una anchura de rodadura superior a cuatro metros.",
+      "b": "Se asfalten caminos existentes independientemente de su anchura.",
+      "c": "Se abran o amplíen caminos con una anchura de rodadura superior a tres metros.",
+      "d": "Se realicen obras de compactación en cualquier camino rural.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_05",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 25.3, ¿cuándo se requerirá autorización previa para la ampliación de actuaciones extraordinarias implantadas?",
+      "a": "Cuando impliquen un incremento de la superficie ocupada o edificada superior al veinte por ciento.",
+      "b": "Cuando impliquen un incremento de la superficie ocupada o edificada superior al veinticinco por ciento sobre la inicialmente autorizada y, en todo caso, para los cambios de uso.",
+      "c": "Únicamente cuando suponga un cambio de uso, sin importar el incremento de superficie.",
+      "d": "Cuando el incremento de superficie supere el cincuenta por ciento.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_06",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El artículo 26.g) prohíbe la ejecución de muros de cerramiento con elementos ciegos que:",
+      "a": "Superen los 2 metros de altura.",
+      "b": "No utilicen materiales autóctonos de la zona.",
+      "c": "Limiten el campo visual o produzcan la ruptura de la armonía o desfiguración del paisaje.",
+      "d": "No permitan el paso de pequeña fauna.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_07",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 27.1, ¿se consideran usos ordinarios los vinculados a las energías renovables?",
+      "a": "No, son considerados usos extraordinarios en todo caso.",
+      "b": "Sí, junto con los vinculados al aprovechamiento hidráulico y las infraestructuras del ciclo del agua.",
+      "c": "Solo si son para autoconsumo de la explotación agraria.",
+      "d": "Sí, pero solo la energía eólica y solar.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_08",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 28.5, las actuaciones ordinarias podrán considerarse como tales cuando la superficie de las edificaciones:",
+      "a": "No supere el uno por ciento de la superficie de la parcela.",
+      "b": "No supere el cinco por ciento de la superficie de la parcela.",
+      "c": "No supere el dos por ciento de la superficie de la parcela donde se desarrolla la explotación.",
+      "d": "No supere los 1.000 metros cuadrados en total.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_09",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 29.2, para edificaciones residenciales destinadas a trabajadores por temporada, ¿cuándo podrán tener la consideración de actuación extraordinaria?",
+      "a": "Cuando el número de trabajadores previsto sea superior a 10.",
+      "b": "Nunca, siempre son actuaciones ordinarias si son temporales.",
+      "c": "Cuando los alojamientos estén previstos para un conjunto de explotaciones, el número de trabajadores sea superior a 16 o se destinen a otros usos fuera de temporada.",
+      "d": "Cuando se construyan con materiales permanentes.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_10",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 31.1.b), ¿cuál es la superficie mínima de la parcela para autorizar una vivienda unifamiliar aislada no vinculada en terrenos forestales?",
+      "a": "2,5 hectáreas.",
+      "b": "5 hectáreas.",
+      "c": "10 hectáreas.",
+      "d": "No se permite en terrenos forestales.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_11",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 31.1.d), la superficie ocupada por la edificación destinada a vivienda unifamiliar aislada no vinculada no excederá de:",
+      "a": "El dos por ciento de la parcela.",
+      "b": "El uno por ciento de la parcela.",
+      "c": "200 metros cuadrados.",
+      "d": "El 0,5 por ciento de la parcela.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_12",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El artículo 24.2.e) considera que induce a la formación de nuevo asentamiento la edificación de nuevas viviendas no vinculadas a una distancia inferior a:",
+      "a": "100 metros medidos en línea recta de un asentamiento urbanístico.",
+      "b": "500 metros de un núcleo urbano.",
+      "c": "200 metros medidos en línea recta de un asentamiento urbanístico, agrupación de viviendas irregulares o hábitat rural diseminado.",
+      "d": "250 metros de cualquier otra vivienda.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_13",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 26.d), en edificaciones con uso distinto al residencial, ¿se permite la ejecución de piscinas?",
+      "a": "Sí, siempre que sean desmontables.",
+      "b": "Sí, si se justifica por motivos de seguridad contra incendios.",
+      "c": "No, salvo que se justifique en alguna exigencia de la legislación sectorial.",
+      "d": "No, bajo ninguna circunstancia.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_14",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Conforme al artículo 28.4, las actividades complementarias podrán considerarse actuación ordinaria cuando la superficie de la edificación vinculada no supere:",
+      "a": "2.000 metros cuadrados.",
+      "b": "1.500 metros cuadrados.",
+      "c": "2.500 metros cuadrados.",
+      "d": "3.000 metros cuadrados.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_15",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El artículo 29.4 establece que la vinculación entre edificaciones residenciales y usos ordinarios deberá ser objeto de:",
+      "a": "Informe municipal vinculante.",
+      "b": "Escritura pública ante notario únicamente.",
+      "c": "Nota marginal en el Registro de la Propiedad.",
+      "d": "Autorización expresa de la Consejería.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_16",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Según el artículo 30.2, ¿qué se considera actuación de interés público o social que contribuye al desarrollo del medio rural?",
+      "a": "Cualquier actividad económica que genere más de 5 empleos.",
+      "b": "Las que contribuyan a diversificar la economía local de una forma sostenible basada en la economía verde y circular.",
+      "c": "Las viviendas de segunda residencia.",
+      "d": "Las instalaciones deportivas privadas.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_17",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "En el artículo 31.1.g), respecto a los servicios básicos de la vivienda unifamiliar aislada no vinculada, se establece que:",
+      "a": "Deben conectarse obligatoriamente a la red municipal.",
+      "b": "Deberán garantizarse de forma autónoma y preferentemente mediante instalaciones de autoconsumo con fuentes de energía renovable.",
+      "c": "El Ayuntamiento debe proveer los servicios hasta la parcela.",
+      "d": "Se permite el suministro mediante generadores diésel exclusivamente.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_18",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 23.1, se considera asentamiento urbanístico la agrupación de construcciones que:",
+      "a": "Esté situada únicamente en suelo urbano.",
+      "b": "Genere dinámicas de utilización del territorio o demande infraestructuras o servicios colectivos propios del suelo urbano.",
+      "c": "Tenga más de 10 viviendas.",
+      "d": "Haya sido legalizada por el Ayuntamiento.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_19",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El artículo 24.2.a).1ª establece que induce a nuevo asentamiento la división de terrenos cuando alguna de las divisiones resultantes:",
+      "a": "Tenga una superficie inferior a la unidad mínima de cultivo.",
+      "b": "Tenga una superficie inferior a lo establecido en la legislación agraria, ambiental o similar, sin perjuicio de excepciones.",
+      "c": "Sea inferior a 2.500 metros cuadrados.",
+      "d": "No tenga acceso directo a camino público.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_20",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Conforme al artículo 30.4.a), para actuaciones extraordinarias, con carácter general podrá autorizarse una vivienda cuando:",
+      "a": "El promotor lo solicite y pague las tasas correspondientes.",
+      "b": "Sea necesaria para su desarrollo económico y se justifique en funciones de vigilancia, asistencia, gestión o control.",
+      "c": "La parcela tenga más de 1 hectárea.",
+      "d": "Se destine a turismo rural.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_21",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 27.3, se entenderá que un uso produce la transformación de la naturaleza rústica del suelo cuando:",
+      "a": "Se construyan edificaciones de más de dos plantas.",
+      "b": "Se utilice hormigón en la cimentación.",
+      "c": "Provoque la pérdida irreversible de su capacidad vegetativa, de manera que esta no puede restaurarse al finalizar la actividad.",
+      "d": "Se elimine el arbolado existente en más de un 50%.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_22",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El artículo 26.f) prohíbe en suelo rústico:",
+      "a": "La instalación de carteles informativos de obras públicas.",
+      "b": "La instalación de contenedores de transporte para destinarlos a otros usos y los elementos publicitarios que no se destinen a información institucional.",
+      "c": "Cualquier tipo de vallado metálico.",
+      "d": "El estacionamiento de caravanas por más de 24 horas.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_23",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 24.2.c), para el cómputo de edificaciones en una agrupación, los conjuntos edificatorios que formen parte de una actuación autorizada:",
+      "a": "Computarán por cada edificio individualmente.",
+      "b": "No computarán en absoluto.",
+      "c": "Computarán como una única edificación, tomándose como referencia la edificación principal.",
+      "d": "Computarán como dos edificaciones.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_24",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "El artículo 31.1.e) establece que la superficie máxima edificable para vivienda unifamiliar aislada no vinculada no excederá del:",
+      "a": "Uno por ciento de la superficie de la finca.",
+      "b": "Dos por ciento de la superficie de la finca.",
+      "c": "Diez por ciento de la superficie de la finca.",
+      "d": "Cinco por ciento de la superficie de la finca.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_25",
+      "RESPUESTA": "a"
+    },
+    {
+      "pregunta": "Según el artículo 25.1, las obras de edificación de nueva planta en suelo rústico requerirán:",
+      "a": "Declaración responsable en todo caso.",
+      "b": "Licencia urbanística.",
+      "c": "Comunicación previa al Ayuntamiento.",
+      "d": "Informe favorable de Medio Ambiente exclusivamente.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_26",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 24.2.c).2ª, induce a la formación de nuevo asentamiento la agrupación cuando en un círculo de 200m existan al menos:",
+      "a": "Ocho edificaciones de cualquier uso.",
+      "b": "Diez edificaciones o construcciones de cualquier uso.",
+      "c": "Doce edificaciones de cualquier uso.",
+      "d": "Seis edificaciones de cualquier uso.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_27",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "Según el artículo 29.1, para justificar una vivienda vinculada a usos ordinarios, además de la parcela mínima, se requiere acreditar que:",
+      "a": "La vivienda tiene fines turísticos complementarios.",
+      "b": "La actividad constituye una unidad técnica, económica y empresarial.",
+      "c": "El propietario está empadronado en el municipio.",
+      "d": "La vivienda no supera los 150 metros cuadrados.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_28",
+      "RESPUESTA": "b"
+    },
+    {
+      "pregunta": "El artículo 31.1.f) dispone que la vivienda unifamiliar aislada no vinculada deberá respetar una distancia mínima a los linderos de:",
+      "a": "10 metros.",
+      "b": "50 metros.",
+      "c": "25 metros.",
+      "d": "15 metros.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_29",
+      "RESPUESTA": "c"
+    },
+    {
+      "pregunta": "Conforme al artículo 30.1, las actuaciones extraordinarias podrán implantarse siempre que:",
+      "a": "Sean promovidas exclusivamente por la Administración.",
+      "b": "No estén expresamente prohibidas por la legislación o por la ordenación territorial y urbanística.",
+      "c": "Se localicen en municipios de más de 10.000 habitantes.",
+      "d": "Cuenten con financiación europea.",
+      "origen": "Texto_Legal_Proporcionado",
+      "fid": "GEN_30",
+      "RESPUESTA": "b"
+    }
+  ]
+}

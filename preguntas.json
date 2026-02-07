@@ -14587,6 +14587,336 @@
       "RESPUESTA": "a"
     },
     {
+      "n": 1,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST001",
+      "pregunta": "Conforme a la Ley 7/2021 (LISTA), respecto a la clasificación del suelo, señale la afirmación INCORRECTA:",
+      "a": "El suelo se clasifica exclusivamente en suelo urbano y suelo rústico.",
+      "b": "El suelo urbanizable constituye una categoría residual dentro del suelo rústico común destinada a la transformación urbanística.",
+      "c": "Tendrán la condición de suelo rústico los terrenos que el instrumentos de ordenación territorial o urbanística preserven de su transformación.",
+      "d": "El suelo urbano comprende tanto el suelo urbano consolidado como el no consolidado.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 2,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST002",
+      "pregunta": "En el marco del Decreto 550/2022, las actuaciones de transformación urbanística en suelo rústico se delimitan mediante:",
+      "a": "El Plan General de Ordenación Municipal (PGOM) exclusivamente.",
+      "b": "El Plan de Ordenación Urbana (POU) en todos los casos.",
+      "c": "El instrumento de ordenación urbanística general o, en su caso, el Plan Parcial de Ordenación.",
+      "d": "No se pueden realizar actuaciones de transformación urbanística en suelo rústico, solo en el antiguo suelo urbanizable.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 3,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST003",
+      "pregunta": "Respecto a la aprobación de los instrumentos de ordenación urbanística, ¿cuál de las siguientes afirmaciones contiene una 'trampa' respecto a la competencia municipal?",
+      "a": "Corresponde al Pleno del Ayuntamiento la aprobación definitiva del Plan de Ordenación Urbana (POU).",
+      "b": "El Plan General de Ordenación Municipal (PGOM) requiere aprobación definitiva por la Consejería competente en materia de urbanismo.",
+      "c": "Los Estudios de Detalle son aprobados definitivamente por el Alcalde, salvo que los estatutos prevean otra cosa.",
+      "d": "La aprobación inicial de los instrumentos de planeamiento corresponde siempre al Pleno, sin posibilidad de delegación.",
+      "RESPUESTA": "d"
+    },
+    {
+      "n": 4,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST004",
+      "pregunta": "En cuanto al régimen de la declaración de ruina urbanística según el Reglamento, NO procederá cuando:",
+      "a": "El coste de las reparaciones supere el 50% del valor de una construcción de nueva planta de similares características.",
+      "b": "El coste de las reparaciones sea inferior al 50% del valor actual del edificio excluyendo el valor del suelo.",
+      "c": "Acredite el propietario que el valor de las obras de reparación supera el límite del deber normal de conservación.",
+      "d": "Exista una situación de ruina física inminente que no requiera valoración económica.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 5,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST005",
+      "pregunta": "¿Cuál es el plazo máximo para la resolución y notificación en el procedimiento de restablecimiento de la legalidad territorial y urbanística?",
+      "a": "6 meses, produciéndose la caducidad si no se notifica en dicho plazo.",
+      "b": "1 año, produciéndose la perención del procedimiento.",
+      "c": "1 año, produciéndose la caducidad si no se notifica en dicho plazo.",
+      "d": "3 meses, prorrogables por otros 3.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 6,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST006",
+      "pregunta": "Sobre la prescripción de las infracciones urbanísticas muy graves:",
+      "a": "Prescriben a los 3 años.",
+      "b": "Prescriben a los 4 años, salvo que afecten a zonas verdes o espacios libres que son imprescriptibles.",
+      "c": "Prescriben a los 4 años, y las sanciones impuestas por estas faltas a los 3 años.",
+      "d": "Son imprescriptibles en todo caso.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 7,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST007",
+      "pregunta": "En relación con las cesiones obligatorias y gratuitas en actuaciones de transformación urbanística de nueva urbanización:",
+      "a": "Se deberá ceder el 10% del aprovechamiento medio en todos los casos.",
+      "b": "El porcentaje podrá reducirse, justificadamente, hasta el 5% para facilitar la viabilidad económica.",
+      "c": "El porcentaje podrá incrementarse hasta el 20% para vivienda protegida exclusivamente.",
+      "d": "La cesión del aprovechamiento es opcional si el promotor paga una compensación en metálico al 100%.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 8,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST008",
+      "pregunta": "¿Qué ocurre con una licencia urbanística si transcurre el plazo máximo para resolver sin notificación expresa?",
+      "a": "Se entiende otorgada por silencio positivo en todos los casos.",
+      "b": "Se entiende denegada por silencio negativo siempre.",
+      "c": "Se entiende otorgada por silencio positivo, salvo que contravenga la legislación o el planeamiento urbanístico, en cuyo caso no se adquieren derechos (contra legem).",
+      "d": "El silencio es positivo excepto para obras menores.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 9,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST009",
+      "pregunta": "Respecto a las Casas Cueva (Hábitat Troglodítico) en la LISTA:",
+      "a": "Se consideran infravivienda y deben ser erradicadas.",
+      "b": "No tienen regulación específica y se tratan como suelo rústico común.",
+      "c": "Se reconoce como una tipología específica y los instrumentos de planeamiento podrán establecer una regulación particular para ellas.",
+      "d": "Solo se permiten en suelo urbano consolidado.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 10,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST010",
+      "pregunta": "La figura del 'Proyecto de Actuación' en la LISTA:",
+      "a": "Sigue vigente para actuaciones de interés público en suelo rústico.",
+      "b": "Ha sido sustituida por la autorización previa o licencia, requiriendo en algunos casos declaración de interés público.",
+      "c": "Se mantiene únicamente para proyectos industriales.",
+      "d": "Es necesario solo cuando no existe Plan Especial.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 11,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST011",
+      "pregunta": "Indique la afirmación FALSA respecto a la caducidad de las licencias urbanísticas:",
+      "a": "Las licencias se declararán caducadas automáticamente al pasar la fecha límite sin necesidad de audiencia al interesado.",
+      "b": "Se requiere declaración expresa de caducidad tras expediente con audiencia al interesado.",
+      "c": "Los plazos pueden ser prorrogados a solicitud del interesado antes de que finalicen.",
+      "d": "La caducidad opera tanto para el inicio como para la terminación de las obras.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 12,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST012",
+      "pregunta": "Sobre el Agente Urbanizador, la LISTA establece que:",
+      "a": "Debe ser necesariamente propietario de al menos el 50% de los terrenos.",
+      "b": "Puede ser cualquier persona física o jurídica, pública o privada, propietaria o no del suelo.",
+      "c": "Solo puede actuar en sistemas de ejecución pública (expropiación).",
+      "d": "Es una figura suprimida en la nueva legislación andaluza.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 13,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST013",
+      "pregunta": "Las 'Actuaciones de Mejora Urbana' se caracterizan por:",
+      "a": "Realizarse en suelo rústico para mejorar infraestructuras agrarias.",
+      "b": "Realizarse en suelo urbano, teniendo por objeto la reforma, regeneración o renovación de la urbanización existente.",
+      "c": "No conllevar nunca aumento de edificabilidad o densidad.",
+      "d": "Estar exentas del pago de licencias municipales.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 14,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST014",
+      "pregunta": "¿Cuál es la cuantía de la multa coercitiva según la LISTA para la ejecución forzosa?",
+      "a": "El 10% del valor de lo ordenado, con un mínimo de 600 euros.",
+      "b": "El 50% del valor de la obra ilegalmente construida.",
+      "c": "Hasta el 20% del valor de lo ordenado, reiterables por lapsos de tiempo suficientes.",
+      "d": "Fija de 3000 euros mensuales.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 15,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST015",
+      "pregunta": "En las parcelaciones urbanísticas, la regla de indivisibilidad de fincas:",
+      "a": "No se aplica si la parcela resultante es superior a 200 m².",
+      "b": "Impide la segregación si las parcelas resultantes no cumplen la parcela mínima edificable establecida en el planeamiento.",
+      "c": "Solo se aplica en suelo rústico especialmente protegido.",
+      "d": "Queda derogada por la libertad de mercado inmobiliario.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 16,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST016",
+      "pregunta": "El plazo para el ejercicio de la potestad de protección de la legalidad urbanística (restablecimiento) respecto a obras terminadas es:",
+      "a": "4 años desde la completa terminación de las obras.",
+      "b": "6 años desde la completa terminación de las obras.",
+      "c": "15 años para infracciones muy graves.",
+      "d": "No tiene plazo (imprescriptible) para cualquier obra sin licencia.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 17,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST017",
+      "pregunta": "Las Normas Directoras para la Ordenación Urbanística:",
+      "a": "Tienen por objeto establecer determinaciones básicas de ordenación para municipios sin PGOM.",
+      "b": "Son aprobadas por el Ayuntamiento y ratificadas por la Diputación.",
+      "c": "Son un instrumento de ordenación territorial, no urbanística.",
+      "d": "Pueden suspender la vigencia de los planes urbanísticos municipales para establecer normas transitorias.",
+      "RESPUESTA": "d"
+    },
+    {
+      "n": 18,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST018",
+      "pregunta": "La declaración responsable en materia de urbanismo:",
+      "a": "Sustituye a la licencia en todos los actos de construcción y uso del suelo.",
+      "b": "Faculta para realizar la actuación desde el día de su presentación, sin perjuicio de las potestades de comprobación.",
+      "c": "Requiere esperar 15 días tras su presentación para iniciar las obras.",
+      "d": "No es válida para obras de escasa entidad constructiva.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 19,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST019",
+      "pregunta": "Respecto a la situación de 'Asimilado a Fuera de Ordenación' (AFO), esta figura se aplica a:",
+      "a": "Edificaciones ilegales sobre las que aún no ha prescrito la acción de restablecimiento.",
+      "b": "Edificaciones construidas con licencia que posteriormente devienen disconformes con el nuevo planeamiento.",
+      "c": "Edificaciones irregulares terminadas sobre las que ha prescrito la acción de restablecimiento de la legalidad.",
+      "d": "Cualquier edificación en suelo rústico anterior a 1975.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 20,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST020",
+      "pregunta": "En los Planes Generales de Ordenación Municipal (PGOM), la delimitación del suelo urbano:",
+      "a": "Debe incluir los terrenos que ya cuenten con servicios urbanísticos básicos y estén consolidados por la edificación (al menos 2/3).",
+      "b": "Es discrecional para el Ayuntamiento independientemente del estado de los terrenos.",
+      "c": "No puede incluir núcleos rurales tradicionales.",
+      "d": "Requiere autorización previa del Consejo de Gobierno.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 21,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST021",
+      "pregunta": "Si un municipio no cuenta con Plan General de Ordenación Municipal, ¿qué normas se aplican supletoriamente?",
+      "a": "Las Normas Subsidiarias Provinciales.",
+      "b": "El Reglamento de Disciplina Urbanística estatal.",
+      "c": "Las determinaciones de la LISTA y su reglamento de aplicación directa.",
+      "d": "No se puede construir nada hasta que se apruebe el PGOM.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 22,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST022",
+      "pregunta": "La Junta de Compensación se constituye en el sistema de:",
+      "a": "Cooperación.",
+      "b": "Expropiación.",
+      "c": "Compensación.",
+      "d": "Ejecución forzosa.",
+      "RESPUESTA": "c"
+    },
+    {
+      "n": 23,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST023",
+      "pregunta": "¿Qué porcentaje mínimo de vivienda protegida se exige, con carácter general, en las actuaciones de nueva urbanización en la LISTA?",
+      "a": "30% de la edificabilidad residencial.",
+      "b": "10% de la edificabilidad residencial.",
+      "c": "50% de las viviendas proyectadas.",
+      "d": "No se exige porcentaje mínimo en municipios menores de 20.000 habitantes.",
+      "RESPUESTA": "a"
+    },
+    {
+      "n": 24,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST024",
+      "pregunta": "La inspección urbanística podrá entrar en domicilios particulares:",
+      "a": "Siempre que existan indicios de infracción, sin necesidad de autorización.",
+      "b": "Únicamente con consentimiento del titular o autorización judicial.",
+      "c": "Con autorización del Alcalde mediante decreto motivado.",
+      "d": "Solo en horario laboral y con presencia de la Policía Local.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 25,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST025",
+      "pregunta": "Las 'Actuaciones Ordinarias' en suelo rústico:",
+      "a": "Incluyen la construcción de viviendas unifamiliares aisladas no vinculadas a explotación.",
+      "b": "Son aquellas propias del uso agropecuario, forestal o análogo que no implican transformación urbanística.",
+      "c": "Requieren siempre Declaración de Interés Público.",
+      "d": "Están prohibidas en Suelo Rústico Especialmente Protegido.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 26,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST026",
+      "pregunta": "El canon por actuaciones extraordinarias en suelo rústico:",
+      "a": "Es un impuesto estatal cedido a la Comunidad Autónoma.",
+      "b": "Es una prestación compensatoria de carácter municipal destinada al Patrimonio Municipal de Suelo.",
+      "c": "No puede exceder del 5% del presupuesto de la obra.",
+      "d": "Se paga anualmente mientras dure la actividad.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 27,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST027",
+      "pregunta": "La competencia para imponer multas muy graves en materia urbanística corresponde a:",
+      "a": "El Alcalde siempre.",
+      "b": "La persona titular de la Consejería competente en materia de urbanismo, si la cuantía excede de 300.000 euros (según reglamento) o competencia municipal según cuantía.",
+      "c": "Exclusivamente a los Tribunales de lo Contencioso-Administrativo.",
+      "d": "El Pleno del Ayuntamiento en todos los casos.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 28,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST028",
+      "pregunta": "¿Qué instrumento de ordenación tiene por objeto la ordenación detallada del suelo urbano?",
+      "a": "El PGOM.",
+      "b": "El POU (Plan de Ordenación Urbana).",
+      "c": "El Plan Territorial de Andalucía.",
+      "d": "El Avance de Planeamiento.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 29,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST029",
+      "pregunta": "La división horizontal en edificaciones existentes:",
+      "a": "No requiere licencia si el edificio es legal.",
+      "b": "Requiere licencia urbanística o declaración de innecesariedad para verificar que no se infringe el número máximo de viviendas.",
+      "c": "Es un acto meramente civil ante notario sin trascendencia urbanística.",
+      "d": "Solo se permite en edificios con antigüedad superior a 10 años.",
+      "RESPUESTA": "b"
+    },
+    {
+      "n": 30,
+      "origen": "LISTA/Reglamento 2025",
+      "fid": "LST030",
+      "pregunta": "Para la vivienda unifamiliar aislada en suelo rústico (actuación extraordinaria), la LISTA exige:",
+      "a": "Que la parcela mínima sea de 2.500 m².",
+      "b": "Que no se induzca a la formación de nuevos asentamientos y se justifique su necesidad o idoneidad.",
+      "c": "Que esté vinculada obligatoriamente a una explotación agrícola.",
+      "d": "Que se encuentre a menos de 100 metros del suelo urbano.",
+      "RESPUESTA": "b"
+    },
+    {
       "n": 31,
       "origen": "LISTA/Reglamento 2025 - Nivel Experto",
       "fid": "LST031",
@@ -14916,6 +15246,6 @@
       "d": "Edificios de oficinas exclusivamente.",
       "RESPUESTA": "b"
     }
-
+  
   ]
 }

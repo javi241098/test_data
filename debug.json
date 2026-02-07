@@ -151,7 +151,7 @@
       "RESPUESTA": "c"
     },
     {
-      "pregunta": "El artículo 29.4 establece que la vinculación entre edificaciones residenciales y usos ordinarios deberá ser objeto de:",
+      "pregunta": "El artículo 29.4 establece que la vinculación entre edificaciones residenciales y usos ordinarios del suelo rústico deberá ser objeto de:",
       "a": "Informe municipal vinculante.",
       "b": "Escritura pública ante notario únicamente.",
       "c": "Nota marginal en el Registro de la Propiedad.",
@@ -301,4 +301,5 @@
       "RESPUESTA": "b"
     }
   ]
+
 }
